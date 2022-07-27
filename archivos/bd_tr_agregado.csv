@@ -1,56 +1,56 @@
-pais,genero,recurso_defendido,num
-Colombia,Mujer,Especies,2
-Honduras,Lgbt,Agua,2
-Colombia,No Aplica,Aire,1
-Brasil,Hombre,Agua,61
-México,Mujer,Tierra,21
-México,NA,Agua,1
-Honduras,No Aplica,Agua,2
-Honduras,Hombre,Bosque,36
-Colombia,NA,Bosque,1
-Colombia,Hombre,Aire,1
-México,Hombre,Tierra,82
-México,Hombre,Agua,32
-México,Mujer,Bosque,8
-Honduras,Mujer,Tierra,139
-México,No Aplica,Bosque,5
-México,Mujer,Especies,5
-Brasil,Sin Información,Tierra,9
+pais,genero,recurso_defendido,numero_eventos
 Brasil,Hombre,Tierra,468
-Brasil,Mujer,Bosque,20
-Colombia,Hombre,Agua,46
-Colombia,Mujer,Aire,1
-Honduras,Hombre,Especies,1
-Brasil,Hombre,Especies,1
-México,No Aplica,Agua,6
-Colombia,Mujer,Agua,21
-Brasil,No Aplica,Bosque,27
-México,No Aplica,Tierra,11
-México,Hombre,Bosque,63
-Colombia,Mujer,Bosque,2
-Colombia,No Aplica,Bosque,1
-Honduras,Mujer,Agua,25
-Colombia,Hombre,Tierra,159
 Colombia,No Aplica,Tierra,9
-Colombia,Hombre,Especies,3
-Honduras,NA,Agua,2
+Colombia,NA,Bosque,1
+Honduras,Hombre,Especies,1
+Colombia,Hombre,Tierra,159
+México,Mujer,Tierra,21
+Honduras,Mujer,Agua,25
+Colombia,No Aplica,Aire,1
+México,No Aplica,Bosque,5
+Honduras,Hombre,Bosque,36
 Honduras,Mujer,Bosque,7
-Honduras,Hombre,Agua,91
-Colombia,Mujer,Tierra,23
-Brasil,Mujer,Tierra,85
-México,No Aplica,Especies,2
-Colombia,Hombre,Bosque,15
-Brasil,NA,Tierra,21
-Brasil,NA,Bosque,2
+Colombia,Mujer,Agua,21
+México,No Aplica,Tierra,11
 Brasil,No Aplica,Agua,4
-Colombia,No Aplica,Agua,10
-Honduras,No Aplica,Tierra,6
-México,Mujer,Agua,5
-Brasil,Sin Información,Bosque,5
-Honduras,Hombre,Tierra,369
-Brasil,Hombre,Bosque,114
 México,Hombre,Especies,4
 Brasil,No Aplica,Tierra,81
 Honduras,NA,Tierra,5
-Brasil,Mujer,Agua,17
+Brasil,Sin Información,Bosque,5
+Brasil,Hombre,Agua,61
+México,Hombre,Bosque,63
+México,Hombre,Tierra,82
+Honduras,NA,Agua,2
+México,Mujer,Especies,5
+México,NA,Agua,1
+México,No Aplica,Especies,2
+Brasil,NA,Tierra,21
+Honduras,No Aplica,Tierra,6
+México,Mujer,Bosque,8
+Colombia,Hombre,Aire,1
+México,Hombre,Agua,32
+Brasil,Mujer,Tierra,85
+Brasil,Hombre,Especies,1
+Brasil,Sin Información,Tierra,9
+Colombia,Mujer,Aire,1
+Colombia,Hombre,Agua,46
+Colombia,Hombre,Bosque,15
+Brasil,No Aplica,Bosque,27
+Colombia,No Aplica,Bosque,1
+Honduras,Lgbt,Agua,2
+Honduras,Mujer,Tierra,139
+Colombia,Mujer,Especies,2
 Colombia,NA,Especies,1
+Colombia,Mujer,Bosque,2
+Brasil,Hombre,Bosque,114
+Colombia,No Aplica,Agua,10
+Colombia,Mujer,Tierra,23
+Honduras,No Aplica,Agua,2
+México,No Aplica,Agua,6
+México,Mujer,Agua,5
+Brasil,Mujer,Bosque,20
+Brasil,Mujer,Agua,17
+Honduras,Hombre,Tierra,369
+Brasil,NA,Bosque,2
+Honduras,Hombre,Agua,91
+Colombia,Hombre,Especies,3
