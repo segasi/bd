@@ -1,0 +1,199 @@
+pais,año,tipo_regimen_gral,tipo_regimen,pib_pc,poblacion
+Argentina,1970,Militar,Militar,11639,23962.313
+Argentina,1971,Militar,Militar,12003,24363.816
+Argentina,1972,Militar,Militar,12170,24779.799
+Argentina,1973,Militar,Militar,12691,25209.829
+Argentina,1974,Democracia,Democracia,13284,25646.371
+Argentina,1975,Democracia,Democracia,12946,26081.88
+Argentina,1976,Democracia,Democracia,12696,26531.28
+Argentina,1977,Militar,Militar,13236,26983.828
+Argentina,1978,Militar,Militar,12444,27440.272
+Argentina,1979,Militar,Militar,13114,27901.971
+Argentina,1980,Militar,Militar,13080,28369.799
+Bolivia,1970,Militar,Militar,3469,4346.218
+Bolivia,1971,Militar,Militar,3513,4454.684
+Bolivia,1972,Militar,Militar-Personal,3602,4565.872
+Bolivia,1973,Militar,Militar-Personal,3757,4679.923
+Bolivia,1974,Militar,Militar-Personal,3854,4796.24
+Bolivia,1975,Militar,Militar-Personal,4010,4914.316
+Bolivia,1976,Militar,Militar-Personal,4219,4955.744
+Bolivia,1977,Militar,Militar-Personal,4289,5079.716
+Bolivia,1978,Militar,Militar-Personal,4328,5204.622
+Bolivia,1979,Militar,Militar-Personal,4227,5326.981
+Bolivia,1980,Democracia,Régimen provisional,4100,5441.298
+Brasil,1970,Militar,Militar,4635,95684.297
+Brasil,1971,Militar,Militar,5024,98265
+Brasil,1972,Militar,Militar,5480,100874
+Brasil,1973,Militar,Militar,6086,103513
+Brasil,1974,Militar,Militar,6416,106182
+Brasil,1975,Militar,Militar,6582,108879
+Brasil,1976,Militar,Militar,7079,111603
+Brasil,1977,Militar,Militar,7248,114373
+Brasil,1978,Militar,Militar,7425,117207
+Brasil,1979,Militar,Militar,7736,120101
+Brasil,1980,Militar,Militar,8249,123020
+Chile,1970,Democracia,Democracia,8195,9368.558
+Chile,1971,Democracia,Democracia,8773,9540.298
+Chile,1972,Democracia,Democracia,8520,9717.524
+Chile,1973,Democracia,Democracia,7911,9896.635
+Chile,1974,Militar,Militar-Personal,7857,10076.544
+Chile,1975,Militar,Militar-Personal,6731,10251.542
+Chile,1976,Militar,Militar-Personal,6868,10432.214
+Chile,1977,Militar,Militar-Personal,7438,10599.793
+Chile,1978,Militar,Militar-Personal,7936,10759.823
+Chile,1979,Militar,Militar-Personal,8475,10922.822
+Chile,1980,Militar,Militar-Personal,9024,11093.718
+Colombia,1970,Democracia,Democracia,4932,21429.658
+Colombia,1971,Democracia,Democracia,5091,21992.579
+Colombia,1972,Democracia,Democracia,5348,22542.89
+Colombia,1973,Democracia,Democracia,5577,23069.231
+Colombia,1974,Democracia,Democracia,5767,23598
+Colombia,1975,Democracia,Democracia,5772,24125
+Colombia,1976,Democracia,Democracia,5918,24638
+Colombia,1977,Democracia,Democracia,6046,25119
+Colombia,1978,Democracia,Democracia,6443,25575
+Colombia,1979,Democracia,Democracia,6658,26072
+Colombia,1980,Democracia,Democracia,6786,26631
+Costa Rica,1970,Democracia,Democracia,5984,1735.523
+Costa Rica,1971,Democracia,Democracia,6199,1785.636
+Costa Rica,1972,Democracia,Democracia,6564,1834.796
+Costa Rica,1973,Democracia,Democracia,6884,1886.035
+Costa Rica,1974,Democracia,Democracia,7061,1937.413
+Costa Rica,1975,Democracia,Democracia,7007,1991.58
+Costa Rica,1976,Democracia,Democracia,7182,2048.557
+Costa Rica,1977,Democracia,Democracia,7602,2108.457
+Costa Rica,1978,Democracia,Democracia,7763,2192.367
+Costa Rica,1979,Democracia,Democracia,7905,2259.714
+Costa Rica,1980,Democracia,Democracia,7828,2299.124
+Cuba,1970,Partido,Partido-Personal,2976,8543
+Cuba,1971,Partido,Partido-Personal,3161,8669
+Cuba,1972,Partido,Partido-Personal,3253,8830
+Cuba,1973,Partido,Partido-Personal,3486,9000
+Cuba,1974,Partido,Partido-Personal,3609,9151
+Cuba,1975,Partido,Partido-Personal,3733,9287
+Cuba,1976,Partido,Partido-Personal,3786,9418
+Cuba,1977,Partido,Partido-Personal,3913,9534
+Cuba,1978,Partido,Partido-Personal,4114,9630
+Cuba,1979,Partido,Partido-Personal,4183,9705
+Cuba,1980,Partido,Partido-Personal,4106,9648
+Ecuador,1970,Democracia,Democracia,4535,5939.246
+Ecuador,1971,Personal,Personal,4658,6116.773
+Ecuador,1972,Personal,Personal,4801,6298.651
+Ecuador,1973,Militar,Militar,5244,6485.013
+Ecuador,1974,Militar,Militar,5392,6675.986
+Ecuador,1975,Militar,Militar,5514,6871.698
+Ecuador,1976,Militar,Militar,5877,7072.687
+Ecuador,1977,Militar,Militar,6073,7278.866
+Ecuador,1978,Militar,Militar,6314,7489.432
+Ecuador,1979,Militar,Militar,6472,7703.577
+Ecuador,1980,Democracia,Democracia,6582,7920.499
+El Salvador,1970,Partido,Partido-Militar,3488,3603.907
+El Salvador,1971,Partido,Partido-Militar,3553,3710.335
+El Salvador,1972,Partido,Partido-Militar,3668,3791.291
+El Salvador,1973,Partido,Partido-Militar,3767,3878.991
+El Salvador,1974,Partido,Partido-Militar,3912,3973.004
+El Salvador,1975,Partido,Partido-Militar,4030,4072.847
+El Salvador,1976,Partido,Partido-Militar,4084,4176.875
+El Salvador,1977,Partido,Partido-Militar,4221,4285.219
+El Salvador,1978,Partido,Partido-Militar,4375,4399.428
+El Salvador,1979,Partido,Partido-Militar,4194,4511.75
+El Salvador,1980,Partido,Partido-Militar,3781,4570.41
+Guatemala,1970,Militar,Militar indirecto,4653,5264
+Guatemala,1971,Militar,Militar,4801,5385
+Guatemala,1972,Militar,Militar,5037,5510
+Guatemala,1973,Militar,Militar,5255,5639
+Guatemala,1974,Militar,Militar,5461,5773
+Guatemala,1975,Militar,Militar,5439,5910
+Guatemala,1976,Militar,Militar,5705,6051
+Guatemala,1977,Militar,Militar,6005,6197
+Guatemala,1978,Militar,Militar,6156,6346
+Guatemala,1979,Militar,Militar,6298,6496
+Guatemala,1980,Militar,Militar,6384,6650
+Haití,1970,Personal,Personal,1567,4541
+Haití,1971,Personal,Personal,1651,4585
+Haití,1972,Personal,Personal,1635,4677
+Haití,1973,Personal,Personal,1678,4771
+Haití,1974,Personal,Personal,1742,4866
+Haití,1975,Personal,Personal,1726,4963
+Haití,1976,Personal,Personal,1835,5064
+Haití,1977,Personal,Personal,1808,5167
+Haití,1978,Personal,Personal,1859,5270
+Haití,1979,Personal,Personal,1959,5375
+Haití,1980,Personal,Personal,2063,5483
+Honduras,1970,Partido,Partido-Militar,2391,2760.666
+Honduras,1971,Partido,Partido-Militar,2404,2855.882
+Honduras,1972,Democracia,Democracia,2448,2965.146
+Honduras,1973,Militar,Militar,2544,3077.805
+Honduras,1974,Militar,Militar,2797,2765.159
+Honduras,1975,Militar,Militar,2764,2857.841
+Honduras,1976,Militar,Militar,2954,2954.846
+Honduras,1977,Militar,Militar,3153,3056.115
+Honduras,1978,Militar,Militar,3346,3168.948
+Honduras,1979,Militar,Militar,3382,3280.016
+Honduras,1980,Militar,Militar,3282,3403.436
+Nicaragua,1970,Personal,Personal,4463,2053
+Nicaragua,1971,Personal,Personal,4533,2120
+Nicaragua,1972,Personal,Personal,4543,2183
+Nicaragua,1973,Personal,Personal,4637,2248
+Nicaragua,1974,Personal,Personal,5064,2320
+Nicaragua,1975,Personal,Personal,5013,2395
+Nicaragua,1976,Personal,Personal,5099,2473
+Nicaragua,1977,Personal,Personal,5247,2554
+Nicaragua,1978,Personal,Personal,4771,2608
+Nicaragua,1979,Personal,Personal,3405,2687
+Nicaragua,1980,Partido,Partido,3414,2803
+Paraguay,1970,Partido,Partido-Militar-Personal,2825,2476.785
+Paraguay,1971,Partido,Partido-Militar-Personal,2906,2544.518
+Paraguay,1972,Partido,Partido-Militar-Personal,3017,2614.104
+Paraguay,1973,Partido,Partido-Militar-Personal,3150,2693
+Paraguay,1974,Partido,Partido-Militar-Personal,3319,2774
+Paraguay,1975,Partido,Partido-Militar-Personal,3464,2852
+Paraguay,1976,Partido,Partido-Militar-Personal,3629,2922
+Paraguay,1977,Partido,Partido-Militar-Personal,3945,2987
+Paraguay,1978,Partido,Partido-Militar-Personal,4302,3054
+Paraguay,1979,Partido,Partido-Militar-Personal,4693,3122
+Paraguay,1980,Partido,Partido-Militar-Personal,5113,3196
+Perú,1970,Militar,Militar,6143,13192.8
+Perú,1971,Militar,Militar,6242,13568.3
+Perú,1972,Militar,Militar,6264,13954.7
+Perú,1973,Militar,Militar,6413,14350.3
+Perú,1974,Militar,Militar,6566,14753.1
+Perú,1975,Militar,Militar,6896,15161.199
+Perú,1976,Militar,Militar,6808,15573.199
+Perú,1977,Militar,Militar,6626,15990.099
+Perú,1978,Militar,Militar,6454,16414.399
+Perú,1979,Militar,Militar,6664,16848.699
+Perú,1980,Militar,Militar,6795,17295.298
+Rep. Dominicana,1970,Personal,Personal,2488,4422.755
+Rep. Dominicana,1971,Personal,Personal,2678,4546.974
+Rep. Dominicana,1972,Personal,Personal,2928,4671.329
+Rep. Dominicana,1973,Personal,Personal,3196,4796.148
+Rep. Dominicana,1974,Personal,Personal,3295,4921.761
+Rep. Dominicana,1975,Personal,Personal,3365,5048.499
+Rep. Dominicana,1976,Personal,Personal,3504,5175.585
+Rep. Dominicana,1977,Personal,Personal,3586,5302.8
+Rep. Dominicana,1978,Personal,Personal,3583,5431.308
+Rep. Dominicana,1979,Democracia,Democracia,3649,5562.27
+Rep. Dominicana,1980,Democracia,Democracia,3781,5696.855
+Uruguay,1970,Democracia,Democracia,8030,2823.659
+Uruguay,1971,Democracia,Democracia,7933,2826.042
+Uruguay,1972,Democracia,Democracia,7643,2829.526
+Uruguay,1973,Democracia,Democracia,7885,2834.115
+Uruguay,1974,Militar,Militar,8176,2838.213
+Uruguay,1975,Militar,Militar,8563,2844
+Uruguay,1976,Militar,Militar,8853,2861
+Uruguay,1977,Militar,Militar,8950,2879
+Uruguay,1978,Militar,Militar,9483,2897
+Uruguay,1979,Militar,Militar,9966,2914
+Uruguay,1980,Militar,Militar,10546,2930
+Venezuela,1970,Democracia,Democracia,15289,10758.017
+Venezuela,1971,Democracia,Democracia,15192,11151.693
+Venezuela,1972,Democracia,Democracia,15135,11515.649
+Venezuela,1973,Democracia,Democracia,15540,11893.035
+Venezuela,1974,Democracia,Democracia,15943,12280.562
+Venezuela,1975,Democracia,Democracia,16385,12674.987
+Venezuela,1976,Democracia,Democracia,17174,13082.017
+Venezuela,1977,Democracia,Democracia,17693,13503.563
+Venezuela,1978,Democracia,Democracia,17481,13930.824
+Venezuela,1979,Democracia,Democracia,17135,14355.117
+Venezuela,1980,Democracia,Democracia,16270,14767.89
