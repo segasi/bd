@@ -1,0 +1,17 @@
+pais,año,tipo_regimen_gral,pib_pc,poblacion
+Costa Rica,1975,Democracia,7007,1991.58
+Costa Rica,1976,Democracia,7182,2048.557
+Venezuela,1975,Democracia,16385,12674.987
+Venezuela,1976,Democracia,17174,13082.017
+Ecuador,1975,Militar,5514,6871.698
+Ecuador,1976,Militar,5877,7072.687
+Uruguay,1975,Militar,8563,2844
+Uruguay,1976,Militar,8853,2861
+Cuba,1975,Partido,3733,9287
+Cuba,1976,Partido,3786,9418
+Paraguay,1975,Partido,3464,2852
+Paraguay,1976,Partido,3629,2922
+Rep. Dominicana,1975,Personal,3365,5048.499
+Rep. Dominicana,1976,Personal,3504,5175.585
+Haití,1975,Personal,1726,4963
+Haití,1976,Personal,1835,5064
