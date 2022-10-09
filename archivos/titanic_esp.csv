@@ -1,0 +1,892 @@
+id_pasajero,sobrevivio,clase_boleto,nombre,sexo,edad,n_her_par,n_pama_hij,n_boleto,fare,cabina,puerto_emb
+1,No,3era. clase,"Braund, Mr. Owen Harris",Hombre,22,1,0,A/5 21171,7.25,,Southampton
+2,Sí,1era. clase,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Mujer,38,1,0,PC 17599,71.2833,C85,Cherbourg
+3,Sí,3era. clase,"Heikkinen, Miss. Laina",Mujer,26,0,0,STON/O2. 3101282,7.925,,Southampton
+4,Sí,1era. clase,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Mujer,35,1,0,113803,53.1,C123,Southampton
+5,No,3era. clase,"Allen, Mr. William Henry",Hombre,35,0,0,373450,8.05,,Southampton
+6,No,3era. clase,"Moran, Mr. James",Hombre,NA,0,0,330877,8.4583,,Queenstown
+7,No,1era. clase,"McCarthy, Mr. Timothy J",Hombre,54,0,0,17463,51.8625,E46,Southampton
+8,No,3era. clase,"Palsson, Master. Gosta Leonard",Hombre,2,3,1,349909,21.075,,Southampton
+9,Sí,3era. clase,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Mujer,27,0,2,347742,11.1333,,Southampton
+10,Sí,2nda. clase,"Nasser, Mrs. Nicholas (Adele Achem)",Mujer,14,1,0,237736,30.0708,,Cherbourg
+11,Sí,3era. clase,"Sandstrom, Miss. Marguerite Rut",Mujer,4,1,1,PP 9549,16.7,G6,Southampton
+12,Sí,1era. clase,"Bonnell, Miss. Elizabeth",Mujer,58,0,0,113783,26.55,C103,Southampton
+13,No,3era. clase,"Saundercock, Mr. William Henry",Hombre,20,0,0,A/5. 2151,8.05,,Southampton
+14,No,3era. clase,"Andersson, Mr. Anders Johan",Hombre,39,1,5,347082,31.275,,Southampton
+15,No,3era. clase,"Vestrom, Miss. Hulda Amanda Adolfina",Mujer,14,0,0,350406,7.8542,,Southampton
+16,Sí,2nda. clase,"Hewlett, Mrs. (Mary D Kingcome) ",Mujer,55,0,0,248706,16,,Southampton
+17,No,3era. clase,"Rice, Master. Eugene",Hombre,2,4,1,382652,29.125,,Queenstown
+18,Sí,2nda. clase,"Williams, Mr. Charles Eugene",Hombre,NA,0,0,244373,13,,Southampton
+19,No,3era. clase,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Mujer,31,1,0,345763,18,,Southampton
+20,Sí,3era. clase,"Masselmani, Mrs. Fatima",Mujer,NA,0,0,2649,7.225,,Cherbourg
+21,No,2nda. clase,"Fynney, Mr. Joseph J",Hombre,35,0,0,239865,26,,Southampton
+22,Sí,2nda. clase,"Beesley, Mr. Lawrence",Hombre,34,0,0,248698,13,D56,Southampton
+23,Sí,3era. clase,"McGowan, Miss. Anna ""Annie""",Mujer,15,0,0,330923,8.0292,,Queenstown
+24,Sí,1era. clase,"Sloper, Mr. William Thompson",Hombre,28,0,0,113788,35.5,A6,Southampton
+25,No,3era. clase,"Palsson, Miss. Torborg Danira",Mujer,8,3,1,349909,21.075,,Southampton
+26,Sí,3era. clase,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Mujer,38,1,5,347077,31.3875,,Southampton
+27,No,3era. clase,"Emir, Mr. Farred Chehab",Hombre,NA,0,0,2631,7.225,,Cherbourg
+28,No,1era. clase,"Fortune, Mr. Charles Alexander",Hombre,19,3,2,19950,263,C23 C25 C27,Southampton
+29,Sí,3era. clase,"O'Dwyer, Miss. Ellen ""Nellie""",Mujer,NA,0,0,330959,7.8792,,Queenstown
+30,No,3era. clase,"Todoroff, Mr. Lalio",Hombre,NA,0,0,349216,7.8958,,Southampton
+31,No,1era. clase,"Uruchurtu, Don. Manuel E",Hombre,40,0,0,PC 17601,27.7208,,Cherbourg
+32,Sí,1era. clase,"Spencer, Mrs. William Augustus (Marie Eugenie)",Mujer,NA,1,0,PC 17569,146.5208,B78,Cherbourg
+33,Sí,3era. clase,"Glynn, Miss. Mary Agatha",Mujer,NA,0,0,335677,7.75,,Queenstown
+34,No,2nda. clase,"Wheadon, Mr. Edward H",Hombre,66,0,0,C.A. 24579,10.5,,Southampton
+35,No,1era. clase,"Meyer, Mr. Edgar Joseph",Hombre,28,1,0,PC 17604,82.1708,,Cherbourg
+36,No,1era. clase,"Holverson, Mr. Alexander Oskar",Hombre,42,1,0,113789,52,,Southampton
+37,Sí,3era. clase,"Mamee, Mr. Hanna",Hombre,NA,0,0,2677,7.2292,,Cherbourg
+38,No,3era. clase,"Cann, Mr. Ernest Charles",Hombre,21,0,0,A./5. 2152,8.05,,Southampton
+39,No,3era. clase,"Vander Planke, Miss. Augusta Maria",Mujer,18,2,0,345764,18,,Southampton
+40,Sí,3era. clase,"Nicola-Yarred, Miss. Jamila",Mujer,14,1,0,2651,11.2417,,Cherbourg
+41,No,3era. clase,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Mujer,40,1,0,7546,9.475,,Southampton
+42,No,2nda. clase,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",Mujer,27,1,0,11668,21,,Southampton
+43,No,3era. clase,"Kraeff, Mr. Theodor",Hombre,NA,0,0,349253,7.8958,,Cherbourg
+44,Sí,2nda. clase,"Laroche, Miss. Simonne Marie Anne Andree",Mujer,3,1,2,SC/Paris 2123,41.5792,,Cherbourg
+45,Sí,3era. clase,"Devaney, Miss. Margaret Delia",Mujer,19,0,0,330958,7.8792,,Queenstown
+46,No,3era. clase,"Rogers, Mr. William John",Hombre,NA,0,0,S.C./A.4. 23567,8.05,,Southampton
+47,No,3era. clase,"Lennon, Mr. Denis",Hombre,NA,1,0,370371,15.5,,Queenstown
+48,Sí,3era. clase,"O'Driscoll, Miss. Bridget",Mujer,NA,0,0,14311,7.75,,Queenstown
+49,No,3era. clase,"Samaan, Mr. Youssef",Hombre,NA,2,0,2662,21.6792,,Cherbourg
+50,No,3era. clase,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",Mujer,18,1,0,349237,17.8,,Southampton
+51,No,3era. clase,"Panula, Master. Juha Niilo",Hombre,7,4,1,3101295,39.6875,,Southampton
+52,No,3era. clase,"Nosworthy, Mr. Richard Cater",Hombre,21,0,0,A/4. 39886,7.8,,Southampton
+53,Sí,1era. clase,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",Mujer,49,1,0,PC 17572,76.7292,D33,Cherbourg
+54,Sí,2nda. clase,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Mujer,29,1,0,2926,26,,Southampton
+55,No,1era. clase,"Ostby, Mr. Engelhart Cornelius",Hombre,65,0,1,113509,61.9792,B30,Cherbourg
+56,Sí,1era. clase,"Woolner, Mr. Hugh",Hombre,NA,0,0,19947,35.5,C52,Southampton
+57,Sí,2nda. clase,"Rugg, Miss. Emily",Mujer,21,0,0,C.A. 31026,10.5,,Southampton
+58,No,3era. clase,"Novel, Mr. Mansouer",Hombre,28.5,0,0,2697,7.2292,,Cherbourg
+59,Sí,2nda. clase,"West, Miss. Constance Mirium",Mujer,5,1,2,C.A. 34651,27.75,,Southampton
+60,No,3era. clase,"Goodwin, Master. William Frederick",Hombre,11,5,2,CA 2144,46.9,,Southampton
+61,No,3era. clase,"Sirayanian, Mr. Orsen",Hombre,22,0,0,2669,7.2292,,Cherbourg
+62,Sí,1era. clase,"Icard, Miss. Amelie",Mujer,38,0,0,113572,80,B28,NA
+63,No,1era. clase,"Harris, Mr. Henry Birkhardt",Hombre,45,1,0,36973,83.475,C83,Southampton
+64,No,3era. clase,"Skoog, Master. Harald",Hombre,4,3,2,347088,27.9,,Southampton
+65,No,1era. clase,"Stewart, Mr. Albert A",Hombre,NA,0,0,PC 17605,27.7208,,Cherbourg
+66,Sí,3era. clase,"Moubarek, Master. Gerios",Hombre,NA,1,1,2661,15.2458,,Cherbourg
+67,Sí,2nda. clase,"Nye, Mrs. (Elizabeth Ramell)",Mujer,29,0,0,C.A. 29395,10.5,F33,Southampton
+68,No,3era. clase,"Crease, Mr. Ernest James",Hombre,19,0,0,S.P. 3464,8.1583,,Southampton
+69,Sí,3era. clase,"Andersson, Miss. Erna Alexandra",Mujer,17,4,2,3101281,7.925,,Southampton
+70,No,3era. clase,"Kink, Mr. Vincenz",Hombre,26,2,0,315151,8.6625,,Southampton
+71,No,2nda. clase,"Jenkin, Mr. Stephen Curnow",Hombre,32,0,0,C.A. 33111,10.5,,Southampton
+72,No,3era. clase,"Goodwin, Miss. Lillian Amy",Mujer,16,5,2,CA 2144,46.9,,Southampton
+73,No,2nda. clase,"Hood, Mr. Ambrose Jr",Hombre,21,0,0,S.O.C. 14879,73.5,,Southampton
+74,No,3era. clase,"Chronopoulos, Mr. Apostolos",Hombre,26,1,0,2680,14.4542,,Cherbourg
+75,Sí,3era. clase,"Bing, Mr. Lee",Hombre,32,0,0,1601,56.4958,,Southampton
+76,No,3era. clase,"Moen, Mr. Sigurd Hansen",Hombre,25,0,0,348123,7.65,F G73,Southampton
+77,No,3era. clase,"Staneff, Mr. Ivan",Hombre,NA,0,0,349208,7.8958,,Southampton
+78,No,3era. clase,"Moutal, Mr. Rahamin Haim",Hombre,NA,0,0,374746,8.05,,Southampton
+79,Sí,2nda. clase,"Caldwell, Master. Alden Gates",Hombre,0.83,0,2,248738,29,,Southampton
+80,Sí,3era. clase,"Dowdell, Miss. Elizabeth",Mujer,30,0,0,364516,12.475,,Southampton
+81,No,3era. clase,"Waelens, Mr. Achille",Hombre,22,0,0,345767,9,,Southampton
+82,Sí,3era. clase,"Sheerlinck, Mr. Jan Baptist",Hombre,29,0,0,345779,9.5,,Southampton
+83,Sí,3era. clase,"McDermott, Miss. Brigdet Delia",Mujer,NA,0,0,330932,7.7875,,Queenstown
+84,No,1era. clase,"Carrau, Mr. Francisco M",Hombre,28,0,0,113059,47.1,,Southampton
+85,Sí,2nda. clase,"Ilett, Miss. Bertha",Mujer,17,0,0,SO/C 14885,10.5,,Southampton
+86,Sí,3era. clase,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Mujer,33,3,0,3101278,15.85,,Southampton
+87,No,3era. clase,"Ford, Mr. William Neal",Hombre,16,1,3,W./C. 6608,34.375,,Southampton
+88,No,3era. clase,"Slocovski, Mr. Selman Francis",Hombre,NA,0,0,SOTON/OQ 392086,8.05,,Southampton
+89,Sí,1era. clase,"Fortune, Miss. Mabel Helen",Mujer,23,3,2,19950,263,C23 C25 C27,Southampton
+90,No,3era. clase,"Celotti, Mr. Francesco",Hombre,24,0,0,343275,8.05,,Southampton
+91,No,3era. clase,"Christmann, Mr. Emil",Hombre,29,0,0,343276,8.05,,Southampton
+92,No,3era. clase,"Andreasson, Mr. Paul Edvin",Hombre,20,0,0,347466,7.8542,,Southampton
+93,No,1era. clase,"Chaffee, Mr. Herbert Fuller",Hombre,46,1,0,W.E.P. 5734,61.175,E31,Southampton
+94,No,3era. clase,"Dean, Mr. Bertram Frank",Hombre,26,1,2,C.A. 2315,20.575,,Southampton
+95,No,3era. clase,"Coxon, Mr. Daniel",Hombre,59,0,0,364500,7.25,,Southampton
+96,No,3era. clase,"Shorney, Mr. Charles Joseph",Hombre,NA,0,0,374910,8.05,,Southampton
+97,No,1era. clase,"Goldschmidt, Mr. George B",Hombre,71,0,0,PC 17754,34.6542,A5,Cherbourg
+98,Sí,1era. clase,"Greenfield, Mr. William Bertram",Hombre,23,0,1,PC 17759,63.3583,D10 D12,Cherbourg
+99,Sí,2nda. clase,"Doling, Mrs. John T (Ada Julia Bone)",Mujer,34,0,1,231919,23,,Southampton
+100,No,2nda. clase,"Kantor, Mr. Sinai",Hombre,34,1,0,244367,26,,Southampton
+101,No,3era. clase,"Petranec, Miss. Matilda",Mujer,28,0,0,349245,7.8958,,Southampton
+102,No,3era. clase,"Petroff, Mr. Pastcho (""Pentcho"")",Hombre,NA,0,0,349215,7.8958,,Southampton
+103,No,1era. clase,"White, Mr. Richard Frasar",Hombre,21,0,1,35281,77.2875,D26,Southampton
+104,No,3era. clase,"Johansson, Mr. Gustaf Joel",Hombre,33,0,0,7540,8.6542,,Southampton
+105,No,3era. clase,"Gustafsson, Mr. Anders Vilhelm",Hombre,37,2,0,3101276,7.925,,Southampton
+106,No,3era. clase,"Mionoff, Mr. Stoytcho",Hombre,28,0,0,349207,7.8958,,Southampton
+107,Sí,3era. clase,"Salkjelsvik, Miss. Anna Kristine",Mujer,21,0,0,343120,7.65,,Southampton
+108,Sí,3era. clase,"Moss, Mr. Albert Johan",Hombre,NA,0,0,312991,7.775,,Southampton
+109,No,3era. clase,"Rekic, Mr. Tido",Hombre,38,0,0,349249,7.8958,,Southampton
+110,Sí,3era. clase,"Moran, Miss. Bertha",Mujer,NA,1,0,371110,24.15,,Queenstown
+111,No,1era. clase,"Porter, Mr. Walter Chamberlain",Hombre,47,0,0,110465,52,C110,Southampton
+112,No,3era. clase,"Zabour, Miss. Hileni",Mujer,14.5,1,0,2665,14.4542,,Cherbourg
+113,No,3era. clase,"Barton, Mr. David John",Hombre,22,0,0,324669,8.05,,Southampton
+114,No,3era. clase,"Jussila, Miss. Katriina",Mujer,20,1,0,4136,9.825,,Southampton
+115,No,3era. clase,"Attalah, Miss. Malake",Mujer,17,0,0,2627,14.4583,,Cherbourg
+116,No,3era. clase,"Pekoniemi, Mr. Edvard",Hombre,21,0,0,STON/O 2. 3101294,7.925,,Southampton
+117,No,3era. clase,"Connors, Mr. Patrick",Hombre,70.5,0,0,370369,7.75,,Queenstown
+118,No,2nda. clase,"Turpin, Mr. William John Robert",Hombre,29,1,0,11668,21,,Southampton
+119,No,1era. clase,"Baxter, Mr. Quigg Edmond",Hombre,24,0,1,PC 17558,247.5208,B58 B60,Cherbourg
+120,No,3era. clase,"Andersson, Miss. Ellis Anna Maria",Mujer,2,4,2,347082,31.275,,Southampton
+121,No,2nda. clase,"Hickman, Mr. Stanley George",Hombre,21,2,0,S.O.C. 14879,73.5,,Southampton
+122,No,3era. clase,"Moore, Mr. Leonard Charles",Hombre,NA,0,0,A4. 54510,8.05,,Southampton
+123,No,2nda. clase,"Nasser, Mr. Nicholas",Hombre,32.5,1,0,237736,30.0708,,Cherbourg
+124,Sí,2nda. clase,"Webber, Miss. Susan",Mujer,32.5,0,0,27267,13,E101,Southampton
+125,No,1era. clase,"White, Mr. Percival Wayland",Hombre,54,0,1,35281,77.2875,D26,Southampton
+126,Sí,3era. clase,"Nicola-Yarred, Master. Elias",Hombre,12,1,0,2651,11.2417,,Cherbourg
+127,No,3era. clase,"McMahon, Mr. Martin",Hombre,NA,0,0,370372,7.75,,Queenstown
+128,Sí,3era. clase,"Madsen, Mr. Fridtjof Arne",Hombre,24,0,0,C 17369,7.1417,,Southampton
+129,Sí,3era. clase,"Peter, Miss. Anna",Mujer,NA,1,1,2668,22.3583,F E69,Cherbourg
+130,No,3era. clase,"Ekstrom, Mr. Johan",Hombre,45,0,0,347061,6.975,,Southampton
+131,No,3era. clase,"Drazenoic, Mr. Jozef",Hombre,33,0,0,349241,7.8958,,Cherbourg
+132,No,3era. clase,"Coelho, Mr. Domingos Fernandeo",Hombre,20,0,0,SOTON/O.Q. 3101307,7.05,,Southampton
+133,No,3era. clase,"Robins, Mrs. Alexander A (Grace Charity Laury)",Mujer,47,1,0,A/5. 3337,14.5,,Southampton
+134,Sí,2nda. clase,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",Mujer,29,1,0,228414,26,,Southampton
+135,No,2nda. clase,"Sobey, Mr. Samuel James Hayden",Hombre,25,0,0,C.A. 29178,13,,Southampton
+136,No,2nda. clase,"Richard, Mr. Emile",Hombre,23,0,0,SC/PARIS 2133,15.0458,,Cherbourg
+137,Sí,1era. clase,"Newsom, Miss. Helen Monypeny",Mujer,19,0,2,11752,26.2833,D47,Southampton
+138,No,1era. clase,"Futrelle, Mr. Jacques Heath",Hombre,37,1,0,113803,53.1,C123,Southampton
+139,No,3era. clase,"Osen, Mr. Olaf Elon",Hombre,16,0,0,7534,9.2167,,Southampton
+140,No,1era. clase,"Giglio, Mr. Victor",Hombre,24,0,0,PC 17593,79.2,B86,Cherbourg
+141,No,3era. clase,"Boulos, Mrs. Joseph (Sultana)",Mujer,NA,0,2,2678,15.2458,,Cherbourg
+142,Sí,3era. clase,"Nysten, Miss. Anna Sofia",Mujer,22,0,0,347081,7.75,,Southampton
+143,Sí,3era. clase,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Mujer,24,1,0,STON/O2. 3101279,15.85,,Southampton
+144,No,3era. clase,"Burke, Mr. Jeremiah",Hombre,19,0,0,365222,6.75,,Queenstown
+145,No,2nda. clase,"Andrew, Mr. Edgardo Samuel",Hombre,18,0,0,231945,11.5,,Southampton
+146,No,2nda. clase,"Nicholls, Mr. Joseph Charles",Hombre,19,1,1,C.A. 33112,36.75,,Southampton
+147,Sí,3era. clase,"Andersson, Mr. August Edvard (""Wennerstrom"")",Hombre,27,0,0,350043,7.7958,,Southampton
+148,No,3era. clase,"Ford, Miss. Robina Maggie ""Ruby""",Mujer,9,2,2,W./C. 6608,34.375,,Southampton
+149,No,2nda. clase,"Navratil, Mr. Michel (""Louis M Hoffman"")",Hombre,36.5,0,2,230080,26,F2,Southampton
+150,No,2nda. clase,"Byles, Rev. Thomas Roussel Davids",Hombre,42,0,0,244310,13,,Southampton
+151,No,2nda. clase,"Bateman, Rev. Robert James",Hombre,51,0,0,S.O.P. 1166,12.525,,Southampton
+152,Sí,1era. clase,"Pears, Mrs. Thomas (Edith Wearne)",Mujer,22,1,0,113776,66.6,C2,Southampton
+153,No,3era. clase,"Meo, Mr. Alfonzo",Hombre,55.5,0,0,A.5. 11206,8.05,,Southampton
+154,No,3era. clase,"van Billiard, Mr. Austin Blyler",Hombre,40.5,0,2,A/5. 851,14.5,,Southampton
+155,No,3era. clase,"Olsen, Mr. Ole Martin",Hombre,NA,0,0,Fa 265302,7.3125,,Southampton
+156,No,1era. clase,"Williams, Mr. Charles Duane",Hombre,51,0,1,PC 17597,61.3792,,Cherbourg
+157,Sí,3era. clase,"Gilnagh, Miss. Katherine ""Katie""",Mujer,16,0,0,35851,7.7333,,Queenstown
+158,No,3era. clase,"Corn, Mr. Harry",Hombre,30,0,0,SOTON/OQ 392090,8.05,,Southampton
+159,No,3era. clase,"Smiljanic, Mr. Mile",Hombre,NA,0,0,315037,8.6625,,Southampton
+160,No,3era. clase,"Sage, Master. Thomas Henry",Hombre,NA,8,2,CA. 2343,69.55,,Southampton
+161,No,3era. clase,"Cribb, Mr. John Hatfield",Hombre,44,0,1,371362,16.1,,Southampton
+162,Sí,2nda. clase,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",Mujer,40,0,0,C.A. 33595,15.75,,Southampton
+163,No,3era. clase,"Bengtsson, Mr. John Viktor",Hombre,26,0,0,347068,7.775,,Southampton
+164,No,3era. clase,"Calic, Mr. Jovo",Hombre,17,0,0,315093,8.6625,,Southampton
+165,No,3era. clase,"Panula, Master. Eino Viljami",Hombre,1,4,1,3101295,39.6875,,Southampton
+166,Sí,3era. clase,"Goldsmith, Master. Frank John William ""Frankie""",Hombre,9,0,2,363291,20.525,,Southampton
+167,Sí,1era. clase,"Chibnall, Mrs. (Edith Martha Bowerman)",Mujer,NA,0,1,113505,55,E33,Southampton
+168,No,3era. clase,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",Mujer,45,1,4,347088,27.9,,Southampton
+169,No,1era. clase,"Baumann, Mr. John D",Hombre,NA,0,0,PC 17318,25.925,,Southampton
+170,No,3era. clase,"Ling, Mr. Lee",Hombre,28,0,0,1601,56.4958,,Southampton
+171,No,1era. clase,"Van der hoef, Mr. Wyckoff",Hombre,61,0,0,111240,33.5,B19,Southampton
+172,No,3era. clase,"Rice, Master. Arthur",Hombre,4,4,1,382652,29.125,,Queenstown
+173,Sí,3era. clase,"Johnson, Miss. Eleanor Ileen",Mujer,1,1,1,347742,11.1333,,Southampton
+174,No,3era. clase,"Sivola, Mr. Antti Wilhelm",Hombre,21,0,0,STON/O 2. 3101280,7.925,,Southampton
+175,No,1era. clase,"Smith, Mr. James Clinch",Hombre,56,0,0,17764,30.6958,A7,Cherbourg
+176,No,3era. clase,"Klasen, Mr. Klas Albin",Hombre,18,1,1,350404,7.8542,,Southampton
+177,No,3era. clase,"Lefebre, Master. Henry Forbes",Hombre,NA,3,1,4133,25.4667,,Southampton
+178,No,1era. clase,"Isham, Miss. Ann Elizabeth",Mujer,50,0,0,PC 17595,28.7125,C49,Cherbourg
+179,No,2nda. clase,"Hale, Mr. Reginald",Hombre,30,0,0,250653,13,,Southampton
+180,No,3era. clase,"Leonard, Mr. Lionel",Hombre,36,0,0,LINE,0,,Southampton
+181,No,3era. clase,"Sage, Miss. Constance Gladys",Mujer,NA,8,2,CA. 2343,69.55,,Southampton
+182,No,2nda. clase,"Pernot, Mr. Rene",Hombre,NA,0,0,SC/PARIS 2131,15.05,,Cherbourg
+183,No,3era. clase,"Asplund, Master. Clarence Gustaf Hugo",Hombre,9,4,2,347077,31.3875,,Southampton
+184,Sí,2nda. clase,"Becker, Master. Richard F",Hombre,1,2,1,230136,39,F4,Southampton
+185,Sí,3era. clase,"Kink-Heilmann, Miss. Luise Gretchen",Mujer,4,0,2,315153,22.025,,Southampton
+186,No,1era. clase,"Rood, Mr. Hugh Roscoe",Hombre,NA,0,0,113767,50,A32,Southampton
+187,Sí,3era. clase,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",Mujer,NA,1,0,370365,15.5,,Queenstown
+188,Sí,1era. clase,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",Hombre,45,0,0,111428,26.55,,Southampton
+189,No,3era. clase,"Bourke, Mr. John",Hombre,40,1,1,364849,15.5,,Queenstown
+190,No,3era. clase,"Turcin, Mr. Stjepan",Hombre,36,0,0,349247,7.8958,,Southampton
+191,Sí,2nda. clase,"Pinsky, Mrs. (Rosa)",Mujer,32,0,0,234604,13,,Southampton
+192,No,2nda. clase,"Carbines, Mr. William",Hombre,19,0,0,28424,13,,Southampton
+193,Sí,3era. clase,"Andersen-Jensen, Miss. Carla Christine Nielsine",Mujer,19,1,0,350046,7.8542,,Southampton
+194,Sí,2nda. clase,"Navratil, Master. Michel M",Hombre,3,1,1,230080,26,F2,Southampton
+195,Sí,1era. clase,"Brown, Mrs. James Joseph (Margaret Tobin)",Mujer,44,0,0,PC 17610,27.7208,B4,Cherbourg
+196,Sí,1era. clase,"Lurette, Miss. Elise",Mujer,58,0,0,PC 17569,146.5208,B80,Cherbourg
+197,No,3era. clase,"Mernagh, Mr. Robert",Hombre,NA,0,0,368703,7.75,,Queenstown
+198,No,3era. clase,"Olsen, Mr. Karl Siegwart Andreas",Hombre,42,0,1,4579,8.4042,,Southampton
+199,Sí,3era. clase,"Madigan, Miss. Margaret ""Maggie""",Mujer,NA,0,0,370370,7.75,,Queenstown
+200,No,2nda. clase,"Yrois, Miss. Henriette (""Mrs Harbeck"")",Mujer,24,0,0,248747,13,,Southampton
+201,No,3era. clase,"Vande Walle, Mr. Nestor Cyriel",Hombre,28,0,0,345770,9.5,,Southampton
+202,No,3era. clase,"Sage, Mr. Frederick",Hombre,NA,8,2,CA. 2343,69.55,,Southampton
+203,No,3era. clase,"Johanson, Mr. Jakob Alfred",Hombre,34,0,0,3101264,6.4958,,Southampton
+204,No,3era. clase,"Youseff, Mr. Gerious",Hombre,45.5,0,0,2628,7.225,,Cherbourg
+205,Sí,3era. clase,"Cohen, Mr. Gurshon ""Gus""",Hombre,18,0,0,A/5 3540,8.05,,Southampton
+206,No,3era. clase,"Strom, Miss. Telma Matilda",Mujer,2,0,1,347054,10.4625,G6,Southampton
+207,No,3era. clase,"Backstrom, Mr. Karl Alfred",Hombre,32,1,0,3101278,15.85,,Southampton
+208,Sí,3era. clase,"Albimona, Mr. Nassef Cassem",Hombre,26,0,0,2699,18.7875,,Cherbourg
+209,Sí,3era. clase,"Carr, Miss. Helen ""Ellen""",Mujer,16,0,0,367231,7.75,,Queenstown
+210,Sí,1era. clase,"Blank, Mr. Henry",Hombre,40,0,0,112277,31,A31,Cherbourg
+211,No,3era. clase,"Ali, Mr. Ahmed",Hombre,24,0,0,SOTON/O.Q. 3101311,7.05,,Southampton
+212,Sí,2nda. clase,"Cameron, Miss. Clear Annie",Mujer,35,0,0,F.C.C. 13528,21,,Southampton
+213,No,3era. clase,"Perkin, Mr. John Henry",Hombre,22,0,0,A/5 21174,7.25,,Southampton
+214,No,2nda. clase,"Givard, Mr. Hans Kristensen",Hombre,30,0,0,250646,13,,Southampton
+215,No,3era. clase,"Kiernan, Mr. Philip",Hombre,NA,1,0,367229,7.75,,Queenstown
+216,Sí,1era. clase,"Newell, Miss. Madeleine",Mujer,31,1,0,35273,113.275,D36,Cherbourg
+217,Sí,3era. clase,"Honkanen, Miss. Eliina",Mujer,27,0,0,STON/O2. 3101283,7.925,,Southampton
+218,No,2nda. clase,"Jacobsohn, Mr. Sidney Samuel",Hombre,42,1,0,243847,27,,Southampton
+219,Sí,1era. clase,"Bazzani, Miss. Albina",Mujer,32,0,0,11813,76.2917,D15,Cherbourg
+220,No,2nda. clase,"Harris, Mr. Walter",Hombre,30,0,0,W/C 14208,10.5,,Southampton
+221,Sí,3era. clase,"Sunderland, Mr. Victor Francis",Hombre,16,0,0,SOTON/OQ 392089,8.05,,Southampton
+222,No,2nda. clase,"Bracken, Mr. James H",Hombre,27,0,0,220367,13,,Southampton
+223,No,3era. clase,"Green, Mr. George Henry",Hombre,51,0,0,21440,8.05,,Southampton
+224,No,3era. clase,"Nenkoff, Mr. Christo",Hombre,NA,0,0,349234,7.8958,,Southampton
+225,Sí,1era. clase,"Hoyt, Mr. Frederick Maxfield",Hombre,38,1,0,19943,90,C93,Southampton
+226,No,3era. clase,"Berglund, Mr. Karl Ivar Sven",Hombre,22,0,0,PP 4348,9.35,,Southampton
+227,Sí,2nda. clase,"Mellors, Mr. William John",Hombre,19,0,0,SW/PP 751,10.5,,Southampton
+228,No,3era. clase,"Lovell, Mr. John Hall (""Henry"")",Hombre,20.5,0,0,A/5 21173,7.25,,Southampton
+229,No,2nda. clase,"Fahlstrom, Mr. Arne Jonas",Hombre,18,0,0,236171,13,,Southampton
+230,No,3era. clase,"Lefebre, Miss. Mathilde",Mujer,NA,3,1,4133,25.4667,,Southampton
+231,Sí,1era. clase,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",Mujer,35,1,0,36973,83.475,C83,Southampton
+232,No,3era. clase,"Larsson, Mr. Bengt Edvin",Hombre,29,0,0,347067,7.775,,Southampton
+233,No,2nda. clase,"Sjostedt, Mr. Ernst Adolf",Hombre,59,0,0,237442,13.5,,Southampton
+234,Sí,3era. clase,"Asplund, Miss. Lillian Gertrud",Mujer,5,4,2,347077,31.3875,,Southampton
+235,No,2nda. clase,"Leyson, Mr. Robert William Norman",Hombre,24,0,0,C.A. 29566,10.5,,Southampton
+236,No,3era. clase,"Harknett, Miss. Alice Phoebe",Mujer,NA,0,0,W./C. 6609,7.55,,Southampton
+237,No,2nda. clase,"Hold, Mr. Stephen",Hombre,44,1,0,26707,26,,Southampton
+238,Sí,2nda. clase,"Collyer, Miss. Marjorie ""Lottie""",Mujer,8,0,2,C.A. 31921,26.25,,Southampton
+239,No,2nda. clase,"Pengelly, Mr. Frederick William",Hombre,19,0,0,28665,10.5,,Southampton
+240,No,2nda. clase,"Hunt, Mr. George Henry",Hombre,33,0,0,SCO/W 1585,12.275,,Southampton
+241,No,3era. clase,"Zabour, Miss. Thamine",Mujer,NA,1,0,2665,14.4542,,Cherbourg
+242,Sí,3era. clase,"Murphy, Miss. Katherine ""Kate""",Mujer,NA,1,0,367230,15.5,,Queenstown
+243,No,2nda. clase,"Coleridge, Mr. Reginald Charles",Hombre,29,0,0,W./C. 14263,10.5,,Southampton
+244,No,3era. clase,"Maenpaa, Mr. Matti Alexanteri",Hombre,22,0,0,STON/O 2. 3101275,7.125,,Southampton
+245,No,3era. clase,"Attalah, Mr. Sleiman",Hombre,30,0,0,2694,7.225,,Cherbourg
+246,No,1era. clase,"Minahan, Dr. William Edward",Hombre,44,2,0,19928,90,C78,Queenstown
+247,No,3era. clase,"Lindahl, Miss. Agda Thorilda Viktoria",Mujer,25,0,0,347071,7.775,,Southampton
+248,Sí,2nda. clase,"Hamalainen, Mrs. William (Anna)",Mujer,24,0,2,250649,14.5,,Southampton
+249,Sí,1era. clase,"Beckwith, Mr. Richard Leonard",Hombre,37,1,1,11751,52.5542,D35,Southampton
+250,No,2nda. clase,"Carter, Rev. Ernest Courtenay",Hombre,54,1,0,244252,26,,Southampton
+251,No,3era. clase,"Reed, Mr. James George",Hombre,NA,0,0,362316,7.25,,Southampton
+252,No,3era. clase,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",Mujer,29,1,1,347054,10.4625,G6,Southampton
+253,No,1era. clase,"Stead, Mr. William Thomas",Hombre,62,0,0,113514,26.55,C87,Southampton
+254,No,3era. clase,"Lobb, Mr. William Arthur",Hombre,30,1,0,A/5. 3336,16.1,,Southampton
+255,No,3era. clase,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",Mujer,41,0,2,370129,20.2125,,Southampton
+256,Sí,3era. clase,"Touma, Mrs. Darwis (Hanne Youssef Razi)",Mujer,29,0,2,2650,15.2458,,Cherbourg
+257,Sí,1era. clase,"Thorne, Mrs. Gertrude Maybelle",Mujer,NA,0,0,PC 17585,79.2,,Cherbourg
+258,Sí,1era. clase,"Cherry, Miss. Gladys",Mujer,30,0,0,110152,86.5,B77,Southampton
+259,Sí,1era. clase,"Ward, Miss. Anna",Mujer,35,0,0,PC 17755,512.3292,,Cherbourg
+260,Sí,2nda. clase,"Parrish, Mrs. (Lutie Davis)",Mujer,50,0,1,230433,26,,Southampton
+261,No,3era. clase,"Smith, Mr. Thomas",Hombre,NA,0,0,384461,7.75,,Queenstown
+262,Sí,3era. clase,"Asplund, Master. Edvin Rojj Felix",Hombre,3,4,2,347077,31.3875,,Southampton
+263,No,1era. clase,"Taussig, Mr. Emil",Hombre,52,1,1,110413,79.65,E67,Southampton
+264,No,1era. clase,"Harrison, Mr. William",Hombre,40,0,0,112059,0,B94,Southampton
+265,No,3era. clase,"Henry, Miss. Delia",Mujer,NA,0,0,382649,7.75,,Queenstown
+266,No,2nda. clase,"Reeves, Mr. David",Hombre,36,0,0,C.A. 17248,10.5,,Southampton
+267,No,3era. clase,"Panula, Mr. Ernesti Arvid",Hombre,16,4,1,3101295,39.6875,,Southampton
+268,Sí,3era. clase,"Persson, Mr. Ernst Ulrik",Hombre,25,1,0,347083,7.775,,Southampton
+269,Sí,1era. clase,"Graham, Mrs. William Thompson (Edith Junkins)",Mujer,58,0,1,PC 17582,153.4625,C125,Southampton
+270,Sí,1era. clase,"Bissette, Miss. Amelia",Mujer,35,0,0,PC 17760,135.6333,C99,Southampton
+271,No,1era. clase,"Cairns, Mr. Alexander",Hombre,NA,0,0,113798,31,,Southampton
+272,Sí,3era. clase,"Tornquist, Mr. William Henry",Hombre,25,0,0,LINE,0,,Southampton
+273,Sí,2nda. clase,"Mellinger, Mrs. (Elizabeth Anne Maidment)",Mujer,41,0,1,250644,19.5,,Southampton
+274,No,1era. clase,"Natsch, Mr. Charles H",Hombre,37,0,1,PC 17596,29.7,C118,Cherbourg
+275,Sí,3era. clase,"Healy, Miss. Hanora ""Nora""",Mujer,NA,0,0,370375,7.75,,Queenstown
+276,Sí,1era. clase,"Andrews, Miss. Kornelia Theodosia",Mujer,63,1,0,13502,77.9583,D7,Southampton
+277,No,3era. clase,"Lindblom, Miss. Augusta Charlotta",Mujer,45,0,0,347073,7.75,,Southampton
+278,No,2nda. clase,"Parkes, Mr. Francis ""Frank""",Hombre,NA,0,0,239853,0,,Southampton
+279,No,3era. clase,"Rice, Master. Eric",Hombre,7,4,1,382652,29.125,,Queenstown
+280,Sí,3era. clase,"Abbott, Mrs. Stanton (Rosa Hunt)",Mujer,35,1,1,C.A. 2673,20.25,,Southampton
+281,No,3era. clase,"Duane, Mr. Frank",Hombre,65,0,0,336439,7.75,,Queenstown
+282,No,3era. clase,"Olsson, Mr. Nils Johan Goransson",Hombre,28,0,0,347464,7.8542,,Southampton
+283,No,3era. clase,"de Pelsmaeker, Mr. Alfons",Hombre,16,0,0,345778,9.5,,Southampton
+284,Sí,3era. clase,"Dorking, Mr. Edward Arthur",Hombre,19,0,0,A/5. 10482,8.05,,Southampton
+285,No,1era. clase,"Smith, Mr. Richard William",Hombre,NA,0,0,113056,26,A19,Southampton
+286,No,3era. clase,"Stankovic, Mr. Ivan",Hombre,33,0,0,349239,8.6625,,Cherbourg
+287,Sí,3era. clase,"de Mulder, Mr. Theodore",Hombre,30,0,0,345774,9.5,,Southampton
+288,No,3era. clase,"Naidenoff, Mr. Penko",Hombre,22,0,0,349206,7.8958,,Southampton
+289,Sí,2nda. clase,"Hosono, Mr. Masabumi",Hombre,42,0,0,237798,13,,Southampton
+290,Sí,3era. clase,"Connolly, Miss. Kate",Mujer,22,0,0,370373,7.75,,Queenstown
+291,Sí,1era. clase,"Barber, Miss. Ellen ""Nellie""",Mujer,26,0,0,19877,78.85,,Southampton
+292,Sí,1era. clase,"Bishop, Mrs. Dickinson H (Helen Walton)",Mujer,19,1,0,11967,91.0792,B49,Cherbourg
+293,No,2nda. clase,"Levy, Mr. Rene Jacques",Hombre,36,0,0,SC/Paris 2163,12.875,D,Cherbourg
+294,No,3era. clase,"Haas, Miss. Aloisia",Mujer,24,0,0,349236,8.85,,Southampton
+295,No,3era. clase,"Mineff, Mr. Ivan",Hombre,24,0,0,349233,7.8958,,Southampton
+296,No,1era. clase,"Lewy, Mr. Ervin G",Hombre,NA,0,0,PC 17612,27.7208,,Cherbourg
+297,No,3era. clase,"Hanna, Mr. Mansour",Hombre,23.5,0,0,2693,7.2292,,Cherbourg
+298,No,1era. clase,"Allison, Miss. Helen Loraine",Mujer,2,1,2,113781,151.55,C22 C26,Southampton
+299,Sí,1era. clase,"Saalfeld, Mr. Adolphe",Hombre,NA,0,0,19988,30.5,C106,Southampton
+300,Sí,1era. clase,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",Mujer,50,0,1,PC 17558,247.5208,B58 B60,Cherbourg
+301,Sí,3era. clase,"Kelly, Miss. Anna Katherine ""Annie Kate""",Mujer,NA,0,0,9234,7.75,,Queenstown
+302,Sí,3era. clase,"McCoy, Mr. Bernard",Hombre,NA,2,0,367226,23.25,,Queenstown
+303,No,3era. clase,"Johnson, Mr. William Cahoone Jr",Hombre,19,0,0,LINE,0,,Southampton
+304,Sí,2nda. clase,"Keane, Miss. Nora A",Mujer,NA,0,0,226593,12.35,E101,Queenstown
+305,No,3era. clase,"Williams, Mr. Howard Hugh ""Harry""",Hombre,NA,0,0,A/5 2466,8.05,,Southampton
+306,Sí,1era. clase,"Allison, Master. Hudson Trevor",Hombre,0.92,1,2,113781,151.55,C22 C26,Southampton
+307,Sí,1era. clase,"Fleming, Miss. Margaret",Mujer,NA,0,0,17421,110.8833,,Cherbourg
+308,Sí,1era. clase,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",Mujer,17,1,0,PC 17758,108.9,C65,Cherbourg
+309,No,2nda. clase,"Abelson, Mr. Samuel",Hombre,30,1,0,P/PP 3381,24,,Cherbourg
+310,Sí,1era. clase,"Francatelli, Miss. Laura Mabel",Mujer,30,0,0,PC 17485,56.9292,E36,Cherbourg
+311,Sí,1era. clase,"Hays, Miss. Margaret Bechstein",Mujer,24,0,0,11767,83.1583,C54,Cherbourg
+312,Sí,1era. clase,"Ryerson, Miss. Emily Borie",Mujer,18,2,2,PC 17608,262.375,B57 B59 B63 B66,Cherbourg
+313,No,2nda. clase,"Lahtinen, Mrs. William (Anna Sylfven)",Mujer,26,1,1,250651,26,,Southampton
+314,No,3era. clase,"Hendekovic, Mr. Ignjac",Hombre,28,0,0,349243,7.8958,,Southampton
+315,No,2nda. clase,"Hart, Mr. Benjamin",Hombre,43,1,1,F.C.C. 13529,26.25,,Southampton
+316,Sí,3era. clase,"Nilsson, Miss. Helmina Josefina",Mujer,26,0,0,347470,7.8542,,Southampton
+317,Sí,2nda. clase,"Kantor, Mrs. Sinai (Miriam Sternin)",Mujer,24,1,0,244367,26,,Southampton
+318,No,2nda. clase,"Moraweck, Dr. Ernest",Hombre,54,0,0,29011,14,,Southampton
+319,Sí,1era. clase,"Wick, Miss. Mary Natalie",Mujer,31,0,2,36928,164.8667,C7,Southampton
+320,Sí,1era. clase,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",Mujer,40,1,1,16966,134.5,E34,Cherbourg
+321,No,3era. clase,"Dennis, Mr. Samuel",Hombre,22,0,0,A/5 21172,7.25,,Southampton
+322,No,3era. clase,"Danoff, Mr. Yoto",Hombre,27,0,0,349219,7.8958,,Southampton
+323,Sí,2nda. clase,"Slayter, Miss. Hilda Mary",Mujer,30,0,0,234818,12.35,,Queenstown
+324,Sí,2nda. clase,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Mujer,22,1,1,248738,29,,Southampton
+325,No,3era. clase,"Sage, Mr. George John Jr",Hombre,NA,8,2,CA. 2343,69.55,,Southampton
+326,Sí,1era. clase,"Young, Miss. Marie Grice",Mujer,36,0,0,PC 17760,135.6333,C32,Cherbourg
+327,No,3era. clase,"Nysveen, Mr. Johan Hansen",Hombre,61,0,0,345364,6.2375,,Southampton
+328,Sí,2nda. clase,"Ball, Mrs. (Ada E Hall)",Mujer,36,0,0,28551,13,D,Southampton
+329,Sí,3era. clase,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",Mujer,31,1,1,363291,20.525,,Southampton
+330,Sí,1era. clase,"Hippach, Miss. Jean Gertrude",Mujer,16,0,1,111361,57.9792,B18,Cherbourg
+331,Sí,3era. clase,"McCoy, Miss. Agnes",Mujer,NA,2,0,367226,23.25,,Queenstown
+332,No,1era. clase,"Partner, Mr. Austen",Hombre,45.5,0,0,113043,28.5,C124,Southampton
+333,No,1era. clase,"Graham, Mr. George Edward",Hombre,38,0,1,PC 17582,153.4625,C91,Southampton
+334,No,3era. clase,"Vander Planke, Mr. Leo Edmondus",Hombre,16,2,0,345764,18,,Southampton
+335,Sí,1era. clase,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",Mujer,NA,1,0,PC 17611,133.65,,Southampton
+336,No,3era. clase,"Denkoff, Mr. Mitto",Hombre,NA,0,0,349225,7.8958,,Southampton
+337,No,1era. clase,"Pears, Mr. Thomas Clinton",Hombre,29,1,0,113776,66.6,C2,Southampton
+338,Sí,1era. clase,"Burns, Miss. Elizabeth Margaret",Mujer,41,0,0,16966,134.5,E40,Cherbourg
+339,Sí,3era. clase,"Dahl, Mr. Karl Edwart",Hombre,45,0,0,7598,8.05,,Southampton
+340,No,1era. clase,"Blackwell, Mr. Stephen Weart",Hombre,45,0,0,113784,35.5,T,Southampton
+341,Sí,2nda. clase,"Navratil, Master. Edmond Roger",Hombre,2,1,1,230080,26,F2,Southampton
+342,Sí,1era. clase,"Fortune, Miss. Alice Elizabeth",Mujer,24,3,2,19950,263,C23 C25 C27,Southampton
+343,No,2nda. clase,"Collander, Mr. Erik Gustaf",Hombre,28,0,0,248740,13,,Southampton
+344,No,2nda. clase,"Sedgwick, Mr. Charles Frederick Waddington",Hombre,25,0,0,244361,13,,Southampton
+345,No,2nda. clase,"Fox, Mr. Stanley Hubert",Hombre,36,0,0,229236,13,,Southampton
+346,Sí,2nda. clase,"Brown, Miss. Amelia ""Mildred""",Mujer,24,0,0,248733,13,F33,Southampton
+347,Sí,2nda. clase,"Smith, Miss. Marion Elsie",Mujer,40,0,0,31418,13,,Southampton
+348,Sí,3era. clase,"Davison, Mrs. Thomas Henry (Mary E Finck)",Mujer,NA,1,0,386525,16.1,,Southampton
+349,Sí,3era. clase,"Coutts, Master. William Loch ""William""",Hombre,3,1,1,C.A. 37671,15.9,,Southampton
+350,No,3era. clase,"Dimic, Mr. Jovan",Hombre,42,0,0,315088,8.6625,,Southampton
+351,No,3era. clase,"Odahl, Mr. Nils Martin",Hombre,23,0,0,7267,9.225,,Southampton
+352,No,1era. clase,"Williams-Lambert, Mr. Fletcher Fellows",Hombre,NA,0,0,113510,35,C128,Southampton
+353,No,3era. clase,"Elias, Mr. Tannous",Hombre,15,1,1,2695,7.2292,,Cherbourg
+354,No,3era. clase,"Arnold-Franchi, Mr. Josef",Hombre,25,1,0,349237,17.8,,Southampton
+355,No,3era. clase,"Yousif, Mr. Wazli",Hombre,NA,0,0,2647,7.225,,Cherbourg
+356,No,3era. clase,"Vanden Steen, Mr. Leo Peter",Hombre,28,0,0,345783,9.5,,Southampton
+357,Sí,1era. clase,"Bowerman, Miss. Elsie Edith",Mujer,22,0,1,113505,55,E33,Southampton
+358,No,2nda. clase,"Funk, Miss. Annie Clemmer",Mujer,38,0,0,237671,13,,Southampton
+359,Sí,3era. clase,"McGovern, Miss. Mary",Mujer,NA,0,0,330931,7.8792,,Queenstown
+360,Sí,3era. clase,"Mockler, Miss. Helen Mary ""Ellie""",Mujer,NA,0,0,330980,7.8792,,Queenstown
+361,No,3era. clase,"Skoog, Mr. Wilhelm",Hombre,40,1,4,347088,27.9,,Southampton
+362,No,2nda. clase,"del Carlo, Mr. Sebastiano",Hombre,29,1,0,SC/PARIS 2167,27.7208,,Cherbourg
+363,No,3era. clase,"Barbara, Mrs. (Catherine David)",Mujer,45,0,1,2691,14.4542,,Cherbourg
+364,No,3era. clase,"Asim, Mr. Adola",Hombre,35,0,0,SOTON/O.Q. 3101310,7.05,,Southampton
+365,No,3era. clase,"O'Brien, Mr. Thomas",Hombre,NA,1,0,370365,15.5,,Queenstown
+366,No,3era. clase,"Adahl, Mr. Mauritz Nils Martin",Hombre,30,0,0,C 7076,7.25,,Southampton
+367,Sí,1era. clase,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",Mujer,60,1,0,110813,75.25,D37,Cherbourg
+368,Sí,3era. clase,"Moussa, Mrs. (Mantoura Boulos)",Mujer,NA,0,0,2626,7.2292,,Cherbourg
+369,Sí,3era. clase,"Jermyn, Miss. Annie",Mujer,NA,0,0,14313,7.75,,Queenstown
+370,Sí,1era. clase,"Aubart, Mme. Leontine Pauline",Mujer,24,0,0,PC 17477,69.3,B35,Cherbourg
+371,Sí,1era. clase,"Harder, Mr. George Achilles",Hombre,25,1,0,11765,55.4417,E50,Cherbourg
+372,No,3era. clase,"Wiklund, Mr. Jakob Alfred",Hombre,18,1,0,3101267,6.4958,,Southampton
+373,No,3era. clase,"Beavan, Mr. William Thomas",Hombre,19,0,0,323951,8.05,,Southampton
+374,No,1era. clase,"Ringhini, Mr. Sante",Hombre,22,0,0,PC 17760,135.6333,,Cherbourg
+375,No,3era. clase,"Palsson, Miss. Stina Viola",Mujer,3,3,1,349909,21.075,,Southampton
+376,Sí,1era. clase,"Meyer, Mrs. Edgar Joseph (Leila Saks)",Mujer,NA,1,0,PC 17604,82.1708,,Cherbourg
+377,Sí,3era. clase,"Landergren, Miss. Aurora Adelia",Mujer,22,0,0,C 7077,7.25,,Southampton
+378,No,1era. clase,"Widener, Mr. Harry Elkins",Hombre,27,0,2,113503,211.5,C82,Cherbourg
+379,No,3era. clase,"Betros, Mr. Tannous",Hombre,20,0,0,2648,4.0125,,Cherbourg
+380,No,3era. clase,"Gustafsson, Mr. Karl Gideon",Hombre,19,0,0,347069,7.775,,Southampton
+381,Sí,1era. clase,"Bidois, Miss. Rosalie",Mujer,42,0,0,PC 17757,227.525,,Cherbourg
+382,Sí,3era. clase,"Nakid, Miss. Maria (""Mary"")",Mujer,1,0,2,2653,15.7417,,Cherbourg
+383,No,3era. clase,"Tikkanen, Mr. Juho",Hombre,32,0,0,STON/O 2. 3101293,7.925,,Southampton
+384,Sí,1era. clase,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Mujer,35,1,0,113789,52,,Southampton
+385,No,3era. clase,"Plotcharsky, Mr. Vasil",Hombre,NA,0,0,349227,7.8958,,Southampton
+386,No,2nda. clase,"Davies, Mr. Charles Henry",Hombre,18,0,0,S.O.C. 14879,73.5,,Southampton
+387,No,3era. clase,"Goodwin, Master. Sidney Leonard",Hombre,1,5,2,CA 2144,46.9,,Southampton
+388,Sí,2nda. clase,"Buss, Miss. Kate",Mujer,36,0,0,27849,13,,Southampton
+389,No,3era. clase,"Sadlier, Mr. Matthew",Hombre,NA,0,0,367655,7.7292,,Queenstown
+390,Sí,2nda. clase,"Lehmann, Miss. Bertha",Mujer,17,0,0,SC 1748,12,,Cherbourg
+391,Sí,1era. clase,"Carter, Mr. William Ernest",Hombre,36,1,2,113760,120,B96 B98,Southampton
+392,Sí,3era. clase,"Jansson, Mr. Carl Olof",Hombre,21,0,0,350034,7.7958,,Southampton
+393,No,3era. clase,"Gustafsson, Mr. Johan Birger",Hombre,28,2,0,3101277,7.925,,Southampton
+394,Sí,1era. clase,"Newell, Miss. Marjorie",Mujer,23,1,0,35273,113.275,D36,Cherbourg
+395,Sí,3era. clase,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",Mujer,24,0,2,PP 9549,16.7,G6,Southampton
+396,No,3era. clase,"Johansson, Mr. Erik",Hombre,22,0,0,350052,7.7958,,Southampton
+397,No,3era. clase,"Olsson, Miss. Elina",Mujer,31,0,0,350407,7.8542,,Southampton
+398,No,2nda. clase,"McKane, Mr. Peter David",Hombre,46,0,0,28403,26,,Southampton
+399,No,2nda. clase,"Pain, Dr. Alfred",Hombre,23,0,0,244278,10.5,,Southampton
+400,Sí,2nda. clase,"Trout, Mrs. William H (Jessie L)",Mujer,28,0,0,240929,12.65,,Southampton
+401,Sí,3era. clase,"Niskanen, Mr. Juha",Hombre,39,0,0,STON/O 2. 3101289,7.925,,Southampton
+402,No,3era. clase,"Adams, Mr. John",Hombre,26,0,0,341826,8.05,,Southampton
+403,No,3era. clase,"Jussila, Miss. Mari Aina",Mujer,21,1,0,4137,9.825,,Southampton
+404,No,3era. clase,"Hakkarainen, Mr. Pekka Pietari",Hombre,28,1,0,STON/O2. 3101279,15.85,,Southampton
+405,No,3era. clase,"Oreskovic, Miss. Marija",Mujer,20,0,0,315096,8.6625,,Southampton
+406,No,2nda. clase,"Gale, Mr. Shadrach",Hombre,34,1,0,28664,21,,Southampton
+407,No,3era. clase,"Widegren, Mr. Carl/Charles Peter",Hombre,51,0,0,347064,7.75,,Southampton
+408,Sí,2nda. clase,"Richards, Master. William Rowe",Hombre,3,1,1,29106,18.75,,Southampton
+409,No,3era. clase,"Birkeland, Mr. Hans Martin Monsen",Hombre,21,0,0,312992,7.775,,Southampton
+410,No,3era. clase,"Lefebre, Miss. Ida",Mujer,NA,3,1,4133,25.4667,,Southampton
+411,No,3era. clase,"Sdycoff, Mr. Todor",Hombre,NA,0,0,349222,7.8958,,Southampton
+412,No,3era. clase,"Hart, Mr. Henry",Hombre,NA,0,0,394140,6.8583,,Queenstown
+413,Sí,1era. clase,"Minahan, Miss. Daisy E",Mujer,33,1,0,19928,90,C78,Queenstown
+414,No,2nda. clase,"Cunningham, Mr. Alfred Fleming",Hombre,NA,0,0,239853,0,,Southampton
+415,Sí,3era. clase,"Sundman, Mr. Johan Julian",Hombre,44,0,0,STON/O 2. 3101269,7.925,,Southampton
+416,No,3era. clase,"Meek, Mrs. Thomas (Annie Louise Rowley)",Mujer,NA,0,0,343095,8.05,,Southampton
+417,Sí,2nda. clase,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Mujer,34,1,1,28220,32.5,,Southampton
+418,Sí,2nda. clase,"Silven, Miss. Lyyli Karoliina",Mujer,18,0,2,250652,13,,Southampton
+419,No,2nda. clase,"Matthews, Mr. William John",Hombre,30,0,0,28228,13,,Southampton
+420,No,3era. clase,"Van Impe, Miss. Catharina",Mujer,10,0,2,345773,24.15,,Southampton
+421,No,3era. clase,"Gheorgheff, Mr. Stanio",Hombre,NA,0,0,349254,7.8958,,Cherbourg
+422,No,3era. clase,"Charters, Mr. David",Hombre,21,0,0,A/5. 13032,7.7333,,Queenstown
+423,No,3era. clase,"Zimmerman, Mr. Leo",Hombre,29,0,0,315082,7.875,,Southampton
+424,No,3era. clase,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",Mujer,28,1,1,347080,14.4,,Southampton
+425,No,3era. clase,"Rosblom, Mr. Viktor Richard",Hombre,18,1,1,370129,20.2125,,Southampton
+426,No,3era. clase,"Wiseman, Mr. Phillippe",Hombre,NA,0,0,A/4. 34244,7.25,,Southampton
+427,Sí,2nda. clase,"Clarke, Mrs. Charles V (Ada Maria Winfield)",Mujer,28,1,0,2003,26,,Southampton
+428,Sí,2nda. clase,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Mujer,19,0,0,250655,26,,Southampton
+429,No,3era. clase,"Flynn, Mr. James",Hombre,NA,0,0,364851,7.75,,Queenstown
+430,Sí,3era. clase,"Pickard, Mr. Berk (Berk Trembisky)",Hombre,32,0,0,SOTON/O.Q. 392078,8.05,E10,Southampton
+431,Sí,1era. clase,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",Hombre,28,0,0,110564,26.55,C52,Southampton
+432,Sí,3era. clase,"Thorneycroft, Mrs. Percival (Florence Kate White)",Mujer,NA,1,0,376564,16.1,,Southampton
+433,Sí,2nda. clase,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",Mujer,42,1,0,SC/AH 3085,26,,Southampton
+434,No,3era. clase,"Kallio, Mr. Nikolai Erland",Hombre,17,0,0,STON/O 2. 3101274,7.125,,Southampton
+435,No,1era. clase,"Silvey, Mr. William Baird",Hombre,50,1,0,13507,55.9,E44,Southampton
+436,Sí,1era. clase,"Carter, Miss. Lucile Polk",Mujer,14,1,2,113760,120,B96 B98,Southampton
+437,No,3era. clase,"Ford, Miss. Doolina Margaret ""Daisy""",Mujer,21,2,2,W./C. 6608,34.375,,Southampton
+438,Sí,2nda. clase,"Richards, Mrs. Sidney (Emily Hocking)",Mujer,24,2,3,29106,18.75,,Southampton
+439,No,1era. clase,"Fortune, Mr. Mark",Hombre,64,1,4,19950,263,C23 C25 C27,Southampton
+440,No,2nda. clase,"Kvillner, Mr. Johan Henrik Johannesson",Hombre,31,0,0,C.A. 18723,10.5,,Southampton
+441,Sí,2nda. clase,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",Mujer,45,1,1,F.C.C. 13529,26.25,,Southampton
+442,No,3era. clase,"Hampe, Mr. Leon",Hombre,20,0,0,345769,9.5,,Southampton
+443,No,3era. clase,"Petterson, Mr. Johan Emil",Hombre,25,1,0,347076,7.775,,Southampton
+444,Sí,2nda. clase,"Reynaldo, Ms. Encarnacion",Mujer,28,0,0,230434,13,,Southampton
+445,Sí,3era. clase,"Johannesen-Bratthammer, Mr. Bernt",Hombre,NA,0,0,65306,8.1125,,Southampton
+446,Sí,1era. clase,"Dodge, Master. Washington",Hombre,4,0,2,33638,81.8583,A34,Southampton
+447,Sí,2nda. clase,"Mellinger, Miss. Madeleine Violet",Mujer,13,0,1,250644,19.5,,Southampton
+448,Sí,1era. clase,"Seward, Mr. Frederic Kimber",Hombre,34,0,0,113794,26.55,,Southampton
+449,Sí,3era. clase,"Baclini, Miss. Marie Catherine",Mujer,5,2,1,2666,19.2583,,Cherbourg
+450,Sí,1era. clase,"Peuchen, Major. Arthur Godfrey",Hombre,52,0,0,113786,30.5,C104,Southampton
+451,No,2nda. clase,"West, Mr. Edwy Arthur",Hombre,36,1,2,C.A. 34651,27.75,,Southampton
+452,No,3era. clase,"Hagland, Mr. Ingvald Olai Olsen",Hombre,NA,1,0,65303,19.9667,,Southampton
+453,No,1era. clase,"Foreman, Mr. Benjamin Laventall",Hombre,30,0,0,113051,27.75,C111,Cherbourg
+454,Sí,1era. clase,"Goldenberg, Mr. Samuel L",Hombre,49,1,0,17453,89.1042,C92,Cherbourg
+455,No,3era. clase,"Peduzzi, Mr. Joseph",Hombre,NA,0,0,A/5 2817,8.05,,Southampton
+456,Sí,3era. clase,"Jalsevac, Mr. Ivan",Hombre,29,0,0,349240,7.8958,,Cherbourg
+457,No,1era. clase,"Millet, Mr. Francis Davis",Hombre,65,0,0,13509,26.55,E38,Southampton
+458,Sí,1era. clase,"Kenyon, Mrs. Frederick R (Marion)",Mujer,NA,1,0,17464,51.8625,D21,Southampton
+459,Sí,2nda. clase,"Toomey, Miss. Ellen",Mujer,50,0,0,F.C.C. 13531,10.5,,Southampton
+460,No,3era. clase,"O'Connor, Mr. Maurice",Hombre,NA,0,0,371060,7.75,,Queenstown
+461,Sí,1era. clase,"Anderson, Mr. Harry",Hombre,48,0,0,19952,26.55,E12,Southampton
+462,No,3era. clase,"Morley, Mr. William",Hombre,34,0,0,364506,8.05,,Southampton
+463,No,1era. clase,"Gee, Mr. Arthur H",Hombre,47,0,0,111320,38.5,E63,Southampton
+464,No,2nda. clase,"Milling, Mr. Jacob Christian",Hombre,48,0,0,234360,13,,Southampton
+465,No,3era. clase,"Maisner, Mr. Simon",Hombre,NA,0,0,A/S 2816,8.05,,Southampton
+466,No,3era. clase,"Goncalves, Mr. Manuel Estanslas",Hombre,38,0,0,SOTON/O.Q. 3101306,7.05,,Southampton
+467,No,2nda. clase,"Campbell, Mr. William",Hombre,NA,0,0,239853,0,,Southampton
+468,No,1era. clase,"Smart, Mr. John Montgomery",Hombre,56,0,0,113792,26.55,,Southampton
+469,No,3era. clase,"Scanlan, Mr. James",Hombre,NA,0,0,36209,7.725,,Queenstown
+470,Sí,3era. clase,"Baclini, Miss. Helene Barbara",Mujer,0.75,2,1,2666,19.2583,,Cherbourg
+471,No,3era. clase,"Keefe, Mr. Arthur",Hombre,NA,0,0,323592,7.25,,Southampton
+472,No,3era. clase,"Cacic, Mr. Luka",Hombre,38,0,0,315089,8.6625,,Southampton
+473,Sí,2nda. clase,"West, Mrs. Edwy Arthur (Ada Mary Worth)",Mujer,33,1,2,C.A. 34651,27.75,,Southampton
+474,Sí,2nda. clase,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",Mujer,23,0,0,SC/AH Basle 541,13.7917,D,Cherbourg
+475,No,3era. clase,"Strandberg, Miss. Ida Sofia",Mujer,22,0,0,7553,9.8375,,Southampton
+476,No,1era. clase,"Clifford, Mr. George Quincy",Hombre,NA,0,0,110465,52,A14,Southampton
+477,No,2nda. clase,"Renouf, Mr. Peter Henry",Hombre,34,1,0,31027,21,,Southampton
+478,No,3era. clase,"Braund, Mr. Lewis Richard",Hombre,29,1,0,3460,7.0458,,Southampton
+479,No,3era. clase,"Karlsson, Mr. Nils August",Hombre,22,0,0,350060,7.5208,,Southampton
+480,Sí,3era. clase,"Hirvonen, Miss. Hildur E",Mujer,2,0,1,3101298,12.2875,,Southampton
+481,No,3era. clase,"Goodwin, Master. Harold Victor",Hombre,9,5,2,CA 2144,46.9,,Southampton
+482,No,2nda. clase,"Frost, Mr. Anthony Wood ""Archie""",Hombre,NA,0,0,239854,0,,Southampton
+483,No,3era. clase,"Rouse, Mr. Richard Henry",Hombre,50,0,0,A/5 3594,8.05,,Southampton
+484,Sí,3era. clase,"Turkula, Mrs. (Hedwig)",Mujer,63,0,0,4134,9.5875,,Southampton
+485,Sí,1era. clase,"Bishop, Mr. Dickinson H",Hombre,25,1,0,11967,91.0792,B49,Cherbourg
+486,No,3era. clase,"Lefebre, Miss. Jeannie",Mujer,NA,3,1,4133,25.4667,,Southampton
+487,Sí,1era. clase,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",Mujer,35,1,0,19943,90,C93,Southampton
+488,No,1era. clase,"Kent, Mr. Edward Austin",Hombre,58,0,0,11771,29.7,B37,Cherbourg
+489,No,3era. clase,"Somerton, Mr. Francis William",Hombre,30,0,0,A.5. 18509,8.05,,Southampton
+490,Sí,3era. clase,"Coutts, Master. Eden Leslie ""Neville""",Hombre,9,1,1,C.A. 37671,15.9,,Southampton
+491,No,3era. clase,"Hagland, Mr. Konrad Mathias Reiersen",Hombre,NA,1,0,65304,19.9667,,Southampton
+492,No,3era. clase,"Windelov, Mr. Einar",Hombre,21,0,0,SOTON/OQ 3101317,7.25,,Southampton
+493,No,1era. clase,"Molson, Mr. Harry Markland",Hombre,55,0,0,113787,30.5,C30,Southampton
+494,No,1era. clase,"Artagaveytia, Mr. Ramon",Hombre,71,0,0,PC 17609,49.5042,,Cherbourg
+495,No,3era. clase,"Stanley, Mr. Edward Roland",Hombre,21,0,0,A/4 45380,8.05,,Southampton
+496,No,3era. clase,"Yousseff, Mr. Gerious",Hombre,NA,0,0,2627,14.4583,,Cherbourg
+497,Sí,1era. clase,"Eustis, Miss. Elizabeth Mussey",Mujer,54,1,0,36947,78.2667,D20,Cherbourg
+498,No,3era. clase,"Shellard, Mr. Frederick William",Hombre,NA,0,0,C.A. 6212,15.1,,Southampton
+499,No,1era. clase,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",Mujer,25,1,2,113781,151.55,C22 C26,Southampton
+500,No,3era. clase,"Svensson, Mr. Olof",Hombre,24,0,0,350035,7.7958,,Southampton
+501,No,3era. clase,"Calic, Mr. Petar",Hombre,17,0,0,315086,8.6625,,Southampton
+502,No,3era. clase,"Canavan, Miss. Mary",Mujer,21,0,0,364846,7.75,,Queenstown
+503,No,3era. clase,"O'Sullivan, Miss. Bridget Mary",Mujer,NA,0,0,330909,7.6292,,Queenstown
+504,No,3era. clase,"Laitinen, Miss. Kristina Sofia",Mujer,37,0,0,4135,9.5875,,Southampton
+505,Sí,1era. clase,"Maioni, Miss. Roberta",Mujer,16,0,0,110152,86.5,B79,Southampton
+506,No,1era. clase,"Penasco y Castellana, Mr. Victor de Satode",Hombre,18,1,0,PC 17758,108.9,C65,Cherbourg
+507,Sí,2nda. clase,"Quick, Mrs. Frederick Charles (Jane Richards)",Mujer,33,0,2,26360,26,,Southampton
+508,Sí,1era. clase,"Bradley, Mr. George (""George Arthur Brayton"")",Hombre,NA,0,0,111427,26.55,,Southampton
+509,No,3era. clase,"Olsen, Mr. Henry Margido",Hombre,28,0,0,C 4001,22.525,,Southampton
+510,Sí,3era. clase,"Lang, Mr. Fang",Hombre,26,0,0,1601,56.4958,,Southampton
+511,Sí,3era. clase,"Daly, Mr. Eugene Patrick",Hombre,29,0,0,382651,7.75,,Queenstown
+512,No,3era. clase,"Webber, Mr. James",Hombre,NA,0,0,SOTON/OQ 3101316,8.05,,Southampton
+513,Sí,1era. clase,"McGough, Mr. James Robert",Hombre,36,0,0,PC 17473,26.2875,E25,Southampton
+514,Sí,1era. clase,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",Mujer,54,1,0,PC 17603,59.4,,Cherbourg
+515,No,3era. clase,"Coleff, Mr. Satio",Hombre,24,0,0,349209,7.4958,,Southampton
+516,No,1era. clase,"Walker, Mr. William Anderson",Hombre,47,0,0,36967,34.0208,D46,Southampton
+517,Sí,2nda. clase,"Lemore, Mrs. (Amelia Milley)",Mujer,34,0,0,C.A. 34260,10.5,F33,Southampton
+518,No,3era. clase,"Ryan, Mr. Patrick",Hombre,NA,0,0,371110,24.15,,Queenstown
+519,Sí,2nda. clase,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",Mujer,36,1,0,226875,26,,Southampton
+520,No,3era. clase,"Pavlovic, Mr. Stefo",Hombre,32,0,0,349242,7.8958,,Southampton
+521,Sí,1era. clase,"Perreault, Miss. Anne",Mujer,30,0,0,12749,93.5,B73,Southampton
+522,No,3era. clase,"Vovk, Mr. Janko",Hombre,22,0,0,349252,7.8958,,Southampton
+523,No,3era. clase,"Lahoud, Mr. Sarkis",Hombre,NA,0,0,2624,7.225,,Cherbourg
+524,Sí,1era. clase,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",Mujer,44,0,1,111361,57.9792,B18,Cherbourg
+525,No,3era. clase,"Kassem, Mr. Fared",Hombre,NA,0,0,2700,7.2292,,Cherbourg
+526,No,3era. clase,"Farrell, Mr. James",Hombre,40.5,0,0,367232,7.75,,Queenstown
+527,Sí,2nda. clase,"Ridsdale, Miss. Lucy",Mujer,50,0,0,W./C. 14258,10.5,,Southampton
+528,No,1era. clase,"Farthing, Mr. John",Hombre,NA,0,0,PC 17483,221.7792,C95,Southampton
+529,No,3era. clase,"Salonen, Mr. Johan Werner",Hombre,39,0,0,3101296,7.925,,Southampton
+530,No,2nda. clase,"Hocking, Mr. Richard George",Hombre,23,2,1,29104,11.5,,Southampton
+531,Sí,2nda. clase,"Quick, Miss. Phyllis May",Mujer,2,1,1,26360,26,,Southampton
+532,No,3era. clase,"Toufik, Mr. Nakli",Hombre,NA,0,0,2641,7.2292,,Cherbourg
+533,No,3era. clase,"Elias, Mr. Joseph Jr",Hombre,17,1,1,2690,7.2292,,Cherbourg
+534,Sí,3era. clase,"Peter, Mrs. Catherine (Catherine Rizk)",Mujer,NA,0,2,2668,22.3583,,Cherbourg
+535,No,3era. clase,"Cacic, Miss. Marija",Mujer,30,0,0,315084,8.6625,,Southampton
+536,Sí,2nda. clase,"Hart, Miss. Eva Miriam",Mujer,7,0,2,F.C.C. 13529,26.25,,Southampton
+537,No,1era. clase,"Butt, Major. Archibald Willingham",Hombre,45,0,0,113050,26.55,B38,Southampton
+538,Sí,1era. clase,"LeRoy, Miss. Bertha",Mujer,30,0,0,PC 17761,106.425,,Cherbourg
+539,No,3era. clase,"Risien, Mr. Samuel Beard",Hombre,NA,0,0,364498,14.5,,Southampton
+540,Sí,1era. clase,"Frolicher, Miss. Hedwig Margaritha",Mujer,22,0,2,13568,49.5,B39,Cherbourg
+541,Sí,1era. clase,"Crosby, Miss. Harriet R",Mujer,36,0,2,WE/P 5735,71,B22,Southampton
+542,No,3era. clase,"Andersson, Miss. Ingeborg Constanzia",Mujer,9,4,2,347082,31.275,,Southampton
+543,No,3era. clase,"Andersson, Miss. Sigrid Elisabeth",Mujer,11,4,2,347082,31.275,,Southampton
+544,Sí,2nda. clase,"Beane, Mr. Edward",Hombre,32,1,0,2908,26,,Southampton
+545,No,1era. clase,"Douglas, Mr. Walter Donald",Hombre,50,1,0,PC 17761,106.425,C86,Cherbourg
+546,No,1era. clase,"Nicholson, Mr. Arthur Ernest",Hombre,64,0,0,693,26,,Southampton
+547,Sí,2nda. clase,"Beane, Mrs. Edward (Ethel Clarke)",Mujer,19,1,0,2908,26,,Southampton
+548,Sí,2nda. clase,"Padro y Manent, Mr. Julian",Hombre,NA,0,0,SC/PARIS 2146,13.8625,,Cherbourg
+549,No,3era. clase,"Goldsmith, Mr. Frank John",Hombre,33,1,1,363291,20.525,,Southampton
+550,Sí,2nda. clase,"Davies, Master. John Morgan Jr",Hombre,8,1,1,C.A. 33112,36.75,,Southampton
+551,Sí,1era. clase,"Thayer, Mr. John Borland Jr",Hombre,17,0,2,17421,110.8833,C70,Cherbourg
+552,No,2nda. clase,"Sharp, Mr. Percival James R",Hombre,27,0,0,244358,26,,Southampton
+553,No,3era. clase,"O'Brien, Mr. Timothy",Hombre,NA,0,0,330979,7.8292,,Queenstown
+554,Sí,3era. clase,"Leeni, Mr. Fahim (""Philip Zenni"")",Hombre,22,0,0,2620,7.225,,Cherbourg
+555,Sí,3era. clase,"Ohman, Miss. Velin",Mujer,22,0,0,347085,7.775,,Southampton
+556,No,1era. clase,"Wright, Mr. George",Hombre,62,0,0,113807,26.55,,Southampton
+557,Sí,1era. clase,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",Mujer,48,1,0,11755,39.6,A16,Cherbourg
+558,No,1era. clase,"Robbins, Mr. Victor",Hombre,NA,0,0,PC 17757,227.525,,Cherbourg
+559,Sí,1era. clase,"Taussig, Mrs. Emil (Tillie Mandelbaum)",Mujer,39,1,1,110413,79.65,E67,Southampton
+560,Sí,3era. clase,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Mujer,36,1,0,345572,17.4,,Southampton
+561,No,3era. clase,"Morrow, Mr. Thomas Rowan",Hombre,NA,0,0,372622,7.75,,Queenstown
+562,No,3era. clase,"Sivic, Mr. Husein",Hombre,40,0,0,349251,7.8958,,Southampton
+563,No,2nda. clase,"Norman, Mr. Robert Douglas",Hombre,28,0,0,218629,13.5,,Southampton
+564,No,3era. clase,"Simmons, Mr. John",Hombre,NA,0,0,SOTON/OQ 392082,8.05,,Southampton
+565,No,3era. clase,"Meanwell, Miss. (Marion Ogden)",Mujer,NA,0,0,SOTON/O.Q. 392087,8.05,,Southampton
+566,No,3era. clase,"Davies, Mr. Alfred J",Hombre,24,2,0,A/4 48871,24.15,,Southampton
+567,No,3era. clase,"Stoytcheff, Mr. Ilia",Hombre,19,0,0,349205,7.8958,,Southampton
+568,No,3era. clase,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",Mujer,29,0,4,349909,21.075,,Southampton
+569,No,3era. clase,"Doharr, Mr. Tannous",Hombre,NA,0,0,2686,7.2292,,Cherbourg
+570,Sí,3era. clase,"Jonsson, Mr. Carl",Hombre,32,0,0,350417,7.8542,,Southampton
+571,Sí,2nda. clase,"Harris, Mr. George",Hombre,62,0,0,S.W./PP 752,10.5,,Southampton
+572,Sí,1era. clase,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",Mujer,53,2,0,11769,51.4792,C101,Southampton
+573,Sí,1era. clase,"Flynn, Mr. John Irwin (""Irving"")",Hombre,36,0,0,PC 17474,26.3875,E25,Southampton
+574,Sí,3era. clase,"Kelly, Miss. Mary",Mujer,NA,0,0,14312,7.75,,Queenstown
+575,No,3era. clase,"Rush, Mr. Alfred George John",Hombre,16,0,0,A/4. 20589,8.05,,Southampton
+576,No,3era. clase,"Patchett, Mr. George",Hombre,19,0,0,358585,14.5,,Southampton
+577,Sí,2nda. clase,"Garside, Miss. Ethel",Mujer,34,0,0,243880,13,,Southampton
+578,Sí,1era. clase,"Silvey, Mrs. William Baird (Alice Munger)",Mujer,39,1,0,13507,55.9,E44,Southampton
+579,No,3era. clase,"Caram, Mrs. Joseph (Maria Elias)",Mujer,NA,1,0,2689,14.4583,,Cherbourg
+580,Sí,3era. clase,"Jussila, Mr. Eiriik",Hombre,32,0,0,STON/O 2. 3101286,7.925,,Southampton
+581,Sí,2nda. clase,"Christy, Miss. Julie Rachel",Mujer,25,1,1,237789,30,,Southampton
+582,Sí,1era. clase,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",Mujer,39,1,1,17421,110.8833,C68,Cherbourg
+583,No,2nda. clase,"Downton, Mr. William James",Hombre,54,0,0,28403,26,,Southampton
+584,No,1era. clase,"Ross, Mr. John Hugo",Hombre,36,0,0,13049,40.125,A10,Cherbourg
+585,No,3era. clase,"Paulner, Mr. Uscher",Hombre,NA,0,0,3411,8.7125,,Cherbourg
+586,Sí,1era. clase,"Taussig, Miss. Ruth",Mujer,18,0,2,110413,79.65,E68,Southampton
+587,No,2nda. clase,"Jarvis, Mr. John Denzil",Hombre,47,0,0,237565,15,,Southampton
+588,Sí,1era. clase,"Frolicher-Stehli, Mr. Maxmillian",Hombre,60,1,1,13567,79.2,B41,Cherbourg
+589,No,3era. clase,"Gilinski, Mr. Eliezer",Hombre,22,0,0,14973,8.05,,Southampton
+590,No,3era. clase,"Murdlin, Mr. Joseph",Hombre,NA,0,0,A./5. 3235,8.05,,Southampton
+591,No,3era. clase,"Rintamaki, Mr. Matti",Hombre,35,0,0,STON/O 2. 3101273,7.125,,Southampton
+592,Sí,1era. clase,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",Mujer,52,1,0,36947,78.2667,D20,Cherbourg
+593,No,3era. clase,"Elsbury, Mr. William James",Hombre,47,0,0,A/5 3902,7.25,,Southampton
+594,No,3era. clase,"Bourke, Miss. Mary",Mujer,NA,0,2,364848,7.75,,Queenstown
+595,No,2nda. clase,"Chapman, Mr. John Henry",Hombre,37,1,0,SC/AH 29037,26,,Southampton
+596,No,3era. clase,"Van Impe, Mr. Jean Baptiste",Hombre,36,1,1,345773,24.15,,Southampton
+597,Sí,2nda. clase,"Leitch, Miss. Jessie Wills",Mujer,NA,0,0,248727,33,,Southampton
+598,No,3era. clase,"Johnson, Mr. Alfred",Hombre,49,0,0,LINE,0,,Southampton
+599,No,3era. clase,"Boulos, Mr. Hanna",Hombre,NA,0,0,2664,7.225,,Cherbourg
+600,Sí,1era. clase,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",Hombre,49,1,0,PC 17485,56.9292,A20,Cherbourg
+601,Sí,2nda. clase,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",Mujer,24,2,1,243847,27,,Southampton
+602,No,3era. clase,"Slabenoff, Mr. Petco",Hombre,NA,0,0,349214,7.8958,,Southampton
+603,No,1era. clase,"Harrington, Mr. Charles H",Hombre,NA,0,0,113796,42.4,,Southampton
+604,No,3era. clase,"Torber, Mr. Ernst William",Hombre,44,0,0,364511,8.05,,Southampton
+605,Sí,1era. clase,"Homer, Mr. Harry (""Mr E Haven"")",Hombre,35,0,0,111426,26.55,,Cherbourg
+606,No,3era. clase,"Lindell, Mr. Edvard Bengtsson",Hombre,36,1,0,349910,15.55,,Southampton
+607,No,3era. clase,"Karaic, Mr. Milan",Hombre,30,0,0,349246,7.8958,,Southampton
+608,Sí,1era. clase,"Daniel, Mr. Robert Williams",Hombre,27,0,0,113804,30.5,,Southampton
+609,Sí,2nda. clase,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",Mujer,22,1,2,SC/Paris 2123,41.5792,,Cherbourg
+610,Sí,1era. clase,"Shutes, Miss. Elizabeth W",Mujer,40,0,0,PC 17582,153.4625,C125,Southampton
+611,No,3era. clase,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",Mujer,39,1,5,347082,31.275,,Southampton
+612,No,3era. clase,"Jardin, Mr. Jose Neto",Hombre,NA,0,0,SOTON/O.Q. 3101305,7.05,,Southampton
+613,Sí,3era. clase,"Murphy, Miss. Margaret Jane",Mujer,NA,1,0,367230,15.5,,Queenstown
+614,No,3era. clase,"Horgan, Mr. John",Hombre,NA,0,0,370377,7.75,,Queenstown
+615,No,3era. clase,"Brocklebank, Mr. William Alfred",Hombre,35,0,0,364512,8.05,,Southampton
+616,Sí,2nda. clase,"Herman, Miss. Alice",Mujer,24,1,2,220845,65,,Southampton
+617,No,3era. clase,"Danbom, Mr. Ernst Gilbert",Hombre,34,1,1,347080,14.4,,Southampton
+618,No,3era. clase,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",Mujer,26,1,0,A/5. 3336,16.1,,Southampton
+619,Sí,2nda. clase,"Becker, Miss. Marion Louise",Mujer,4,2,1,230136,39,F4,Southampton
+620,No,2nda. clase,"Gavey, Mr. Lawrence",Hombre,26,0,0,31028,10.5,,Southampton
+621,No,3era. clase,"Yasbeck, Mr. Antoni",Hombre,27,1,0,2659,14.4542,,Cherbourg
+622,Sí,1era. clase,"Kimball, Mr. Edwin Nelson Jr",Hombre,42,1,0,11753,52.5542,D19,Southampton
+623,Sí,3era. clase,"Nakid, Mr. Sahid",Hombre,20,1,1,2653,15.7417,,Cherbourg
+624,No,3era. clase,"Hansen, Mr. Henry Damsgaard",Hombre,21,0,0,350029,7.8542,,Southampton
+625,No,3era. clase,"Bowen, Mr. David John ""Dai""",Hombre,21,0,0,54636,16.1,,Southampton
+626,No,1era. clase,"Sutton, Mr. Frederick",Hombre,61,0,0,36963,32.3208,D50,Southampton
+627,No,2nda. clase,"Kirkland, Rev. Charles Leonard",Hombre,57,0,0,219533,12.35,,Queenstown
+628,Sí,1era. clase,"Longley, Miss. Gretchen Fiske",Mujer,21,0,0,13502,77.9583,D9,Southampton
+629,No,3era. clase,"Bostandyeff, Mr. Guentcho",Hombre,26,0,0,349224,7.8958,,Southampton
+630,No,3era. clase,"O'Connell, Mr. Patrick D",Hombre,NA,0,0,334912,7.7333,,Queenstown
+631,Sí,1era. clase,"Barkworth, Mr. Algernon Henry Wilson",Hombre,80,0,0,27042,30,A23,Southampton
+632,No,3era. clase,"Lundahl, Mr. Johan Svensson",Hombre,51,0,0,347743,7.0542,,Southampton
+633,Sí,1era. clase,"Stahelin-Maeglin, Dr. Max",Hombre,32,0,0,13214,30.5,B50,Cherbourg
+634,No,1era. clase,"Parr, Mr. William Henry Marsh",Hombre,NA,0,0,112052,0,,Southampton
+635,No,3era. clase,"Skoog, Miss. Mabel",Mujer,9,3,2,347088,27.9,,Southampton
+636,Sí,2nda. clase,"Davis, Miss. Mary",Mujer,28,0,0,237668,13,,Southampton
+637,No,3era. clase,"Leinonen, Mr. Antti Gustaf",Hombre,32,0,0,STON/O 2. 3101292,7.925,,Southampton
+638,No,2nda. clase,"Collyer, Mr. Harvey",Hombre,31,1,1,C.A. 31921,26.25,,Southampton
+639,No,3era. clase,"Panula, Mrs. Juha (Maria Emilia Ojala)",Mujer,41,0,5,3101295,39.6875,,Southampton
+640,No,3era. clase,"Thorneycroft, Mr. Percival",Hombre,NA,1,0,376564,16.1,,Southampton
+641,No,3era. clase,"Jensen, Mr. Hans Peder",Hombre,20,0,0,350050,7.8542,,Southampton
+642,Sí,1era. clase,"Sagesser, Mlle. Emma",Mujer,24,0,0,PC 17477,69.3,B35,Cherbourg
+643,No,3era. clase,"Skoog, Miss. Margit Elizabeth",Mujer,2,3,2,347088,27.9,,Southampton
+644,Sí,3era. clase,"Foo, Mr. Choong",Hombre,NA,0,0,1601,56.4958,,Southampton
+645,Sí,3era. clase,"Baclini, Miss. Eugenie",Mujer,0.75,2,1,2666,19.2583,,Cherbourg
+646,Sí,1era. clase,"Harper, Mr. Henry Sleeper",Hombre,48,1,0,PC 17572,76.7292,D33,Cherbourg
+647,No,3era. clase,"Cor, Mr. Liudevit",Hombre,19,0,0,349231,7.8958,,Southampton
+648,Sí,1era. clase,"Simonius-Blumer, Col. Oberst Alfons",Hombre,56,0,0,13213,35.5,A26,Cherbourg
+649,No,3era. clase,"Willey, Mr. Edward",Hombre,NA,0,0,S.O./P.P. 751,7.55,,Southampton
+650,Sí,3era. clase,"Stanley, Miss. Amy Zillah Elsie",Mujer,23,0,0,CA. 2314,7.55,,Southampton
+651,No,3era. clase,"Mitkoff, Mr. Mito",Hombre,NA,0,0,349221,7.8958,,Southampton
+652,Sí,2nda. clase,"Doling, Miss. Elsie",Mujer,18,0,1,231919,23,,Southampton
+653,No,3era. clase,"Kalvik, Mr. Johannes Halvorsen",Hombre,21,0,0,8475,8.4333,,Southampton
+654,Sí,3era. clase,"O'Leary, Miss. Hanora ""Norah""",Mujer,NA,0,0,330919,7.8292,,Queenstown
+655,No,3era. clase,"Hegarty, Miss. Hanora ""Nora""",Mujer,18,0,0,365226,6.75,,Queenstown
+656,No,2nda. clase,"Hickman, Mr. Leonard Mark",Hombre,24,2,0,S.O.C. 14879,73.5,,Southampton
+657,No,3era. clase,"Radeff, Mr. Alexander",Hombre,NA,0,0,349223,7.8958,,Southampton
+658,No,3era. clase,"Bourke, Mrs. John (Catherine)",Mujer,32,1,1,364849,15.5,,Queenstown
+659,No,2nda. clase,"Eitemiller, Mr. George Floyd",Hombre,23,0,0,29751,13,,Southampton
+660,No,1era. clase,"Newell, Mr. Arthur Webster",Hombre,58,0,2,35273,113.275,D48,Cherbourg
+661,Sí,1era. clase,"Frauenthal, Dr. Henry William",Hombre,50,2,0,PC 17611,133.65,,Southampton
+662,No,3era. clase,"Badt, Mr. Mohamed",Hombre,40,0,0,2623,7.225,,Cherbourg
+663,No,1era. clase,"Colley, Mr. Edward Pomeroy",Hombre,47,0,0,5727,25.5875,E58,Southampton
+664,No,3era. clase,"Coleff, Mr. Peju",Hombre,36,0,0,349210,7.4958,,Southampton
+665,Sí,3era. clase,"Lindqvist, Mr. Eino William",Hombre,20,1,0,STON/O 2. 3101285,7.925,,Southampton
+666,No,2nda. clase,"Hickman, Mr. Lewis",Hombre,32,2,0,S.O.C. 14879,73.5,,Southampton
+667,No,2nda. clase,"Butler, Mr. Reginald Fenton",Hombre,25,0,0,234686,13,,Southampton
+668,No,3era. clase,"Rommetvedt, Mr. Knud Paust",Hombre,NA,0,0,312993,7.775,,Southampton
+669,No,3era. clase,"Cook, Mr. Jacob",Hombre,43,0,0,A/5 3536,8.05,,Southampton
+670,Sí,1era. clase,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",Mujer,NA,1,0,19996,52,C126,Southampton
+671,Sí,2nda. clase,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Mujer,40,1,1,29750,39,,Southampton
+672,No,1era. clase,"Davidson, Mr. Thornton",Hombre,31,1,0,F.C. 12750,52,B71,Southampton
+673,No,2nda. clase,"Mitchell, Mr. Henry Michael",Hombre,70,0,0,C.A. 24580,10.5,,Southampton
+674,Sí,2nda. clase,"Wilhelms, Mr. Charles",Hombre,31,0,0,244270,13,,Southampton
+675,No,2nda. clase,"Watson, Mr. Ennis Hastings",Hombre,NA,0,0,239856,0,,Southampton
+676,No,3era. clase,"Edvardsson, Mr. Gustaf Hjalmar",Hombre,18,0,0,349912,7.775,,Southampton
+677,No,3era. clase,"Sawyer, Mr. Frederick Charles",Hombre,24.5,0,0,342826,8.05,,Southampton
+678,Sí,3era. clase,"Turja, Miss. Anna Sofia",Mujer,18,0,0,4138,9.8417,,Southampton
+679,No,3era. clase,"Goodwin, Mrs. Frederick (Augusta Tyler)",Mujer,43,1,6,CA 2144,46.9,,Southampton
+680,Sí,1era. clase,"Cardeza, Mr. Thomas Drake Martinez",Hombre,36,0,1,PC 17755,512.3292,B51 B53 B55,Cherbourg
+681,No,3era. clase,"Peters, Miss. Katie",Mujer,NA,0,0,330935,8.1375,,Queenstown
+682,Sí,1era. clase,"Hassab, Mr. Hammad",Hombre,27,0,0,PC 17572,76.7292,D49,Cherbourg
+683,No,3era. clase,"Olsvigen, Mr. Thor Anderson",Hombre,20,0,0,6563,9.225,,Southampton
+684,No,3era. clase,"Goodwin, Mr. Charles Edward",Hombre,14,5,2,CA 2144,46.9,,Southampton
+685,No,2nda. clase,"Brown, Mr. Thomas William Solomon",Hombre,60,1,1,29750,39,,Southampton
+686,No,2nda. clase,"Laroche, Mr. Joseph Philippe Lemercier",Hombre,25,1,2,SC/Paris 2123,41.5792,,Cherbourg
+687,No,3era. clase,"Panula, Mr. Jaako Arnold",Hombre,14,4,1,3101295,39.6875,,Southampton
+688,No,3era. clase,"Dakic, Mr. Branko",Hombre,19,0,0,349228,10.1708,,Southampton
+689,No,3era. clase,"Fischer, Mr. Eberhard Thelander",Hombre,18,0,0,350036,7.7958,,Southampton
+690,Sí,1era. clase,"Madill, Miss. Georgette Alexandra",Mujer,15,0,1,24160,211.3375,B5,Southampton
+691,Sí,1era. clase,"Dick, Mr. Albert Adrian",Hombre,31,1,0,17474,57,B20,Southampton
+692,Sí,3era. clase,"Karun, Miss. Manca",Mujer,4,0,1,349256,13.4167,,Cherbourg
+693,Sí,3era. clase,"Lam, Mr. Ali",Hombre,NA,0,0,1601,56.4958,,Southampton
+694,No,3era. clase,"Saad, Mr. Khalil",Hombre,25,0,0,2672,7.225,,Cherbourg
+695,No,1era. clase,"Weir, Col. John",Hombre,60,0,0,113800,26.55,,Southampton
+696,No,2nda. clase,"Chapman, Mr. Charles Henry",Hombre,52,0,0,248731,13.5,,Southampton
+697,No,3era. clase,"Kelly, Mr. James",Hombre,44,0,0,363592,8.05,,Southampton
+698,Sí,3era. clase,"Mullens, Miss. Katherine ""Katie""",Mujer,NA,0,0,35852,7.7333,,Queenstown
+699,No,1era. clase,"Thayer, Mr. John Borland",Hombre,49,1,1,17421,110.8833,C68,Cherbourg
+700,No,3era. clase,"Humblen, Mr. Adolf Mathias Nicolai Olsen",Hombre,42,0,0,348121,7.65,F G63,Southampton
+701,Sí,1era. clase,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",Mujer,18,1,0,PC 17757,227.525,C62 C64,Cherbourg
+702,Sí,1era. clase,"Silverthorne, Mr. Spencer Victor",Hombre,35,0,0,PC 17475,26.2875,E24,Southampton
+703,No,3era. clase,"Barbara, Miss. Saiide",Mujer,18,0,1,2691,14.4542,,Cherbourg
+704,No,3era. clase,"Gallagher, Mr. Martin",Hombre,25,0,0,36864,7.7417,,Queenstown
+705,No,3era. clase,"Hansen, Mr. Henrik Juul",Hombre,26,1,0,350025,7.8542,,Southampton
+706,No,2nda. clase,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",Hombre,39,0,0,250655,26,,Southampton
+707,Sí,2nda. clase,"Kelly, Mrs. Florence ""Fannie""",Mujer,45,0,0,223596,13.5,,Southampton
+708,Sí,1era. clase,"Calderhead, Mr. Edward Pennington",Hombre,42,0,0,PC 17476,26.2875,E24,Southampton
+709,Sí,1era. clase,"Cleaver, Miss. Alice",Mujer,22,0,0,113781,151.55,,Southampton
+710,Sí,3era. clase,"Moubarek, Master. Halim Gonios (""William George"")",Hombre,NA,1,1,2661,15.2458,,Cherbourg
+711,Sí,1era. clase,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",Mujer,24,0,0,PC 17482,49.5042,C90,Cherbourg
+712,No,1era. clase,"Klaber, Mr. Herman",Hombre,NA,0,0,113028,26.55,C124,Southampton
+713,Sí,1era. clase,"Taylor, Mr. Elmer Zebley",Hombre,48,1,0,19996,52,C126,Southampton
+714,No,3era. clase,"Larsson, Mr. August Viktor",Hombre,29,0,0,7545,9.4833,,Southampton
+715,No,2nda. clase,"Greenberg, Mr. Samuel",Hombre,52,0,0,250647,13,,Southampton
+716,No,3era. clase,"Soholt, Mr. Peter Andreas Lauritz Andersen",Hombre,19,0,0,348124,7.65,F G73,Southampton
+717,Sí,1era. clase,"Endres, Miss. Caroline Louise",Mujer,38,0,0,PC 17757,227.525,C45,Cherbourg
+718,Sí,2nda. clase,"Troutt, Miss. Edwina Celia ""Winnie""",Mujer,27,0,0,34218,10.5,E101,Southampton
+719,No,3era. clase,"McEvoy, Mr. Michael",Hombre,NA,0,0,36568,15.5,,Queenstown
+720,No,3era. clase,"Johnson, Mr. Malkolm Joackim",Hombre,33,0,0,347062,7.775,,Southampton
+721,Sí,2nda. clase,"Harper, Miss. Annie Jessie ""Nina""",Mujer,6,0,1,248727,33,,Southampton
+722,No,3era. clase,"Jensen, Mr. Svend Lauritz",Hombre,17,1,0,350048,7.0542,,Southampton
+723,No,2nda. clase,"Gillespie, Mr. William Henry",Hombre,34,0,0,12233,13,,Southampton
+724,No,2nda. clase,"Hodges, Mr. Henry Price",Hombre,50,0,0,250643,13,,Southampton
+725,Sí,1era. clase,"Chambers, Mr. Norman Campbell",Hombre,27,1,0,113806,53.1,E8,Southampton
+726,No,3era. clase,"Oreskovic, Mr. Luka",Hombre,20,0,0,315094,8.6625,,Southampton
+727,Sí,2nda. clase,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",Mujer,30,3,0,31027,21,,Southampton
+728,Sí,3era. clase,"Mannion, Miss. Margareth",Mujer,NA,0,0,36866,7.7375,,Queenstown
+729,No,2nda. clase,"Bryhl, Mr. Kurt Arnold Gottfrid",Hombre,25,1,0,236853,26,,Southampton
+730,No,3era. clase,"Ilmakangas, Miss. Pieta Sofia",Mujer,25,1,0,STON/O2. 3101271,7.925,,Southampton
+731,Sí,1era. clase,"Allen, Miss. Elisabeth Walton",Mujer,29,0,0,24160,211.3375,B5,Southampton
+732,No,3era. clase,"Hassan, Mr. Houssein G N",Hombre,11,0,0,2699,18.7875,,Cherbourg
+733,No,2nda. clase,"Knight, Mr. Robert J",Hombre,NA,0,0,239855,0,,Southampton
+734,No,2nda. clase,"Berriman, Mr. William John",Hombre,23,0,0,28425,13,,Southampton
+735,No,2nda. clase,"Troupiansky, Mr. Moses Aaron",Hombre,23,0,0,233639,13,,Southampton
+736,No,3era. clase,"Williams, Mr. Leslie",Hombre,28.5,0,0,54636,16.1,,Southampton
+737,No,3era. clase,"Ford, Mrs. Edward (Margaret Ann Watson)",Mujer,48,1,3,W./C. 6608,34.375,,Southampton
+738,Sí,1era. clase,"Lesurer, Mr. Gustave J",Hombre,35,0,0,PC 17755,512.3292,B101,Cherbourg
+739,No,3era. clase,"Ivanoff, Mr. Kanio",Hombre,NA,0,0,349201,7.8958,,Southampton
+740,No,3era. clase,"Nankoff, Mr. Minko",Hombre,NA,0,0,349218,7.8958,,Southampton
+741,Sí,1era. clase,"Hawksford, Mr. Walter James",Hombre,NA,0,0,16988,30,D45,Southampton
+742,No,1era. clase,"Cavendish, Mr. Tyrell William",Hombre,36,1,0,19877,78.85,C46,Southampton
+743,Sí,1era. clase,"Ryerson, Miss. Susan Parker ""Suzette""",Mujer,21,2,2,PC 17608,262.375,B57 B59 B63 B66,Cherbourg
+744,No,3era. clase,"McNamee, Mr. Neal",Hombre,24,1,0,376566,16.1,,Southampton
+745,Sí,3era. clase,"Stranden, Mr. Juho",Hombre,31,0,0,STON/O 2. 3101288,7.925,,Southampton
+746,No,1era. clase,"Crosby, Capt. Edward Gifford",Hombre,70,1,1,WE/P 5735,71,B22,Southampton
+747,No,3era. clase,"Abbott, Mr. Rossmore Edward",Hombre,16,1,1,C.A. 2673,20.25,,Southampton
+748,Sí,2nda. clase,"Sinkkonen, Miss. Anna",Mujer,30,0,0,250648,13,,Southampton
+749,No,1era. clase,"Marvin, Mr. Daniel Warner",Hombre,19,1,0,113773,53.1,D30,Southampton
+750,No,3era. clase,"Connaghton, Mr. Michael",Hombre,31,0,0,335097,7.75,,Queenstown
+751,Sí,2nda. clase,"Wells, Miss. Joan",Mujer,4,1,1,29103,23,,Southampton
+752,Sí,3era. clase,"Moor, Master. Meier",Hombre,6,0,1,392096,12.475,E121,Southampton
+753,No,3era. clase,"Vande Velde, Mr. Johannes Joseph",Hombre,33,0,0,345780,9.5,,Southampton
+754,No,3era. clase,"Jonkoff, Mr. Lalio",Hombre,23,0,0,349204,7.8958,,Southampton
+755,Sí,2nda. clase,"Herman, Mrs. Samuel (Jane Laver)",Mujer,48,1,2,220845,65,,Southampton
+756,Sí,2nda. clase,"Hamalainen, Master. Viljo",Hombre,0.67,1,1,250649,14.5,,Southampton
+757,No,3era. clase,"Carlsson, Mr. August Sigfrid",Hombre,28,0,0,350042,7.7958,,Southampton
+758,No,2nda. clase,"Bailey, Mr. Percy Andrew",Hombre,18,0,0,29108,11.5,,Southampton
+759,No,3era. clase,"Theobald, Mr. Thomas Leonard",Hombre,34,0,0,363294,8.05,,Southampton
+760,Sí,1era. clase,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",Mujer,33,0,0,110152,86.5,B77,Southampton
+761,No,3era. clase,"Garfirth, Mr. John",Hombre,NA,0,0,358585,14.5,,Southampton
+762,No,3era. clase,"Nirva, Mr. Iisakki Antino Aijo",Hombre,41,0,0,SOTON/O2 3101272,7.125,,Southampton
+763,Sí,3era. clase,"Barah, Mr. Hanna Assi",Hombre,20,0,0,2663,7.2292,,Cherbourg
+764,Sí,1era. clase,"Carter, Mrs. William Ernest (Lucile Polk)",Mujer,36,1,2,113760,120,B96 B98,Southampton
+765,No,3era. clase,"Eklund, Mr. Hans Linus",Hombre,16,0,0,347074,7.775,,Southampton
+766,Sí,1era. clase,"Hogeboom, Mrs. John C (Anna Andrews)",Mujer,51,1,0,13502,77.9583,D11,Southampton
+767,No,1era. clase,"Brewe, Dr. Arthur Jackson",Hombre,NA,0,0,112379,39.6,,Cherbourg
+768,No,3era. clase,"Mangan, Miss. Mary",Mujer,30.5,0,0,364850,7.75,,Queenstown
+769,No,3era. clase,"Moran, Mr. Daniel J",Hombre,NA,1,0,371110,24.15,,Queenstown
+770,No,3era. clase,"Gronnestad, Mr. Daniel Danielsen",Hombre,32,0,0,8471,8.3625,,Southampton
+771,No,3era. clase,"Lievens, Mr. Rene Aime",Hombre,24,0,0,345781,9.5,,Southampton
+772,No,3era. clase,"Jensen, Mr. Niels Peder",Hombre,48,0,0,350047,7.8542,,Southampton
+773,No,2nda. clase,"Mack, Mrs. (Mary)",Mujer,57,0,0,S.O./P.P. 3,10.5,E77,Southampton
+774,No,3era. clase,"Elias, Mr. Dibo",Hombre,NA,0,0,2674,7.225,,Cherbourg
+775,Sí,2nda. clase,"Hocking, Mrs. Elizabeth (Eliza Needs)",Mujer,54,1,3,29105,23,,Southampton
+776,No,3era. clase,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",Hombre,18,0,0,347078,7.75,,Southampton
+777,No,3era. clase,"Tobin, Mr. Roger",Hombre,NA,0,0,383121,7.75,F38,Queenstown
+778,Sí,3era. clase,"Emanuel, Miss. Virginia Ethel",Mujer,5,0,0,364516,12.475,,Southampton
+779,No,3era. clase,"Kilgannon, Mr. Thomas J",Hombre,NA,0,0,36865,7.7375,,Queenstown
+780,Sí,1era. clase,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",Mujer,43,0,1,24160,211.3375,B3,Southampton
+781,Sí,3era. clase,"Ayoub, Miss. Banoura",Mujer,13,0,0,2687,7.2292,,Cherbourg
+782,Sí,1era. clase,"Dick, Mrs. Albert Adrian (Vera Gillespie)",Mujer,17,1,0,17474,57,B20,Southampton
+783,No,1era. clase,"Long, Mr. Milton Clyde",Hombre,29,0,0,113501,30,D6,Southampton
+784,No,3era. clase,"Johnston, Mr. Andrew G",Hombre,NA,1,2,W./C. 6607,23.45,,Southampton
+785,No,3era. clase,"Ali, Mr. William",Hombre,25,0,0,SOTON/O.Q. 3101312,7.05,,Southampton
+786,No,3era. clase,"Harmer, Mr. Abraham (David Lishin)",Hombre,25,0,0,374887,7.25,,Southampton
+787,Sí,3era. clase,"Sjoblom, Miss. Anna Sofia",Mujer,18,0,0,3101265,7.4958,,Southampton
+788,No,3era. clase,"Rice, Master. George Hugh",Hombre,8,4,1,382652,29.125,,Queenstown
+789,Sí,3era. clase,"Dean, Master. Bertram Vere",Hombre,1,1,2,C.A. 2315,20.575,,Southampton
+790,No,1era. clase,"Guggenheim, Mr. Benjamin",Hombre,46,0,0,PC 17593,79.2,B82 B84,Cherbourg
+791,No,3era. clase,"Keane, Mr. Andrew ""Andy""",Hombre,NA,0,0,12460,7.75,,Queenstown
+792,No,2nda. clase,"Gaskell, Mr. Alfred",Hombre,16,0,0,239865,26,,Southampton
+793,No,3era. clase,"Sage, Miss. Stella Anna",Mujer,NA,8,2,CA. 2343,69.55,,Southampton
+794,No,1era. clase,"Hoyt, Mr. William Fisher",Hombre,NA,0,0,PC 17600,30.6958,,Cherbourg
+795,No,3era. clase,"Dantcheff, Mr. Ristiu",Hombre,25,0,0,349203,7.8958,,Southampton
+796,No,2nda. clase,"Otter, Mr. Richard",Hombre,39,0,0,28213,13,,Southampton
+797,Sí,1era. clase,"Leader, Dr. Alice (Farnham)",Mujer,49,0,0,17465,25.9292,D17,Southampton
+798,Sí,3era. clase,"Osman, Mrs. Mara",Mujer,31,0,0,349244,8.6833,,Southampton
+799,No,3era. clase,"Ibrahim Shawah, Mr. Yousseff",Hombre,30,0,0,2685,7.2292,,Cherbourg
+800,No,3era. clase,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",Mujer,30,1,1,345773,24.15,,Southampton
+801,No,2nda. clase,"Ponesell, Mr. Martin",Hombre,34,0,0,250647,13,,Southampton
+802,Sí,2nda. clase,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Mujer,31,1,1,C.A. 31921,26.25,,Southampton
+803,Sí,1era. clase,"Carter, Master. William Thornton II",Hombre,11,1,2,113760,120,B96 B98,Southampton
+804,Sí,3era. clase,"Thomas, Master. Assad Alexander",Hombre,0.42,0,1,2625,8.5167,,Cherbourg
+805,Sí,3era. clase,"Hedman, Mr. Oskar Arvid",Hombre,27,0,0,347089,6.975,,Southampton
+806,No,3era. clase,"Johansson, Mr. Karl Johan",Hombre,31,0,0,347063,7.775,,Southampton
+807,No,1era. clase,"Andrews, Mr. Thomas Jr",Hombre,39,0,0,112050,0,A36,Southampton
+808,No,3era. clase,"Pettersson, Miss. Ellen Natalia",Mujer,18,0,0,347087,7.775,,Southampton
+809,No,2nda. clase,"Meyer, Mr. August",Hombre,39,0,0,248723,13,,Southampton
+810,Sí,1era. clase,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",Mujer,33,1,0,113806,53.1,E8,Southampton
+811,No,3era. clase,"Alexander, Mr. William",Hombre,26,0,0,3474,7.8875,,Southampton
+812,No,3era. clase,"Lester, Mr. James",Hombre,39,0,0,A/4 48871,24.15,,Southampton
+813,No,2nda. clase,"Slemen, Mr. Richard James",Hombre,35,0,0,28206,10.5,,Southampton
+814,No,3era. clase,"Andersson, Miss. Ebba Iris Alfrida",Mujer,6,4,2,347082,31.275,,Southampton
+815,No,3era. clase,"Tomlin, Mr. Ernest Portage",Hombre,30.5,0,0,364499,8.05,,Southampton
+816,No,1era. clase,"Fry, Mr. Richard",Hombre,NA,0,0,112058,0,B102,Southampton
+817,No,3era. clase,"Heininen, Miss. Wendla Maria",Mujer,23,0,0,STON/O2. 3101290,7.925,,Southampton
+818,No,2nda. clase,"Mallet, Mr. Albert",Hombre,31,1,1,S.C./PARIS 2079,37.0042,,Cherbourg
+819,No,3era. clase,"Holm, Mr. John Fredrik Alexander",Hombre,43,0,0,C 7075,6.45,,Southampton
+820,No,3era. clase,"Skoog, Master. Karl Thorsten",Hombre,10,3,2,347088,27.9,,Southampton
+821,Sí,1era. clase,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",Mujer,52,1,1,12749,93.5,B69,Southampton
+822,Sí,3era. clase,"Lulic, Mr. Nikola",Hombre,27,0,0,315098,8.6625,,Southampton
+823,No,1era. clase,"Reuchlin, Jonkheer. John George",Hombre,38,0,0,19972,0,,Southampton
+824,Sí,3era. clase,"Moor, Mrs. (Beila)",Mujer,27,0,1,392096,12.475,E121,Southampton
+825,No,3era. clase,"Panula, Master. Urho Abraham",Hombre,2,4,1,3101295,39.6875,,Southampton
+826,No,3era. clase,"Flynn, Mr. John",Hombre,NA,0,0,368323,6.95,,Queenstown
+827,No,3era. clase,"Lam, Mr. Len",Hombre,NA,0,0,1601,56.4958,,Southampton
+828,Sí,2nda. clase,"Mallet, Master. Andre",Hombre,1,0,2,S.C./PARIS 2079,37.0042,,Cherbourg
+829,Sí,3era. clase,"McCormack, Mr. Thomas Joseph",Hombre,NA,0,0,367228,7.75,,Queenstown
+830,Sí,1era. clase,"Stone, Mrs. George Nelson (Martha Evelyn)",Mujer,62,0,0,113572,80,B28,NA
+831,Sí,3era. clase,"Yasbeck, Mrs. Antoni (Selini Alexander)",Mujer,15,1,0,2659,14.4542,,Cherbourg
+832,Sí,2nda. clase,"Richards, Master. George Sibley",Hombre,0.83,1,1,29106,18.75,,Southampton
+833,No,3era. clase,"Saad, Mr. Amin",Hombre,NA,0,0,2671,7.2292,,Cherbourg
+834,No,3era. clase,"Augustsson, Mr. Albert",Hombre,23,0,0,347468,7.8542,,Southampton
+835,No,3era. clase,"Allum, Mr. Owen George",Hombre,18,0,0,2223,8.3,,Southampton
+836,Sí,1era. clase,"Compton, Miss. Sara Rebecca",Mujer,39,1,1,PC 17756,83.1583,E49,Cherbourg
+837,No,3era. clase,"Pasic, Mr. Jakob",Hombre,21,0,0,315097,8.6625,,Southampton
+838,No,3era. clase,"Sirota, Mr. Maurice",Hombre,NA,0,0,392092,8.05,,Southampton
+839,Sí,3era. clase,"Chip, Mr. Chang",Hombre,32,0,0,1601,56.4958,,Southampton
+840,Sí,1era. clase,"Marechal, Mr. Pierre",Hombre,NA,0,0,11774,29.7,C47,Cherbourg
+841,No,3era. clase,"Alhomaki, Mr. Ilmari Rudolf",Hombre,20,0,0,SOTON/O2 3101287,7.925,,Southampton
+842,No,2nda. clase,"Mudd, Mr. Thomas Charles",Hombre,16,0,0,S.O./P.P. 3,10.5,,Southampton
+843,Sí,1era. clase,"Serepeca, Miss. Augusta",Mujer,30,0,0,113798,31,,Cherbourg
+844,No,3era. clase,"Lemberopolous, Mr. Peter L",Hombre,34.5,0,0,2683,6.4375,,Cherbourg
+845,No,3era. clase,"Culumovic, Mr. Jeso",Hombre,17,0,0,315090,8.6625,,Southampton
+846,No,3era. clase,"Abbing, Mr. Anthony",Hombre,42,0,0,C.A. 5547,7.55,,Southampton
+847,No,3era. clase,"Sage, Mr. Douglas Bullen",Hombre,NA,8,2,CA. 2343,69.55,,Southampton
+848,No,3era. clase,"Markoff, Mr. Marin",Hombre,35,0,0,349213,7.8958,,Cherbourg
+849,No,2nda. clase,"Harper, Rev. John",Hombre,28,0,1,248727,33,,Southampton
+850,Sí,1era. clase,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",Mujer,NA,1,0,17453,89.1042,C92,Cherbourg
+851,No,3era. clase,"Andersson, Master. Sigvard Harald Elias",Hombre,4,4,2,347082,31.275,,Southampton
+852,No,3era. clase,"Svensson, Mr. Johan",Hombre,74,0,0,347060,7.775,,Southampton
+853,No,3era. clase,"Boulos, Miss. Nourelain",Mujer,9,1,1,2678,15.2458,,Cherbourg
+854,Sí,1era. clase,"Lines, Miss. Mary Conover",Mujer,16,0,1,PC 17592,39.4,D28,Southampton
+855,No,2nda. clase,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",Mujer,44,1,0,244252,26,,Southampton
+856,Sí,3era. clase,"Aks, Mrs. Sam (Leah Rosen)",Mujer,18,0,1,392091,9.35,,Southampton
+857,Sí,1era. clase,"Wick, Mrs. George Dennick (Mary Hitchcock)",Mujer,45,1,1,36928,164.8667,,Southampton
+858,Sí,1era. clase,"Daly, Mr. Peter Denis ",Hombre,51,0,0,113055,26.55,E17,Southampton
+859,Sí,3era. clase,"Baclini, Mrs. Solomon (Latifa Qurban)",Mujer,24,0,3,2666,19.2583,,Cherbourg
+860,No,3era. clase,"Razi, Mr. Raihed",Hombre,NA,0,0,2629,7.2292,,Cherbourg
+861,No,3era. clase,"Hansen, Mr. Claus Peter",Hombre,41,2,0,350026,14.1083,,Southampton
+862,No,2nda. clase,"Giles, Mr. Frederick Edward",Hombre,21,1,0,28134,11.5,,Southampton
+863,Sí,1era. clase,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",Mujer,48,0,0,17466,25.9292,D17,Southampton
+864,No,3era. clase,"Sage, Miss. Dorothy Edith ""Dolly""",Mujer,NA,8,2,CA. 2343,69.55,,Southampton
+865,No,2nda. clase,"Gill, Mr. John William",Hombre,24,0,0,233866,13,,Southampton
+866,Sí,2nda. clase,"Bystrom, Mrs. (Karolina)",Mujer,42,0,0,236852,13,,Southampton
+867,Sí,2nda. clase,"Duran y More, Miss. Asuncion",Mujer,27,1,0,SC/PARIS 2149,13.8583,,Cherbourg
+868,No,1era. clase,"Roebling, Mr. Washington Augustus II",Hombre,31,0,0,PC 17590,50.4958,A24,Southampton
+869,No,3era. clase,"van Melkebeke, Mr. Philemon",Hombre,NA,0,0,345777,9.5,,Southampton
+870,Sí,3era. clase,"Johnson, Master. Harold Theodor",Hombre,4,1,1,347742,11.1333,,Southampton
+871,No,3era. clase,"Balkic, Mr. Cerin",Hombre,26,0,0,349248,7.8958,,Southampton
+872,Sí,1era. clase,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",Mujer,47,1,1,11751,52.5542,D35,Southampton
+873,No,1era. clase,"Carlsson, Mr. Frans Olof",Hombre,33,0,0,695,5,B51 B53 B55,Southampton
+874,No,3era. clase,"Vander Cruyssen, Mr. Victor",Hombre,47,0,0,345765,9,,Southampton
+875,Sí,2nda. clase,"Abelson, Mrs. Samuel (Hannah Wizosky)",Mujer,28,1,0,P/PP 3381,24,,Cherbourg
+876,Sí,3era. clase,"Najib, Miss. Adele Kiamie ""Jane""",Mujer,15,0,0,2667,7.225,,Cherbourg
+877,No,3era. clase,"Gustafsson, Mr. Alfred Ossian",Hombre,20,0,0,7534,9.8458,,Southampton
+878,No,3era. clase,"Petroff, Mr. Nedelio",Hombre,19,0,0,349212,7.8958,,Southampton
+879,No,3era. clase,"Laleff, Mr. Kristo",Hombre,NA,0,0,349217,7.8958,,Southampton
+880,Sí,1era. clase,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",Mujer,56,0,1,11767,83.1583,C50,Cherbourg
+881,Sí,2nda. clase,"Shelley, Mrs. William (Imanita Parrish Hall)",Mujer,25,0,1,230433,26,,Southampton
+882,No,3era. clase,"Markun, Mr. Johann",Hombre,33,0,0,349257,7.8958,,Southampton
+883,No,3era. clase,"Dahlberg, Miss. Gerda Ulrika",Mujer,22,0,0,7552,10.5167,,Southampton
+884,No,2nda. clase,"Banfield, Mr. Frederick James",Hombre,28,0,0,C.A./SOTON 34068,10.5,,Southampton
+885,No,3era. clase,"Sutehall, Mr. Henry Jr",Hombre,25,0,0,SOTON/OQ 392076,7.05,,Southampton
+886,No,3era. clase,"Rice, Mrs. William (Margaret Norton)",Mujer,39,0,5,382652,29.125,,Queenstown
+887,No,2nda. clase,"Montvila, Rev. Juozas",Hombre,27,0,0,211536,13,,Southampton
+888,Sí,1era. clase,"Graham, Miss. Margaret Edith",Mujer,19,0,0,112053,30,B42,Southampton
+889,No,3era. clase,"Johnston, Miss. Catherine Helen ""Carrie""",Mujer,NA,1,2,W./C. 6607,23.45,,Southampton
+890,Sí,1era. clase,"Behr, Mr. Karl Howell",Hombre,26,0,0,111369,30,C148,Cherbourg
+891,No,3era. clase,"Dooley, Mr. Patrick",Hombre,32,0,0,370376,7.75,,Queenstown
