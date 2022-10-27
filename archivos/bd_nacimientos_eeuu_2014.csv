@@ -1,0 +1,1001 @@
+edad_p,edad_m,madurez_m,semanas_gesta,prematuro,num_visitas,peso_ganado_m,peso_bebe,peso_bajo_bebe,sexo_bebe,habito_cigarro,estado_civil_m,raza
+34,34,Madre joven,37,No prematuro,14,12.700576,3.15700032,No,Hombre,No fuma,Casada,Blanca
+36,31,Madre joven,41,No prematuro,12,18.597272,4.01882512,No,Mujer,No fuma,Casada,Blanca
+37,36,Madre madura,37,No prematuro,10,12.700576,3.4064759199999997,No,Mujer,No fuma,Casada,No blanca
+NA,16,Madre joven,38,No prematuro,NA,13.154168,2.80773448,No,Hombre,No fuma,No casada,Blanca
+32,31,Madre joven,36,Prematuro,12,21.772416,3.061746,No,Mujer,No fuma,Casada,Blanca
+32,26,Madre joven,39,No prematuro,14,20.41164,3.0345304800000004,No,Mujer,No fuma,Casada,Blanca
+37,36,Madre madura,36,Prematuro,10,9.07184,2.7805189599999998,No,Mujer,No fuma,Casada,Blanca
+29,24,Madre joven,40,No prematuro,13,29.48348,3.05721008,No,Hombre,No fuma,No casada,Blanca
+30,32,Madre joven,39,No prematuro,15,11.3398,4.05511248,No,Mujer,No fuma,Casada,Blanca
+29,26,Madre joven,39,No prematuro,11,9.979023999999999,4.136759039999999,No,Hombre,No fuma,No casada,No blanca
+30,34,Madre joven,42,No prematuro,14,18.14368,4.04150472,No,Hombre,No fuma,Casada,Blanca
+34,27,Madre joven,40,No prematuro,16,13.607759999999999,3.628736,No,Hombre,No fuma,Casada,Blanca
+28,22,Madre joven,40,No prematuro,20,14.061352,3.288542,No,Mujer,No fuma,No casada,Blanca
+28,31,Madre joven,39,No prematuro,15,NA,3.7194543999999996,No,Hombre,No fuma,No casada,Blanca
+32,25,Madre joven,34,Prematuro,20,11.3398,3.08896152,No,Hombre,No fuma,No casada,No blanca
+24,20,Madre joven,37,No prematuro,10,31.75144,2.5219715199999997,No,Hombre,No fuma,No casada,Blanca
+29,32,Madre joven,38,No prematuro,12,9.979023999999999,3.061746,No,Mujer,No fuma,Casada,Blanca
+35,33,Madre joven,41,No prematuro,15,17.236496,2.154562,Sí,Hombre,No fuma,Casada,No blanca
+25,26,Madre joven,44,No prematuro,16,9.07184,2.71701608,No,Hombre,Fuma,No casada,Blanca
+22,23,Madre joven,40,No prematuro,18,14.061352,3.628736,No,Hombre,No fuma,No casada,Blanca
+32,29,Madre joven,40,No prematuro,15,NA,3.8736756799999994,No,Mujer,No fuma,Casada,Blanca
+21,20,Madre joven,40,No prematuro,11,0,3.4881224800000004,No,Hombre,No fuma,No casada,Blanca
+36,34,Madre joven,40,No prematuro,16,15.87572,2.9755635199999997,No,Mujer,No fuma,Casada,No blanca
+35,35,Madre madura,38,No prematuro,16,8.164656,2.75783936,No,Mujer,No fuma,No casada,No blanca
+22,24,Madre joven,40,No prematuro,12,12.700576,3.8736756799999994,No,Hombre,No fuma,Casada,Blanca
+29,23,Madre joven,41,No prematuro,NA,9.07184,3.76934952,No,Mujer,Fuma,No casada,Blanca
+38,31,Madre joven,39,No prematuro,13,0,3.16607216,No,Mujer,No fuma,Casada,Blanca
+40,42,Madre madura,44,No prematuro,9,19.958047999999998,3.56976904,No,Hombre,No fuma,Casada,No blanca
+26,27,Madre joven,39,No prematuro,13,31.297848,4.4089142400000005,No,Hombre,No fuma,Casada,Blanca
+20,32,Madre joven,39,No prematuro,13,4.53592,3.18875176,No,Hombre,No fuma,No casada,Blanca
+32,28,Madre joven,44,No prematuro,8,19.050864,3.2341109599999998,No,Mujer,No fuma,Casada,Blanca
+31,35,Madre madura,40,No prematuro,13,10.886208,3.1615362399999998,No,Mujer,No fuma,Casada,Blanca
+38,23,Madre joven,39,No prematuro,8,19.958047999999998,3.43822736,No,Hombre,No fuma,Casada,Blanca
+34,19,Madre joven,40,No prematuro,9,12.700576,3.7194543999999996,No,Hombre,No fuma,Casada,Blanca
+30,31,Madre joven,35,Prematuro,6,14.061352,2.721552,No,Hombre,No fuma,Casada,No blanca
+38,47,Madre madura,33,Prematuro,10,12.700576,1.9549815199999998,Sí,Hombre,No fuma,No casada,No blanca
+27,28,Madre joven,38,No prematuro,11,9.07184,3.3157575199999996,No,Hombre,No fuma,Casada,Blanca
+NA,32,Madre joven,40,No prematuro,2,15.87572,3.15700032,No,Hombre,No fuma,No casada,No blanca
+39,36,Madre madura,42,No prematuro,6,1.814368,3.515338,No,Mujer,No fuma,Casada,No blanca
+31,30,Madre joven,35,Prematuro,15,9.979023999999999,3.25225464,No,Hombre,No fuma,Casada,No blanca
+28,24,Madre joven,37,No prematuro,11,9.07184,3.20235952,No,Mujer,Fuma,No casada,Blanca
+32,36,Madre madura,39,No prematuro,NA,16.329312,3.14792848,No,Mujer,Fuma,Casada,Blanca
+25,29,Madre joven,37,No prematuro,7,4.082328,3.7149184799999997,No,Hombre,No fuma,Casada,Blanca
+21,19,Madre joven,40,No prematuro,13,10.886208,3.46090696,No,Mujer,No fuma,No casada,No blanca
+30,30,Madre joven,37,No prematuro,12,10.432616,2.948348,No,Hombre,No fuma,Casada,Blanca
+28,30,Madre joven,39,No prematuro,10,7.257472,3.08896152,No,Mujer,No fuma,Casada,Blanca
+26,34,Madre joven,39,No prematuro,14,11.3398,3.628736,No,Mujer,No fuma,Casada,Blanca
+42,43,Madre madura,34,Prematuro,15,15.87572,1.9005504800000002,Sí,Hombre,No fuma,Casada,Blanca
+35,28,Madre joven,39,No prematuro,13,7.711064,2.86670144,No,Mujer,No fuma,Casada,Blanca
+30,30,Madre joven,36,Prematuro,12,4.53592,2.154562,Sí,Hombre,Fuma,No casada,Blanca
+NA,33,Madre joven,40,No prematuro,17,5.443104,3.1433925599999997,No,Hombre,No fuma,No casada,No blanca
+32,31,Madre joven,40,No prematuro,19,8.618248,2.69433648,No,Mujer,No fuma,Casada,No blanca
+38,28,Madre joven,39,No prematuro,12,23.133192,3.43822736,No,Mujer,No fuma,Casada,Blanca
+33,31,Madre joven,36,Prematuro,10,8.618248,2.66712096,No,Hombre,No fuma,Casada,Blanca
+32,27,Madre joven,41,No prematuro,15,15.87572,3.6967748,No,Mujer,No fuma,No casada,Blanca
+28,26,Madre joven,41,No prematuro,11,9.07184,3.45183512,No,Mujer,No fuma,Casada,Blanca
+27,25,Madre joven,34,Prematuro,7,9.07184,1.9595174400000002,Sí,Mujer,Fuma,Casada,Blanca
+32,26,Madre joven,40,No prematuro,NA,10.432616,3.5017302399999997,No,Mujer,Fuma,No casada,Blanca
+25,29,Madre joven,39,No prematuro,9,22.6796,3.61966416,No,Hombre,No fuma,No casada,No blanca
+31,27,Madre joven,41,No prematuro,15,11.793392,3.2341109599999998,No,Hombre,No fuma,Casada,Blanca
+21,20,Madre joven,39,No prematuro,29,7.711064,2.91659656,No,Hombre,No fuma,No casada,Blanca
+NA,22,Madre joven,37,No prematuro,0,3.175144,2.4675404800000003,Sí,Hombre,No fuma,No casada,Blanca
+47,38,Madre madura,42,No prematuro,13,12.700576,3.96893,No,Mujer,No fuma,No casada,No blanca
+NA,25,Madre joven,40,No prematuro,10,15.422128,3.6151282399999998,No,Mujer,Fuma,No casada,Blanca
+37,39,Madre madura,39,No prematuro,3,12.246984,3.07988968,No,Mujer,NA,Casada,Blanca
+20,24,Madre joven,28,Prematuro,NA,NA,0.9797587200000001,Sí,Hombre,No fuma,No casada,Blanca
+33,26,Madre joven,40,No prematuro,7,14.514944,3.2341109599999998,No,Hombre,No fuma,No casada,No blanca
+41,32,Madre joven,34,Prematuro,0,0,3.36565264,No,Mujer,No fuma,No casada,Blanca
+37,35,Madre madura,39,No prematuro,9,18.597272,3.57884088,No,Hombre,No fuma,Casada,Blanca
+43,38,Madre madura,38,No prematuro,11,18.597272,3.8056368800000002,No,Mujer,No fuma,Casada,No blanca
+38,34,Madre joven,29,Prematuro,9,9.07184,0.82100152,Sí,Hombre,No fuma,Casada,No blanca
+NA,32,Madre joven,39,No prematuro,6,9.525432,2.4947559999999998,No,Mujer,No fuma,No casada,Blanca
+36,32,Madre joven,33,Prematuro,6,18.14368,2.5219715199999997,No,Mujer,No fuma,No casada,Blanca
+NA,22,Madre joven,38,No prematuro,11,16.782904,3.60152048,No,Mujer,No fuma,Casada,Blanca
+31,29,Madre joven,40,No prematuro,15,18.14368,3.26132648,No,Mujer,No fuma,Casada,Blanca
+31,33,Madre joven,38,No prematuro,10,18.14368,3.628736,No,Mujer,No fuma,Casada,Blanca
+25,28,Madre joven,37,No prematuro,14,8.618248,2.9755635199999997,No,Mujer,No fuma,Casada,Blanca
+43,28,Madre joven,39,No prematuro,5,14.514944,4.10954352,No,Hombre,No fuma,Casada,Blanca
+21,22,Madre joven,38,No prematuro,7,12.246984,3.17967992,No,Hombre,No fuma,No casada,Blanca
+NA,21,Madre joven,40,No prematuro,13,13.154168,3.8011009600000003,No,Mujer,No fuma,No casada,Blanca
+NA,16,Madre joven,40,No prematuro,9,24.94756,3.66502336,No,Mujer,No fuma,No casada,Blanca
+38,36,Madre madura,36,Prematuro,18,15.87572,2.4675404800000003,Sí,Hombre,No fuma,Casada,Blanca
+31,29,Madre joven,38,No prematuro,13,10.432616,3.4699788000000003,No,Hombre,No fuma,Casada,Blanca
+NA,27,Madre joven,39,No prematuro,10,26.308336,3.60152048,No,Mujer,No fuma,No casada,No blanca
+34,34,Madre joven,36,Prematuro,10,6.350288,1.9549815199999998,Sí,Mujer,No fuma,Casada,Blanca
+25,27,Madre joven,37,No prematuro,17,NA,3.4881224800000004,No,Mujer,No fuma,No casada,Blanca
+25,25,Madre joven,36,Prematuro,18,19.958047999999998,3.3792604,No,Hombre,Fuma,No casada,No blanca
+35,36,Madre madura,39,No prematuro,NA,32.205032,3.6604874400000003,No,Mujer,Fuma,Casada,Blanca
+26,27,Madre joven,38,No prematuro,12,10.432616,2.74876752,No,Hombre,No fuma,Casada,Blanca
+36,40,Madre madura,39,No prematuro,NA,18.14368,3.628736,No,Hombre,Fuma,Casada,Blanca
+19,18,Madre joven,38,No prematuro,NA,18.14368,3.60152048,No,Hombre,Fuma,No casada,Blanca
+25,23,Madre joven,38,No prematuro,14,16.329312,3.0345304800000004,No,Hombre,No fuma,No casada,Blanca
+24,20,Madre joven,37,No prematuro,2,8.618248,2.31785512,Sí,Mujer,No fuma,Casada,Blanca
+33,31,Madre joven,38,No prematuro,8,23.586784,3.6604874400000003,No,Hombre,No fuma,No casada,Blanca
+37,38,Madre madura,36,Prematuro,10,14.514944,2.73969568,No,Mujer,No fuma,Casada,No blanca
+21,20,Madre joven,38,No prematuro,7,9.07184,3.34297304,No,Hombre,No fuma,No casada,Blanca
+21,28,Madre joven,40,No prematuro,5,3.175144,3.1615362399999998,No,Mujer,No fuma,No casada,Blanca
+32,33,Madre joven,41,No prematuro,12,7.257472,3.4019399999999997,No,Mujer,No fuma,No casada,Blanca
+27,27,Madre joven,39,No prematuro,10,7.711064,2.88484512,No,Hombre,No fuma,No casada,No blanca
+39,37,Madre madura,41,No prematuro,25,11.793392,3.742134,No,Hombre,No fuma,Casada,Blanca
+29,27,Madre joven,41,No prematuro,10,7.711064,3.95985816,No,Hombre,No fuma,No casada,Blanca
+NA,37,Madre madura,39,No prematuro,0,NA,3.46090696,No,Mujer,No fuma,No casada,Blanca
+26,31,Madre joven,40,No prematuro,NA,6.8038799999999995,3.3747244800000002,No,Hombre,Fuma,No casada,Blanca
+25,31,Madre joven,32,Prematuro,12,18.597272,2.89391696,No,Hombre,No fuma,Casada,Blanca
+31,37,Madre madura,40,No prematuro,13,20.865232,3.76934952,No,Hombre,No fuma,Casada,Blanca
+38,30,Madre joven,38,No prematuro,3,24.040376,3.5244098399999997,No,Mujer,No fuma,Casada,Blanca
+NA,20,Madre joven,38,No prematuro,14,20.41164,2.9438120800000003,No,Mujer,No fuma,No casada,Blanca
+26,29,Madre joven,36,Prematuro,8,14.061352,3.0345304800000004,No,Hombre,No fuma,Casada,Blanca
+25,30,Madre joven,38,No prematuro,7,14.061352,2.63536952,No,Hombre,No fuma,Casada,Blanca
+28,28,Madre joven,40,No prematuro,12,17.236496,2.9211324800000003,No,Mujer,No fuma,No casada,Blanca
+27,26,Madre joven,40,No prematuro,9,24.493968,4.39077056,No,Mujer,No fuma,Casada,Blanca
+29,27,Madre joven,40,No prematuro,11,9.979023999999999,2.69433648,No,Mujer,No fuma,Casada,Blanca
+32,30,Madre joven,39,No prematuro,11,11.793392,3.34297304,No,Hombre,No fuma,No casada,Blanca
+43,27,Madre joven,39,No prematuro,14,20.41164,3.94171448,No,Mujer,No fuma,Casada,Blanca
+NA,26,Madre joven,39,No prematuro,8,15.87572,3.6831670399999994,No,Mujer,No fuma,No casada,Blanca
+29,25,Madre joven,40,No prematuro,11,9.525432,2.67165688,No,Mujer,Fuma,Casada,Blanca
+30,30,Madre joven,45,No prematuro,9,5.896696,3.46090696,No,Mujer,No fuma,Casada,Blanca
+24,26,Madre joven,37,No prematuro,12,11.3398,3.76934952,No,Mujer,No fuma,No casada,Blanca
+NA,18,Madre joven,39,No prematuro,10,13.607759999999999,2.7533034400000003,No,Mujer,No fuma,No casada,Blanca
+NA,21,Madre joven,39,No prematuro,13,15.87572,3.08896152,No,Mujer,No fuma,No casada,No blanca
+NA,27,Madre joven,39,No prematuro,13,15.422128,3.54255352,No,Hombre,No fuma,No casada,No blanca
+15,19,Madre joven,39,No prematuro,13,11.3398,3.14792848,No,Mujer,No fuma,No casada,No blanca
+38,33,Madre joven,39,No prematuro,11,5.443104,3.742134,No,Mujer,No fuma,No casada,No blanca
+28,29,Madre joven,40,No prematuro,17,34.472992,4.0278969600000005,No,Mujer,No fuma,Casada,Blanca
+36,43,Madre madura,39,No prematuro,10,16.329312,3.42008368,No,Hombre,No fuma,Casada,Blanca
+37,39,Madre madura,41,No prematuro,7,12.700576,2.9755635199999997,No,Mujer,No fuma,Casada,Blanca
+NA,21,Madre joven,39,No prematuro,9,15.87572,3.46090696,No,Hombre,No fuma,No casada,Blanca
+27,26,Madre joven,41,No prematuro,10,17.236496,4.023361039999999,No,Hombre,No fuma,Casada,Blanca
+NA,26,Madre joven,39,No prematuro,8,3.175144,3.515338,No,Hombre,Fuma,No casada,No blanca
+25,27,Madre joven,39,No prematuro,13,8.618248,2.6761928,No,Mujer,No fuma,Casada,No blanca
+46,38,Madre madura,40,No prematuro,11,5.443104,4.0278969600000005,No,Hombre,No fuma,Casada,Blanca
+27,28,Madre joven,39,No prematuro,14,13.607759999999999,2.70794424,No,Hombre,No fuma,Casada,Blanca
+43,39,Madre madura,40,No prematuro,11,16.782904,3.96893,No,Mujer,No fuma,Casada,Blanca
+41,24,Madre joven,40,No prematuro,15,17.236496,3.29307792,No,Hombre,No fuma,Casada,No blanca
+39,36,Madre madura,39,No prematuro,12,33.565808,3.88274752,No,Mujer,No fuma,Casada,Blanca
+34,31,Madre joven,40,No prematuro,16,20.41164,2.53104336,No,Mujer,No fuma,No casada,Blanca
+36,26,Madre joven,38,No prematuro,NA,11.3398,3.4881224800000004,No,Mujer,No fuma,No casada,Blanca
+31,31,Madre joven,37,No prematuro,12,16.329312,2.84402184,No,Mujer,No fuma,Casada,Blanca
+27,23,Madre joven,37,No prematuro,15,15.422128,2.68072872,No,Mujer,No fuma,Casada,Blanca
+NA,21,Madre joven,38,No prematuro,8,4.53592,2.55825888,No,Hombre,No fuma,No casada,No blanca
+43,38,Madre madura,38,No prematuro,14,11.3398,3.35204488,No,Mujer,No fuma,Casada,No blanca
+20,24,Madre joven,39,No prematuro,11,30.390664,3.5652331200000003,No,Mujer,No fuma,No casada,Blanca
+34,29,Madre joven,38,No prematuro,21,8.164656,2.0638435999999998,Sí,Hombre,NA,Casada,Blanca
+29,23,Madre joven,39,No prematuro,7,9.07184,2.2997114400000003,Sí,Mujer,No fuma,Casada,Blanca
+25,30,Madre joven,37,No prematuro,18,18.14368,3.175144,No,Mujer,No fuma,No casada,Blanca
+30,32,Madre joven,40,No prematuro,16,22.6796,4.19119008,No,Hombre,No fuma,Casada,Blanca
+25,24,Madre joven,37,No prematuro,12,11.793392,2.948348,No,Mujer,No fuma,No casada,Blanca
+31,31,Madre joven,39,No prematuro,11,13.154168,3.27493424,No,Mujer,No fuma,Casada,Blanca
+43,36,Madre madura,40,No prematuro,9,7.257472,3.1388566399999998,No,Mujer,No fuma,Casada,Blanca
+32,34,Madre joven,43,No prematuro,14,9.07184,3.5380176,No,Hombre,No fuma,Casada,Blanca
+34,31,Madre joven,38,No prematuro,12,9.07184,2.3269269599999998,Sí,Mujer,No fuma,Casada,No blanca
+21,26,Madre joven,43,No prematuro,11,6.350288,3.0163868000000003,No,Hombre,Fuma,No casada,Blanca
+29,22,Madre joven,37,No prematuro,12,11.793392,2.4947559999999998,Sí,Mujer,Fuma,No casada,Blanca
+38,42,Madre madura,39,No prematuro,18,4.082328,3.52894576,No,Hombre,No fuma,Casada,No blanca
+31,31,Madre joven,40,No prematuro,NA,13.154168,1.7826165600000001,Sí,Mujer,Fuma,Casada,Blanca
+NA,32,Madre joven,32,Prematuro,9,38.55532,3.6967748,No,Mujer,No fuma,No casada,Blanca
+21,24,Madre joven,39,No prematuro,9,28.122704,3.14792848,No,Mujer,No fuma,No casada,No blanca
+28,29,Madre joven,37,No prematuro,10,19.958047999999998,3.1524644,No,Mujer,No fuma,Casada,Blanca
+32,32,Madre joven,38,No prematuro,11,13.607759999999999,3.11617704,No,Hombre,No fuma,No casada,Blanca
+22,23,Madre joven,41,No prematuro,NA,21.318824,4.023361039999999,No,Hombre,No fuma,No casada,Blanca
+18,18,Madre joven,39,No prematuro,16,14.514944,4.00975328,No,Mujer,No fuma,No casada,Blanca
+31,29,Madre joven,40,No prematuro,9,NA,3.08896152,No,Hombre,No fuma,No casada,Blanca
+26,26,Madre joven,40,No prematuro,11,1.814368,3.45183512,No,Mujer,No fuma,Casada,Blanca
+20,26,Madre joven,39,No prematuro,15,11.793392,3.6559515200000003,No,Mujer,No fuma,Casada,No blanca
+34,30,Madre joven,39,No prematuro,13,13.154168,3.27039832,No,Mujer,No fuma,Casada,Blanca
+32,25,Madre joven,40,No prematuro,13,9.07184,3.27039832,No,Mujer,No fuma,No casada,No blanca
+29,23,Madre joven,37,No prematuro,11,16.329312,2.948348,No,Hombre,No fuma,No casada,Blanca
+34,30,Madre joven,36,Prematuro,28,11.3398,2.54918704,No,Hombre,No fuma,Casada,Blanca
+29,23,Madre joven,40,No prematuro,12,26.761928,3.8736756799999994,No,Hombre,No fuma,No casada,Blanca
+32,28,Madre joven,36,Prematuro,15,12.700576,2.721552,No,Mujer,No fuma,Casada,No blanca
+22,24,Madre joven,35,Prematuro,8,7.257472,4.195726,No,Mujer,Fuma,No casada,Blanca
+20,19,Madre joven,39,No prematuro,12,26.761928,2.6898005599999997,No,Mujer,Fuma,No casada,Blanca
+32,36,Madre madura,35,Prematuro,9,9.07184,3.4881224800000004,No,Mujer,No fuma,Casada,Blanca
+23,19,Madre joven,40,No prematuro,13,NA,4.22294152,No,Hombre,NA,Casada,Blanca
+47,36,Madre madura,39,No prematuro,15,9.07184,3.82831648,No,Hombre,No fuma,Casada,Blanca
+26,20,Madre joven,39,No prematuro,14,6.8038799999999995,2.80773448,No,Mujer,No fuma,Casada,Blanca
+24,19,Madre joven,34,Prematuro,9,15.422128,2.0139484800000003,Sí,Mujer,No fuma,Casada,Blanca
+24,25,Madre joven,36,Prematuro,8,0,2.4947559999999998,No,Hombre,No fuma,No casada,Blanca
+33,27,Madre joven,38,No prematuro,11,14.061352,3.3747244800000002,No,Hombre,No fuma,Casada,Blanca
+35,37,Madre madura,43,No prematuro,11,11.3398,3.26132648,No,Mujer,No fuma,Casada,Blanca
+34,25,Madre joven,41,No prematuro,13,15.87572,3.175144,No,Mujer,No fuma,Casada,No blanca
+39,34,Madre joven,41,No prematuro,13,19.050864,4.16851048,No,Mujer,No fuma,Casada,Blanca
+NA,25,Madre joven,38,No prematuro,13,NA,2.67165688,No,Hombre,No fuma,No casada,No blanca
+30,27,Madre joven,41,No prematuro,12,19.050864,3.8736756799999994,No,Hombre,No fuma,Casada,Blanca
+42,34,Madre joven,39,No prematuro,NA,9.979023999999999,3.41554776,No,Mujer,Fuma,Casada,Blanca
+26,31,Madre joven,38,No prematuro,11,12.700576,3.01185088,No,Mujer,No fuma,Casada,No blanca
+27,23,Madre joven,33,Prematuro,5,11.793392,3.96893,No,Hombre,No fuma,Casada,Blanca
+25,26,Madre joven,39,No prematuro,13,24.94756,3.08896152,No,Hombre,No fuma,No casada,Blanca
+27,27,Madre joven,37,No prematuro,12,13.154168,4.3998424,No,Hombre,No fuma,Casada,Blanca
+NA,34,Madre joven,29,Prematuro,6,22.226008,1.40159928,Sí,Mujer,No fuma,No casada,Blanca
+43,34,Madre joven,40,No prematuro,15,13.607759999999999,3.56976904,No,Mujer,No fuma,No casada,No blanca
+21,19,Madre joven,38,No prematuro,15,19.050864,3.94171448,No,Hombre,No fuma,No casada,Blanca
+33,33,Madre joven,31,Prematuro,12,16.329312,3.55162536,No,Hombre,No fuma,Casada,Blanca
+23,24,Madre joven,32,Prematuro,13,11.793392,3.07535376,No,Hombre,No fuma,Casada,No blanca
+42,40,Madre madura,38,No prematuro,10,8.164656,3.4019399999999997,No,Mujer,No fuma,Casada,Blanca
+48,35,Madre madura,36,Prematuro,5,7.257472,3.46090696,No,Hombre,No fuma,No casada,No blanca
+29,24,Madre joven,39,No prematuro,2,14.968536,2.91659656,No,Mujer,No fuma,No casada,Blanca
+25,21,Madre joven,38,No prematuro,12,9.07184,2.55825888,No,Hombre,No fuma,No casada,Blanca
+30,34,Madre joven,41,No prematuro,8,2.26796,3.515338,No,Mujer,No fuma,Casada,No blanca
+27,26,Madre joven,40,No prematuro,13,10.886208,2.77598304,No,Mujer,No fuma,Casada,Blanca
+31,34,Madre joven,40,No prematuro,17,44.452016,3.2794701600000002,No,Hombre,No fuma,Casada,Blanca
+16,25,Madre joven,40,No prematuro,12,32.205032,4.10954352,No,Hombre,No fuma,No casada,Blanca
+31,33,Madre joven,38,No prematuro,18,4.9895119999999995,3.28400608,No,Hombre,No fuma,Casada,Blanca
+28,32,Madre joven,43,No prematuro,NA,9.07184,4.0596483999999995,No,Hombre,No fuma,No casada,Blanca
+22,25,Madre joven,39,No prematuro,14,5.443104,3.55616128,No,Mujer,No fuma,No casada,Blanca
+NA,25,Madre joven,41,No prematuro,15,11.3398,3.94171448,No,Mujer,Fuma,No casada,Blanca
+27,22,Madre joven,39,No prematuro,12,16.329312,3.54255352,No,Hombre,No fuma,Casada,Blanca
+39,36,Madre madura,38,No prematuro,12,9.07184,2.9755635199999997,No,Mujer,No fuma,Casada,Blanca
+37,37,Madre madura,39,No prematuro,14,11.3398,3.60152048,No,Hombre,No fuma,Casada,Blanca
+31,31,Madre joven,38,No prematuro,12,1.360776,2.89391696,No,Mujer,No fuma,Casada,Blanca
+21,21,Madre joven,39,No prematuro,12,8.618248,2.9211324800000003,No,Mujer,No fuma,No casada,No blanca
+38,33,Madre joven,39,No prematuro,10,14.968536,3.1116411200000003,No,Mujer,No fuma,Casada,Blanca
+NA,35,Madre madura,37,No prematuro,11,19.958047999999998,2.80773448,No,Mujer,No fuma,No casada,No blanca
+33,23,Madre joven,34,Prematuro,11,15.422128,2.1999212,Sí,Mujer,No fuma,Casada,Blanca
+24,22,Madre joven,40,No prematuro,12,4.53592,2.29517552,Sí,Mujer,No fuma,No casada,Blanca
+33,37,Madre madura,38,No prematuro,19,11.793392,3.4019399999999997,No,Mujer,No fuma,Casada,No blanca
+38,39,Madre madura,40,No prematuro,0,20.41164,3.7648136,No,Mujer,No fuma,Casada,Blanca
+NA,24,Madre joven,40,No prematuro,12,33.112216,3.9734659199999998,No,Hombre,Fuma,No casada,Blanca
+41,36,Madre madura,38,No prematuro,9,14.968536,3.25225464,No,Hombre,No fuma,Casada,No blanca
+21,23,Madre joven,37,No prematuro,12,19.958047999999998,3.0345304800000004,No,Hombre,No fuma,No casada,Blanca
+24,22,Madre joven,39,No prematuro,13,3.628736,3.26132648,No,Mujer,No fuma,No casada,Blanca
+26,24,Madre joven,41,No prematuro,0,12.700576,2.948348,No,Hombre,Fuma,No casada,Blanca
+NA,30,Madre joven,38,No prematuro,10,9.979023999999999,3.34297304,No,Mujer,No fuma,No casada,Blanca
+24,21,Madre joven,41,No prematuro,14,15.87572,3.34297304,No,Hombre,No fuma,No casada,Blanca
+NA,24,Madre joven,38,No prematuro,4,4.53592,3.66955928,No,Hombre,No fuma,No casada,No blanca
+NA,18,Madre joven,40,No prematuro,5,20.41164,3.4110118399999996,No,Mujer,No fuma,No casada,Blanca
+30,29,Madre joven,41,No prematuro,14,15.422128,3.6060564,No,Hombre,No fuma,Casada,Blanca
+30,32,Madre joven,38,No prematuro,9,9.979023999999999,3.3157575199999996,No,Hombre,No fuma,Casada,Blanca
+NA,17,Madre joven,40,No prematuro,12,12.700576,2.83495,No,Hombre,No fuma,No casada,Blanca
+29,29,Madre joven,41,No prematuro,16,19.958047999999998,3.21596728,No,Hombre,No fuma,Casada,No blanca
+37,25,Madre joven,40,No prematuro,10,6.8038799999999995,3.5833768,No,Mujer,No fuma,No casada,Blanca
+28,26,Madre joven,39,No prematuro,10,15.87572,2.96195576,No,Hombre,No fuma,No casada,Blanca
+53,31,Madre joven,35,Prematuro,11,13.607759999999999,2.69433648,No,Mujer,No fuma,Casada,Blanca
+31,34,Madre joven,37,No prematuro,12,0.453592,2.98009944,No,Hombre,No fuma,Casada,Blanca
+21,22,Madre joven,38,No prematuro,15,7.711064,3.4699788000000003,No,Hombre,No fuma,No casada,Blanca
+33,29,Madre joven,39,No prematuro,11,15.87572,3.7330621600000002,No,Mujer,No fuma,Casada,Blanca
+38,36,Madre madura,40,No prematuro,17,13.154168,3.11617704,No,Mujer,No fuma,Casada,Blanca
+22,23,Madre joven,39,No prematuro,12,14.514944,3.2205032,No,Hombre,No fuma,Casada,No blanca
+30,30,Madre joven,41,No prematuro,20,15.422128,3.3339011999999997,No,Hombre,No fuma,Casada,Blanca
+32,28,Madre joven,38,No prematuro,8,6.8038799999999995,3.17967992,No,Mujer,No fuma,No casada,No blanca
+38,27,Madre joven,39,No prematuro,17,NA,4.0278969600000005,No,Hombre,No fuma,Casada,No blanca
+35,35,Madre madura,37,No prematuro,10,12.700576,2.83495,No,Mujer,No fuma,No casada,Blanca
+NA,23,Madre joven,39,No prematuro,12,NA,3.4291555199999997,No,Hombre,No fuma,No casada,No blanca
+25,25,Madre joven,36,Prematuro,9,12.246984,2.948348,No,Hombre,No fuma,No casada,No blanca
+NA,23,Madre joven,39,No prematuro,11,10.432616,3.6831670399999994,No,Hombre,No fuma,No casada,Blanca
+30,31,Madre joven,38,No prematuro,8,9.525432,4.817147039999999,No,Hombre,NA,Casada,Blanca
+36,34,Madre joven,40,No prematuro,10,13.154168,3.0481382399999997,No,Hombre,No fuma,Casada,Blanca
+38,38,Madre madura,40,No prematuro,15,12.246984,3.61966416,No,Mujer,No fuma,Casada,Blanca
+NA,26,Madre joven,39,No prematuro,16,14.968536,4.16851048,No,Hombre,No fuma,Casada,Blanca
+37,34,Madre joven,39,No prematuro,15,13.154168,3.3747244800000002,No,Hombre,No fuma,Casada,Blanca
+44,37,Madre madura,34,Prematuro,16,16.782904,2.0683795199999997,Sí,Hombre,No fuma,Casada,Blanca
+35,34,Madre joven,39,No prematuro,8,25.854744,3.69223888,No,Hombre,No fuma,Casada,Blanca
+32,32,Madre joven,39,No prematuro,10,11.3398,2.9710275999999998,No,Hombre,NA,Casada,No blanca
+18,20,Madre joven,38,No prematuro,NA,11.793392,3.1116411200000003,No,Hombre,Fuma,No casada,No blanca
+35,32,Madre joven,42,No prematuro,12,14.514944,3.76934952,No,Mujer,No fuma,Casada,Blanca
+28,23,Madre joven,41,No prematuro,7,7.711064,4.2864444,No,Hombre,No fuma,No casada,Blanca
+28,29,Madre joven,39,No prematuro,11,9.979023999999999,4.25922888,No,Hombre,No fuma,Casada,Blanca
+41,37,Madre madura,42,No prematuro,13,9.07184,3.94171448,No,Mujer,No fuma,Casada,Blanca
+37,32,Madre joven,40,No prematuro,12,18.597272,3.68770296,No,Hombre,No fuma,Casada,Blanca
+31,30,Madre joven,40,No prematuro,12,18.14368,3.12524888,No,Mujer,No fuma,Casada,No blanca
+38,31,Madre joven,43,No prematuro,7,0.453592,3.47451472,No,Mujer,No fuma,Casada,No blanca
+37,38,Madre madura,40,No prematuro,12,9.07184,2.7669112,No,Mujer,No fuma,Casada,No blanca
+33,33,Madre joven,35,Prematuro,8,8.618248,2.4992919199999997,No,Mujer,No fuma,Casada,Blanca
+20,22,Madre joven,39,No prematuro,8,20.41164,3.855532,No,Hombre,No fuma,Casada,Blanca
+27,30,Madre joven,38,No prematuro,6,8.164656,3.56976904,No,Mujer,No fuma,No casada,Blanca
+25,27,Madre joven,39,No prematuro,13,13.607759999999999,4.05511248,No,Hombre,No fuma,No casada,Blanca
+38,36,Madre madura,37,No prematuro,11,9.979023999999999,3.1388566399999998,No,Mujer,No fuma,Casada,Blanca
+37,34,Madre joven,39,No prematuro,12,12.246984,3.4019399999999997,No,Hombre,No fuma,Casada,Blanca
+20,22,Madre joven,36,Prematuro,8,15.422128,3.742134,No,Mujer,No fuma,Casada,Blanca
+25,24,Madre joven,39,No prematuro,14,5.896696,3.16607216,No,Mujer,No fuma,No casada,Blanca
+38,35,Madre madura,39,No prematuro,14,0,3.96893,No,Hombre,No fuma,Casada,No blanca
+40,37,Madre madura,39,No prematuro,13,9.979023999999999,3.47451472,No,Hombre,No fuma,Casada,Blanca
+22,21,Madre joven,41,No prematuro,10,19.050864,3.22957504,No,Mujer,No fuma,No casada,Blanca
+44,39,Madre madura,41,No prematuro,17,15.87572,3.7149184799999997,No,Hombre,No fuma,No casada,Blanca
+29,20,Madre joven,32,Prematuro,13,13.607759999999999,3.0345304800000004,No,Hombre,Fuma,No casada,Blanca
+31,25,Madre joven,35,Prematuro,9,19.050864,1.80076024,Sí,Mujer,No fuma,Casada,Blanca
+27,28,Madre joven,34,Prematuro,10,24.94756,2.721552,No,Mujer,No fuma,Casada,No blanca
+31,24,Madre joven,40,No prematuro,5,NA,3.0481382399999997,No,Hombre,No fuma,No casada,No blanca
+24,25,Madre joven,38,No prematuro,13,6.350288,2.8621655199999996,No,Mujer,No fuma,No casada,Blanca
+24,25,Madre joven,39,No prematuro,10,7.711064,3.9099630399999996,No,Hombre,No fuma,No casada,Blanca
+NA,20,Madre joven,41,No prematuro,15,18.14368,3.6060564,No,Hombre,No fuma,No casada,No blanca
+26,26,Madre joven,41,No prematuro,10,NA,3.742134,No,Hombre,No fuma,Casada,Blanca
+NA,36,Madre madura,30,Prematuro,3,8.164656,1.2337702400000001,Sí,Mujer,Fuma,No casada,Blanca
+26,27,Madre joven,41,No prematuro,16,18.14368,3.288542,No,Mujer,No fuma,Casada,Blanca
+35,27,Madre joven,39,No prematuro,4,2.26796,3.43822736,No,Mujer,No fuma,Casada,No blanca
+30,25,Madre joven,38,No prematuro,4,11.3398,3.47905064,No,Hombre,No fuma,No casada,Blanca
+NA,27,Madre joven,37,No prematuro,4,14.061352,3.00277904,No,Mujer,Fuma,No casada,Blanca
+36,29,Madre joven,39,No prematuro,9,11.3398,3.6831670399999994,No,Hombre,No fuma,Casada,No blanca
+35,35,Madre madura,38,No prematuro,10,18.14368,3.61966416,No,Mujer,No fuma,Casada,Blanca
+47,33,Madre joven,39,No prematuro,7,4.9895119999999995,3.2341109599999998,No,Hombre,No fuma,Casada,No blanca
+23,18,Madre joven,38,No prematuro,10,17.236496,3.4291555199999997,No,Hombre,No fuma,No casada,No blanca
+23,23,Madre joven,40,No prematuro,13,13.607759999999999,3.7330621600000002,No,Mujer,No fuma,Casada,Blanca
+22,20,Madre joven,39,No prematuro,10,4.53592,2.96195576,No,Mujer,No fuma,Casada,Blanca
+33,33,Madre joven,39,No prematuro,13,14.061352,3.4881224800000004,No,Hombre,No fuma,Casada,Blanca
+31,26,Madre joven,39,No prematuro,16,20.865232,3.26132648,No,Hombre,No fuma,Casada,Blanca
+43,32,Madre joven,39,No prematuro,10,13.154168,3.742134,No,Mujer,No fuma,Casada,Blanca
+21,23,Madre joven,40,No prematuro,9,12.700576,4.63117432,No,Hombre,No fuma,Casada,Blanca
+39,31,Madre joven,38,No prematuro,14,19.958047999999998,3.02092272,No,Mujer,No fuma,Casada,Blanca
+24,22,Madre joven,41,No prematuro,13,4.9895119999999995,3.6060564,No,Hombre,No fuma,Casada,Blanca
+39,25,Madre joven,39,No prematuro,10,19.050864,3.75574176,No,Hombre,No fuma,Casada,Blanca
+29,33,Madre joven,39,No prematuro,5,8.618248,3.3021497600000003,No,Hombre,No fuma,No casada,Blanca
+33,29,Madre joven,41,No prematuro,8,18.597272,3.061746,No,Hombre,No fuma,Casada,Blanca
+33,28,Madre joven,41,No prematuro,14,10.432616,3.34297304,No,Mujer,No fuma,No casada,Blanca
+28,26,Madre joven,37,No prematuro,12,9.979023999999999,3.175144,No,Hombre,No fuma,Casada,Blanca
+25,27,Madre joven,41,No prematuro,16,37.648136,3.9870736799999995,No,Hombre,No fuma,Casada,Blanca
+34,31,Madre joven,40,No prematuro,13,18.14368,3.5833768,No,Hombre,No fuma,Casada,Blanca
+33,25,Madre joven,40,No prematuro,8,8.164656,3.288542,No,Mujer,No fuma,No casada,No blanca
+25,27,Madre joven,41,No prematuro,14,18.597272,3.88728344,No,Mujer,No fuma,Casada,Blanca
+31,32,Madre joven,39,No prematuro,12,10.886208,3.515338,No,Hombre,No fuma,Casada,Blanca
+32,26,Madre joven,41,No prematuro,14,13.607759999999999,3.70584664,No,Hombre,NA,Casada,Blanca
+44,38,Madre madura,39,No prematuro,4,13.154168,3.4881224800000004,No,Mujer,No fuma,Casada,No blanca
+28,31,Madre joven,39,No prematuro,4,0,3.628736,No,Hombre,No fuma,Casada,Blanca
+43,38,Madre madura,38,No prematuro,9,15.87572,3.26132648,No,Hombre,No fuma,Casada,Blanca
+31,31,Madre joven,37,No prematuro,12,13.154168,2.70794424,No,Mujer,No fuma,Casada,No blanca
+45,39,Madre madura,39,No prematuro,15,16.329312,4.05511248,No,Mujer,No fuma,Casada,Blanca
+18,18,Madre joven,39,No prematuro,8,17.690088,2.5809384800000004,No,Mujer,No fuma,No casada,No blanca
+20,23,Madre joven,40,No prematuro,12,7.257472,3.45183512,No,Mujer,No fuma,No casada,Blanca
+21,21,Madre joven,40,No prematuro,NA,NA,3.02999456,No,Mujer,No fuma,No casada,No blanca
+NA,20,Madre joven,37,No prematuro,9,12.700576,3.32482936,No,Hombre,No fuma,No casada,Blanca
+30,34,Madre joven,39,No prematuro,12,18.597272,3.8464601600000004,No,Hombre,No fuma,Casada,Blanca
+36,33,Madre joven,40,No prematuro,12,24.040376,3.05721008,No,Hombre,No fuma,No casada,Blanca
+34,28,Madre joven,39,No prematuro,8,12.246984,3.43822736,No,Mujer,Fuma,Casada,Blanca
+25,27,Madre joven,38,No prematuro,11,10.886208,4.082328,No,Hombre,Fuma,No casada,Blanca
+NA,16,Madre joven,39,No prematuro,8,19.504456,3.05721008,No,Mujer,No fuma,No casada,Blanca
+NA,22,Madre joven,35,Prematuro,8,2.26796,2.041164,Sí,Hombre,No fuma,No casada,Blanca
+33,28,Madre joven,37,No prematuro,8,13.607759999999999,3.08896152,No,Mujer,No fuma,Casada,Blanca
+44,35,Madre madura,41,No prematuro,12,11.3398,3.9462504,No,Hombre,No fuma,Casada,No blanca
+30,33,Madre joven,40,No prematuro,12,15.422128,3.061746,No,Hombre,No fuma,No casada,No blanca
+27,25,Madre joven,25,Prematuro,4,2.721552,0.9661509599999999,Sí,Hombre,No fuma,Casada,No blanca
+35,32,Madre joven,41,No prematuro,15,23.133192,3.46090696,No,Hombre,No fuma,Casada,Blanca
+29,26,Madre joven,39,No prematuro,3,13.154168,3.76934952,No,Mujer,No fuma,No casada,Blanca
+20,20,Madre joven,39,No prematuro,10,14.514944,3.19328768,No,Mujer,No fuma,No casada,Blanca
+31,29,Madre joven,39,No prematuro,13,22.6796,3.3565808,No,Mujer,No fuma,No casada,Blanca
+49,40,Madre madura,39,No prematuro,12,13.607759999999999,2.98009944,No,Mujer,No fuma,Casada,No blanca
+42,31,Madre joven,39,No prematuro,5,34.926584,3.58791272,No,Hombre,No fuma,Casada,No blanca
+29,21,Madre joven,36,Prematuro,10,12.700576,2.79866264,No,Mujer,No fuma,No casada,Blanca
+25,27,Madre joven,35,Prematuro,NA,2.721552,2.99824312,No,Hombre,Fuma,No casada,No blanca
+NA,31,Madre joven,39,No prematuro,9,9.07184,3.14792848,No,Hombre,No fuma,No casada,Blanca
+19,16,Madre joven,36,Prematuro,8,22.226008,2.89391696,No,Hombre,No fuma,Casada,Blanca
+33,29,Madre joven,34,Prematuro,NA,24.94756,3.88274752,No,Hombre,No fuma,Casada,Blanca
+39,33,Madre joven,40,No prematuro,9,13.607759999999999,3.6831670399999994,No,Hombre,No fuma,Casada,Blanca
+27,30,Madre joven,46,No prematuro,0,10.432616,3.00277904,No,Mujer,No fuma,Casada,Blanca
+30,34,Madre joven,39,No prematuro,10,8.618248,3.061746,No,Mujer,No fuma,Casada,Blanca
+41,35,Madre madura,38,No prematuro,14,6.8038799999999995,2.4947559999999998,No,Mujer,No fuma,Casada,Blanca
+33,33,Madre joven,35,Prematuro,NA,14.514944,2.24074448,Sí,Mujer,Fuma,Casada,No blanca
+26,25,Madre joven,39,No prematuro,12,5.443104,3.061746,No,Hombre,No fuma,Casada,Blanca
+32,37,Madre madura,37,No prematuro,10,5.896696,2.9392761600000004,No,Mujer,No fuma,No casada,Blanca
+NA,40,Madre madura,39,No prematuro,0,4.53592,3.061746,No,Hombre,Fuma,No casada,Blanca
+33,31,Madre joven,37,No prematuro,10,24.040376,2.63536952,No,Mujer,No fuma,Casada,Blanca
+33,29,Madre joven,41,No prematuro,17,16.329312,3.76934952,No,Hombre,No fuma,Casada,Blanca
+38,38,Madre madura,40,No prematuro,12,14.061352,3.7965650399999995,No,Mujer,No fuma,Casada,Blanca
+43,33,Madre joven,40,No prematuro,15,18.14368,3.14792848,No,Mujer,No fuma,No casada,No blanca
+20,20,Madre joven,41,No prematuro,19,13.607759999999999,3.67863112,No,Hombre,No fuma,No casada,Blanca
+34,26,Madre joven,39,No prematuro,7,21.318824,3.60152048,No,Hombre,No fuma,Casada,Blanca
+38,34,Madre joven,42,No prematuro,10,13.154168,3.12071296,No,Hombre,No fuma,Casada,No blanca
+39,30,Madre joven,40,No prematuro,13,20.865232,3.54255352,No,Mujer,No fuma,Casada,Blanca
+33,19,Madre joven,38,No prematuro,12,24.040376,3.628736,No,Mujer,Fuma,No casada,Blanca
+NA,18,Madre joven,39,No prematuro,12,0,2.83495,No,Mujer,No fuma,No casada,Blanca
+NA,33,Madre joven,40,No prematuro,10,NA,3.76934952,No,Mujer,No fuma,No casada,No blanca
+32,26,Madre joven,38,No prematuro,10,15.87572,2.9211324800000003,No,Hombre,No fuma,Casada,No blanca
+26,24,Madre joven,39,No prematuro,14,14.061352,3.89635528,No,Hombre,No fuma,Casada,Blanca
+33,30,Madre joven,41,No prematuro,13,8.618248,2.80773448,No,Hombre,No fuma,No casada,No blanca
+26,37,Madre madura,39,No prematuro,13,17.236496,3.76934952,No,Mujer,No fuma,Casada,Blanca
+38,33,Madre joven,41,No prematuro,11,8.164656,3.7149184799999997,No,Hombre,No fuma,No casada,Blanca
+39,35,Madre madura,41,No prematuro,9,9.525432,3.3747244800000002,No,Mujer,No fuma,Casada,Blanca
+NA,37,Madre madura,41,No prematuro,NA,16.782904,2.07291544,Sí,Mujer,Fuma,No casada,Blanca
+29,26,Madre joven,41,No prematuro,13,27.215519999999998,3.09349744,No,Mujer,No fuma,Casada,Blanca
+28,23,Madre joven,39,No prematuro,17,10.886208,3.288542,No,Hombre,No fuma,No casada,Blanca
+29,23,Madre joven,37,No prematuro,8,6.8038799999999995,3.4019399999999997,No,Mujer,No fuma,Casada,Blanca
+25,28,Madre joven,42,No prematuro,NA,13.607759999999999,3.34297304,No,Hombre,No fuma,Casada,Blanca
+26,27,Madre joven,42,No prematuro,12,11.793392,3.2341109599999998,No,Mujer,No fuma,Casada,Blanca
+45,34,Madre joven,35,Prematuro,9,9.979023999999999,1.927766,Sí,Mujer,No fuma,Casada,Blanca
+NA,27,Madre joven,40,No prematuro,12,15.87572,3.3747244800000002,No,Hombre,No fuma,No casada,Blanca
+34,33,Madre joven,40,No prematuro,12,13.607759999999999,3.60152048,No,Hombre,No fuma,Casada,No blanca
+26,27,Madre joven,39,No prematuro,0,28.576296,3.38379632,No,Mujer,No fuma,Casada,Blanca
+25,27,Madre joven,43,No prematuro,12,12.246984,3.73759808,No,Hombre,No fuma,Casada,Blanca
+21,19,Madre joven,39,No prematuro,10,11.793392,3.2341109599999998,No,Hombre,Fuma,No casada,Blanca
+24,20,Madre joven,41,No prematuro,NA,15.422128,3.56976904,No,Hombre,No fuma,No casada,Blanca
+20,23,Madre joven,44,No prematuro,17,3.175144,2.9755635199999997,No,Mujer,No fuma,Casada,Blanca
+34,34,Madre joven,40,No prematuro,12,10.432616,2.5219715199999997,No,Mujer,No fuma,No casada,No blanca
+27,27,Madre joven,42,No prematuro,1,44.452016,3.515338,No,Mujer,No fuma,Casada,No blanca
+34,26,Madre joven,42,No prematuro,9,12.700576,3.26132648,No,Mujer,No fuma,Casada,No blanca
+41,40,Madre madura,40,No prematuro,10,11.3398,3.2794701600000002,No,Mujer,No fuma,Casada,No blanca
+42,33,Madre joven,37,No prematuro,7,5.443104,2.608154,No,Hombre,No fuma,No casada,Blanca
+34,29,Madre joven,40,No prematuro,15,11.3398,3.35204488,No,Hombre,Fuma,No casada,Blanca
+39,41,Madre madura,34,Prematuro,11,12.700576,3.4291555199999997,No,Mujer,No fuma,Casada,No blanca
+23,23,Madre joven,42,No prematuro,14,17.236496,3.76934952,No,Hombre,No fuma,Casada,Blanca
+34,33,Madre joven,42,No prematuro,15,18.14368,4.3408754400000005,No,Mujer,No fuma,Casada,Blanca
+35,27,Madre joven,39,No prematuro,8,11.3398,3.3293652799999998,No,Mujer,No fuma,Casada,Blanca
+32,29,Madre joven,40,No prematuro,12,9.525432,3.20235952,No,Hombre,No fuma,Casada,Blanca
+25,20,Madre joven,40,No prematuro,10,19.958047999999998,3.96893,No,Hombre,No fuma,Casada,Blanca
+32,22,Madre joven,39,No prematuro,14,15.422128,4.07779208,No,Hombre,No fuma,Casada,Blanca
+34,35,Madre madura,37,No prematuro,15,12.246984,3.34297304,No,Hombre,No fuma,No casada,Blanca
+21,18,Madre joven,40,No prematuro,10,20.41164,3.60152048,No,Hombre,No fuma,No casada,No blanca
+42,26,Madre joven,39,No prematuro,11,15.87572,3.56976904,No,Hombre,No fuma,Casada,Blanca
+34,28,Madre joven,39,No prematuro,10,8.164656,3.515338,No,Hombre,No fuma,Casada,Blanca
+34,31,Madre joven,40,No prematuro,16,11.3398,4.72642864,No,Hombre,No fuma,Casada,Blanca
+34,30,Madre joven,40,No prematuro,16,4.082328,3.47451472,No,Hombre,No fuma,Casada,Blanca
+26,24,Madre joven,38,No prematuro,10,15.87572,3.27493424,No,Mujer,No fuma,Casada,Blanca
+36,34,Madre joven,38,No prematuro,10,12.700576,3.4881224800000004,No,Mujer,No fuma,Casada,Blanca
+NA,20,Madre joven,39,No prematuro,9,7.711064,2.9755635199999997,No,Mujer,No fuma,No casada,Blanca
+44,41,Madre madura,39,No prematuro,8,17.236496,4.50416856,No,Hombre,No fuma,Casada,Blanca
+33,32,Madre joven,32,Prematuro,13,21.318824,2.89391696,No,Mujer,No fuma,Casada,Blanca
+36,39,Madre madura,38,No prematuro,14,15.87572,4.136759039999999,No,Hombre,No fuma,Casada,Blanca
+24,20,Madre joven,40,No prematuro,10,22.226008,4.4633452799999995,No,Hombre,No fuma,Casada,Blanca
+30,28,Madre joven,37,No prematuro,10,NA,3.7149184799999997,No,Hombre,No fuma,Casada,Blanca
+34,26,Madre joven,39,No prematuro,10,14.968536,2.2906396,Sí,Mujer,Fuma,No casada,Blanca
+26,27,Madre joven,40,No prematuro,15,8.164656,3.82831648,No,Hombre,Fuma,No casada,Blanca
+37,24,Madre joven,43,No prematuro,9,1.814368,3.4291555199999997,No,Hombre,No fuma,No casada,Blanca
+39,26,Madre joven,36,Prematuro,13,31.75144,2.24074448,Sí,Mujer,Fuma,Casada,Blanca
+32,32,Madre joven,39,No prematuro,NA,14.061352,3.26132648,No,Hombre,No fuma,No casada,No blanca
+27,28,Madre joven,39,No prematuro,7,18.14368,3.2341109599999998,No,Hombre,No fuma,Casada,Blanca
+26,28,Madre joven,39,No prematuro,10,12.700576,3.56976904,No,Mujer,No fuma,No casada,Blanca
+26,26,Madre joven,40,No prematuro,14,9.979023999999999,3.2341109599999998,No,Mujer,Fuma,Casada,Blanca
+25,27,Madre joven,40,No prematuro,16,16.782904,3.1116411200000003,No,Hombre,No fuma,Casada,Blanca
+43,38,Madre madura,39,No prematuro,7,22.226008,3.27039832,No,Mujer,No fuma,Casada,No blanca
+34,34,Madre joven,38,No prematuro,9,12.700576,2.69433648,No,Mujer,No fuma,Casada,Blanca
+41,39,Madre madura,39,No prematuro,12,11.793392,3.2341109599999998,No,Hombre,No fuma,No casada,Blanca
+25,26,Madre joven,34,Prematuro,8,22.226008,2.39950168,Sí,Hombre,No fuma,Casada,Blanca
+26,30,Madre joven,39,No prematuro,12,1.814368,3.44276328,No,Mujer,No fuma,No casada,Blanca
+31,29,Madre joven,39,No prematuro,9,6.8038799999999995,3.45637104,No,Mujer,No fuma,Casada,No blanca
+NA,26,Madre joven,37,No prematuro,12,22.6796,2.5401152,No,Mujer,No fuma,No casada,No blanca
+33,21,Madre joven,38,No prematuro,7,16.329312,2.9211324800000003,No,Hombre,No fuma,Casada,Blanca
+28,22,Madre joven,42,No prematuro,7,16.782904,3.4291555199999997,No,Mujer,Fuma,No casada,Blanca
+37,32,Madre joven,40,No prematuro,11,9.07184,4.091399839999999,No,Hombre,No fuma,Casada,Blanca
+43,36,Madre madura,37,No prematuro,15,11.3398,2.69433648,No,Hombre,No fuma,Casada,Blanca
+25,31,Madre joven,34,Prematuro,12,NA,3.7239903200000004,No,Mujer,No fuma,No casada,Blanca
+32,30,Madre joven,39,No prematuro,13,9.979023999999999,2.9755635199999997,No,Mujer,No fuma,Casada,Blanca
+29,22,Madre joven,39,No prematuro,14,9.525432,3.20235952,No,Hombre,No fuma,No casada,Blanca
+28,24,Madre joven,35,Prematuro,12,0,3.17060808,No,Mujer,No fuma,Casada,Blanca
+25,26,Madre joven,38,No prematuro,12,7.711064,2.20899304,Sí,Mujer,No fuma,Casada,Blanca
+27,30,Madre joven,37,No prematuro,15,13.607759999999999,2.74876752,No,Hombre,No fuma,Casada,Blanca
+26,19,Madre joven,41,No prematuro,15,16.782904,3.2341109599999998,No,Hombre,Fuma,No casada,Blanca
+31,33,Madre joven,40,No prematuro,15,18.14368,3.9099630399999996,No,Mujer,NA,Casada,Blanca
+46,38,Madre madura,40,No prematuro,12,16.329312,3.9780018399999997,No,Hombre,NA,Casada,Blanca
+85,29,Madre joven,35,Prematuro,8,21.318824,2.6988724,No,Mujer,Fuma,No casada,Blanca
+34,32,Madre joven,41,No prematuro,NA,13.607759999999999,3.7285262400000003,No,Mujer,Fuma,Casada,Blanca
+28,21,Madre joven,40,No prematuro,12,26.308336,3.43369144,No,Mujer,Fuma,No casada,No blanca
+25,24,Madre joven,39,No prematuro,10,10.886208,3.4881224800000004,No,Mujer,No fuma,Casada,No blanca
+21,19,Madre joven,39,No prematuro,13,22.226008,3.855532,No,Hombre,No fuma,No casada,Blanca
+30,24,Madre joven,40,No prematuro,13,7.711064,3.4019399999999997,No,Mujer,No fuma,No casada,No blanca
+35,32,Madre joven,37,No prematuro,10,4.53592,3.08896152,No,Mujer,No fuma,Casada,Blanca
+34,31,Madre joven,38,No prematuro,18,8.618248,3.36111672,No,Hombre,NA,Casada,Blanca
+41,38,Madre madura,41,No prematuro,20,11.793392,2.83495,No,Hombre,No fuma,Casada,Blanca
+26,24,Madre joven,40,No prematuro,7,11.793392,3.76934952,No,Hombre,Fuma,Casada,Blanca
+28,24,Madre joven,39,No prematuro,9,7.257472,3.2068954400000003,No,Mujer,No fuma,Casada,Blanca
+39,36,Madre madura,39,No prematuro,14,24.94756,3.54255352,No,Hombre,No fuma,Casada,Blanca
+32,36,Madre madura,40,No prematuro,30,4.53592,2.98917128,No,Mujer,No fuma,No casada,Blanca
+30,33,Madre joven,39,No prematuro,10,7.257472,3.2341109599999998,No,Hombre,No fuma,Casada,Blanca
+24,22,Madre joven,39,No prematuro,15,8.164656,3.3747244800000002,No,Mujer,NA,Casada,Blanca
+38,22,Madre joven,43,No prematuro,11,13.607759999999999,3.5652331200000003,No,Mujer,No fuma,No casada,Blanca
+26,26,Madre joven,40,No prematuro,11,15.87572,2.9755635199999997,No,Mujer,No fuma,Casada,Blanca
+36,22,Madre joven,35,Prematuro,NA,2.26796,2.62176176,No,Hombre,Fuma,Casada,No blanca
+22,29,Madre joven,41,No prematuro,15,34.0194,4.136759039999999,No,Hombre,Fuma,No casada,Blanca
+NA,28,Madre joven,38,No prematuro,0,4.53592,2.36775024,Sí,Hombre,Fuma,No casada,Blanca
+38,28,Madre joven,39,No prematuro,12,NA,3.61059232,No,Hombre,No fuma,No casada,Blanca
+34,30,Madre joven,39,No prematuro,15,15.422128,3.288542,No,Mujer,No fuma,Casada,No blanca
+28,21,Madre joven,40,No prematuro,3,9.07184,3.9008912,No,Hombre,No fuma,Casada,No blanca
+33,36,Madre madura,35,Prematuro,15,0,3.01185088,No,Hombre,No fuma,Casada,Blanca
+31,34,Madre joven,33,Prematuro,7,7.257472,1.13398,Sí,Mujer,Fuma,Casada,Blanca
+33,32,Madre joven,39,No prematuro,13,NA,3.2431828,No,Hombre,No fuma,Casada,Blanca
+41,39,Madre madura,35,Prematuro,13,20.41164,2.041164,Sí,Hombre,No fuma,Casada,Blanca
+29,27,Madre joven,37,No prematuro,21,15.422128,3.2205032,No,Mujer,No fuma,No casada,Blanca
+28,22,Madre joven,26,Prematuro,2,36.28736,0.5080230400000001,Sí,Hombre,Fuma,No casada,Blanca
+29,29,Madre joven,40,No prematuro,10,15.87572,3.3747244800000002,No,Mujer,No fuma,Casada,Blanca
+41,33,Madre joven,41,No prematuro,15,11.3398,2.74876752,No,Mujer,No fuma,Casada,No blanca
+45,32,Madre joven,38,No prematuro,7,14.514944,2.36775024,Sí,Hombre,No fuma,Casada,Blanca
+NA,21,Madre joven,38,No prematuro,14,7.711064,2.99824312,No,Hombre,Fuma,No casada,Blanca
+NA,23,Madre joven,39,No prematuro,8,13.154168,2.9937072,No,Mujer,No fuma,No casada,No blanca
+29,24,Madre joven,41,No prematuro,14,14.968536,3.855532,No,Hombre,No fuma,Casada,Blanca
+38,38,Madre madura,39,No prematuro,12,1.360776,3.88274752,No,Hombre,No fuma,Casada,Blanca
+28,22,Madre joven,38,No prematuro,14,15.422128,3.288542,No,Hombre,No fuma,No casada,No blanca
+20,18,Madre joven,40,No prematuro,14,18.14368,3.44276328,No,Mujer,No fuma,No casada,No blanca
+30,29,Madre joven,39,No prematuro,NA,NA,4.3771628,No,Mujer,No fuma,No casada,Blanca
+29,28,Madre joven,41,No prematuro,11,14.061352,3.54255352,No,Mujer,Fuma,No casada,Blanca
+35,36,Madre madura,39,No prematuro,17,8.618248,4.05511248,No,Hombre,No fuma,No casada,Blanca
+29,27,Madre joven,27,Prematuro,1,13.607759999999999,0.82100152,Sí,Mujer,Fuma,No casada,No blanca
+27,20,Madre joven,37,No prematuro,10,14.514944,2.7442316,No,Mujer,No fuma,No casada,No blanca
+31,36,Madre madura,39,No prematuro,13,10.432616,2.5627948000000003,No,Mujer,No fuma,Casada,Blanca
+29,25,Madre joven,42,No prematuro,17,11.3398,3.33843712,No,Mujer,No fuma,Casada,Blanca
+29,26,Madre joven,38,No prematuro,0,6.350288,3.4881224800000004,No,Mujer,No fuma,Casada,Blanca
+20,22,Madre joven,43,No prematuro,10,13.607759999999999,2.35414248,Sí,Mujer,No fuma,Casada,No blanca
+27,28,Madre joven,39,No prematuro,20,20.865232,3.41554776,No,Mujer,No fuma,Casada,Blanca
+21,18,Madre joven,37,No prematuro,10,11.793392,2.77598304,No,Mujer,No fuma,No casada,No blanca
+32,34,Madre joven,41,No prematuro,14,13.607759999999999,3.061746,No,Mujer,No fuma,Casada,Blanca
+32,27,Madre joven,40,No prematuro,7,1.360776,4.082328,No,Hombre,No fuma,Casada,Blanca
+34,33,Madre joven,40,No prematuro,13,11.3398,3.5606972,No,Mujer,No fuma,Casada,Blanca
+24,39,Madre madura,38,No prematuro,10,11.793392,3.22957504,No,Mujer,No fuma,Casada,Blanca
+28,29,Madre joven,38,No prematuro,12,9.979023999999999,3.76934952,No,Hombre,No fuma,No casada,Blanca
+37,35,Madre madura,37,No prematuro,14,17.236496,2.26796,Sí,Mujer,No fuma,Casada,No blanca
+NA,27,Madre joven,40,No prematuro,NA,16.782904,3.1524644,No,Mujer,Fuma,Casada,No blanca
+44,41,Madre madura,38,No prematuro,12,3.175144,3.54708944,No,Mujer,No fuma,Casada,Blanca
+33,28,Madre joven,33,Prematuro,20,13.154168,2.8621655199999996,No,Hombre,No fuma,Casada,Blanca
+NA,20,Madre joven,38,No prematuro,0,6.8038799999999995,3.08896152,No,Hombre,No fuma,No casada,Blanca
+43,41,Madre madura,40,No prematuro,14,14.968536,4.10954352,No,Hombre,No fuma,Casada,No blanca
+22,20,Madre joven,37,No prematuro,14,4.9895119999999995,2.3269269599999998,Sí,Mujer,No fuma,No casada,Blanca
+26,19,Madre joven,35,Prematuro,6,12.700576,2.74876752,No,Hombre,No fuma,Casada,Blanca
+NA,23,Madre joven,46,No prematuro,14,19.504456,2.9211324800000003,No,Hombre,No fuma,No casada,No blanca
+40,28,Madre joven,39,No prematuro,11,13.607759999999999,3.4881224800000004,No,Mujer,No fuma,Casada,Blanca
+43,41,Madre madura,39,No prematuro,13,21.318824,3.3293652799999998,No,Mujer,No fuma,Casada,No blanca
+24,21,Madre joven,36,Prematuro,12,20.41164,2.87123736,No,Hombre,No fuma,No casada,No blanca
+36,30,Madre joven,38,No prematuro,10,12.246984,3.4019399999999997,No,Mujer,No fuma,Casada,Blanca
+27,28,Madre joven,40,No prematuro,13,0.907184,2.5809384800000004,No,Mujer,No fuma,Casada,No blanca
+26,32,Madre joven,39,No prematuro,11,14.514944,3.4291555199999997,No,Mujer,No fuma,Casada,Blanca
+44,44,Madre madura,39,No prematuro,12,15.87572,3.2205032,No,Hombre,NA,Casada,No blanca
+22,19,Madre joven,42,No prematuro,11,44.452016,3.1071052,No,Mujer,No fuma,No casada,Blanca
+28,23,Madre joven,40,No prematuro,7,12.700576,2.83495,No,Mujer,No fuma,Casada,Blanca
+37,39,Madre madura,40,No prematuro,12,18.14368,2.948348,No,Mujer,No fuma,Casada,Blanca
+33,30,Madre joven,40,No prematuro,15,8.618248,3.34297304,No,Mujer,No fuma,Casada,Blanca
+33,26,Madre joven,39,No prematuro,12,24.493968,3.02999456,No,Mujer,No fuma,Casada,Blanca
+23,20,Madre joven,39,No prematuro,12,14.061352,3.8011009600000003,No,Mujer,No fuma,No casada,Blanca
+35,37,Madre madura,41,No prematuro,NA,13.154168,3.5017302399999997,No,Mujer,Fuma,Casada,Blanca
+31,26,Madre joven,37,No prematuro,10,13.607759999999999,2.9755635199999997,No,Hombre,No fuma,Casada,No blanca
+36,39,Madre madura,38,No prematuro,10,15.87572,3.3021497600000003,No,Hombre,No fuma,Casada,Blanca
+22,25,Madre joven,41,No prematuro,15,21.318824,4.141294960000001,No,Hombre,No fuma,Casada,Blanca
+31,30,Madre joven,39,No prematuro,10,27.215519999999998,2.4902200800000003,Sí,Hombre,No fuma,Casada,No blanca
+27,24,Madre joven,42,No prematuro,17,19.504456,3.68770296,No,Hombre,No fuma,No casada,Blanca
+33,26,Madre joven,39,No prematuro,10,9.979023999999999,3.061746,No,Mujer,No fuma,Casada,No blanca
+25,32,Madre joven,41,No prematuro,13,18.597272,3.76934952,No,Mujer,No fuma,No casada,Blanca
+31,35,Madre madura,39,No prematuro,12,16.782904,3.3293652799999998,No,Hombre,No fuma,Casada,Blanca
+35,34,Madre joven,39,No prematuro,20,NA,3.4926584,No,Mujer,No fuma,Casada,Blanca
+25,25,Madre joven,39,No prematuro,11,13.607759999999999,3.288542,No,Hombre,No fuma,No casada,Blanca
+17,19,Madre joven,39,No prematuro,11,13.607759999999999,3.37018856,No,Hombre,No fuma,No casada,No blanca
+26,26,Madre joven,38,No prematuro,NA,13.154168,3.07988968,No,Mujer,Fuma,Casada,Blanca
+NA,28,Madre joven,38,No prematuro,9,13.607759999999999,4.082328,No,Hombre,No fuma,No casada,Blanca
+28,22,Madre joven,38,No prematuro,13,15.422128,2.83495,No,Mujer,No fuma,Casada,Blanca
+33,30,Madre joven,41,No prematuro,NA,15.87572,3.288542,No,Mujer,Fuma,Casada,Blanca
+21,21,Madre joven,39,No prematuro,12,10.432616,3.1297848,No,Hombre,No fuma,No casada,Blanca
+NA,23,Madre joven,32,Prematuro,9,1.814368,2.0139484800000003,Sí,Hombre,Fuma,No casada,Blanca
+26,19,Madre joven,40,No prematuro,6,3.628736,2.74876752,No,Hombre,No fuma,No casada,Blanca
+37,33,Madre joven,39,No prematuro,14,9.07184,3.14792848,No,Hombre,No fuma,Casada,No blanca
+34,27,Madre joven,39,No prematuro,12,21.772416,3.1615362399999998,No,Mujer,No fuma,Casada,No blanca
+37,26,Madre joven,42,No prematuro,10,9.979023999999999,4.281908479999999,No,Hombre,No fuma,Casada,Blanca
+28,27,Madre joven,38,No prematuro,10,12.700576,2.608154,No,Mujer,No fuma,Casada,Blanca
+28,26,Madre joven,37,No prematuro,11,23.586784,3.9462504,No,Hombre,No fuma,Casada,Blanca
+25,24,Madre joven,40,No prematuro,10,37.194544,3.6514156000000004,No,Mujer,No fuma,No casada,Blanca
+20,25,Madre joven,41,No prematuro,10,13.607759999999999,3.175144,No,Mujer,No fuma,No casada,Blanca
+NA,36,Madre madura,36,Prematuro,NA,6.8038799999999995,2.1273464800000004,Sí,Hombre,Fuma,No casada,No blanca
+31,27,Madre joven,40,No prematuro,10,11.793392,3.14792848,No,Mujer,No fuma,Casada,Blanca
+40,40,Madre madura,38,No prematuro,6,9.979023999999999,3.1388566399999998,No,Mujer,No fuma,Casada,Blanca
+32,27,Madre joven,39,No prematuro,13,15.422128,3.26132648,No,Hombre,No fuma,Casada,Blanca
+39,34,Madre joven,39,No prematuro,10,9.07184,3.9961455200000002,No,Mujer,No fuma,Casada,No blanca
+31,30,Madre joven,39,No prematuro,11,8.164656,3.8509960800000003,No,Hombre,No fuma,Casada,Blanca
+15,18,Madre joven,39,No prematuro,4,4.082328,3.34297304,No,Mujer,No fuma,No casada,Blanca
+38,35,Madre madura,40,No prematuro,12,14.514944,3.82831648,No,Mujer,No fuma,Casada,Blanca
+38,35,Madre madura,37,No prematuro,12,13.154168,3.45183512,No,Mujer,No fuma,Casada,No blanca
+NA,28,Madre joven,38,No prematuro,7,13.154168,3.288542,No,Mujer,No fuma,No casada,No blanca
+36,30,Madre joven,35,Prematuro,13,12.700576,2.7442316,No,Mujer,No fuma,Casada,Blanca
+27,29,Madre joven,40,No prematuro,11,8.164656,2.83495,No,Mujer,No fuma,Casada,Blanca
+35,42,Madre madura,39,No prematuro,NA,NA,3.175144,No,Hombre,No fuma,No casada,Blanca
+35,36,Madre madura,41,No prematuro,14,12.246984,3.69223888,No,Mujer,No fuma,Casada,Blanca
+37,31,Madre joven,40,No prematuro,17,19.050864,3.67863112,No,Mujer,No fuma,Casada,Blanca
+NA,23,Madre joven,39,No prematuro,11,11.793392,3.38379632,No,Mujer,No fuma,No casada,Blanca
+44,39,Madre madura,40,No prematuro,NA,18.14368,3.56976904,No,Mujer,No fuma,Casada,Blanca
+34,26,Madre joven,42,No prematuro,14,33.565808,3.55616128,No,Hombre,Fuma,Casada,Blanca
+37,21,Madre joven,40,No prematuro,16,13.154168,3.4881224800000004,No,Mujer,Fuma,Casada,Blanca
+30,30,Madre joven,39,No prematuro,8,14.061352,3.60152048,No,Hombre,No fuma,Casada,Blanca
+25,25,Madre joven,38,No prematuro,10,4.53592,2.70340832,No,Hombre,Fuma,No casada,Blanca
+17,22,Madre joven,29,Prematuro,6,1.814368,2.9438120800000003,No,Mujer,No fuma,No casada,Blanca
+NA,17,Madre joven,39,No prematuro,11,5.443104,2.74876752,No,Hombre,No fuma,No casada,Blanca
+NA,25,Madre joven,39,No prematuro,10,4.9895119999999995,3.14792848,No,Mujer,No fuma,No casada,No blanca
+28,28,Madre joven,40,No prematuro,15,17.236496,3.515338,No,Mujer,No fuma,Casada,No blanca
+37,31,Madre joven,38,No prematuro,11,21.772416,3.9054271199999997,No,Hombre,No fuma,No casada,Blanca
+33,27,Madre joven,40,No prematuro,14,18.597272,3.94171448,No,Hombre,No fuma,Casada,Blanca
+31,33,Madre joven,41,No prematuro,14,7.257472,2.93020432,No,Mujer,No fuma,Casada,Blanca
+30,28,Madre joven,37,No prematuro,3,13.607759999999999,2.81680632,No,Mujer,No fuma,No casada,No blanca
+27,27,Madre joven,36,Prematuro,14,16.782904,4.082328,No,Hombre,No fuma,No casada,No blanca
+29,31,Madre joven,37,No prematuro,15,16.782904,3.34297304,No,Hombre,Fuma,Casada,Blanca
+NA,27,Madre joven,38,No prematuro,7,21.772416,3.67863112,No,Mujer,No fuma,No casada,No blanca
+NA,23,Madre joven,38,No prematuro,13,19.958047999999998,2.9029888,No,Mujer,No fuma,No casada,No blanca
+28,23,Madre joven,40,No prematuro,16,15.87572,3.88274752,No,Mujer,No fuma,No casada,Blanca
+24,21,Madre joven,40,No prematuro,0,NA,3.5380176,No,Mujer,No fuma,No casada,Blanca
+39,33,Madre joven,38,No prematuro,11,11.3398,3.5969845599999997,No,Mujer,No fuma,Casada,Blanca
+25,25,Madre joven,40,No prematuro,13,28.122704,2.73969568,No,Hombre,No fuma,No casada,Blanca
+29,32,Madre joven,38,No prematuro,27,0.453592,3.68770296,No,Hombre,No fuma,Casada,No blanca
+26,23,Madre joven,39,No prematuro,6,4.082328,3.9099630399999996,No,Hombre,No fuma,Casada,Blanca
+26,26,Madre joven,39,No prematuro,12,6.8038799999999995,3.3747244800000002,No,Mujer,No fuma,Casada,Blanca
+28,34,Madre joven,35,Prematuro,5,13.607759999999999,2.54465112,No,Hombre,No fuma,No casada,No blanca
+30,33,Madre joven,41,No prematuro,14,16.782904,2.83495,No,Hombre,No fuma,Casada,No blanca
+28,22,Madre joven,37,No prematuro,13,15.422128,3.2341109599999998,No,Mujer,Fuma,Casada,Blanca
+29,29,Madre joven,40,No prematuro,12,NA,3.3021497600000003,No,Hombre,No fuma,Casada,Blanca
+30,27,Madre joven,40,No prematuro,13,43.09124,3.8011009600000003,No,Hombre,No fuma,No casada,Blanca
+NA,31,Madre joven,40,No prematuro,13,17.236496,3.3747244800000002,No,Hombre,No fuma,No casada,Blanca
+34,31,Madre joven,43,No prematuro,11,15.422128,4.44973752,No,Hombre,No fuma,Casada,Blanca
+NA,21,Madre joven,39,No prematuro,10,21.318824,3.2658624,No,Hombre,No fuma,No casada,Blanca
+32,28,Madre joven,43,No prematuro,NA,11.3398,4.082328,No,Mujer,No fuma,Casada,No blanca
+22,20,Madre joven,38,No prematuro,18,15.87572,2.948348,No,Hombre,No fuma,No casada,Blanca
+30,27,Madre joven,38,No prematuro,17,0,3.3157575199999996,No,Mujer,No fuma,Casada,Blanca
+21,26,Madre joven,41,No prematuro,11,23.133192,3.46090696,No,Hombre,No fuma,Casada,Blanca
+29,29,Madre joven,40,No prematuro,13,15.422128,3.8056368800000002,No,Mujer,No fuma,Casada,No blanca
+42,27,Madre joven,38,No prematuro,9,15.422128,2.86670144,No,Mujer,NA,Casada,No blanca
+NA,20,Madre joven,39,No prematuro,3,14.968536,2.8621655199999996,No,Mujer,Fuma,No casada,Blanca
+30,35,Madre madura,38,No prematuro,11,9.07184,3.35204488,No,Mujer,No fuma,Casada,Blanca
+30,27,Madre joven,39,No prematuro,13,19.050864,3.51080208,No,Hombre,No fuma,Casada,Blanca
+NA,29,Madre joven,21,Prematuro,4,NA,0.340194,Sí,Mujer,Fuma,No casada,No blanca
+34,31,Madre joven,41,No prematuro,12,16.782904,3.4019399999999997,No,Mujer,No fuma,Casada,Blanca
+22,22,Madre joven,40,No prematuro,7,8.164656,2.69433648,No,Hombre,No fuma,No casada,No blanca
+34,33,Madre joven,39,No prematuro,11,16.329312,2.57640256,No,Mujer,No fuma,Casada,No blanca
+27,24,Madre joven,38,No prematuro,10,21.318824,2.5401152,No,Hombre,No fuma,Casada,Blanca
+28,24,Madre joven,37,No prematuro,14,19.050864,3.288542,No,Hombre,No fuma,Casada,Blanca
+28,20,Madre joven,39,No prematuro,10,20.41164,3.6559515200000003,No,Hombre,No fuma,Casada,Blanca
+38,32,Madre joven,39,No prematuro,10,30.390664,3.8691397599999995,No,Hombre,No fuma,No casada,No blanca
+42,33,Madre joven,39,No prematuro,10,6.8038799999999995,3.54255352,No,Mujer,No fuma,Casada,Blanca
+29,27,Madre joven,40,No prematuro,15,14.061352,3.42008368,No,Mujer,No fuma,Casada,Blanca
+24,25,Madre joven,40,No prematuro,18,5.896696,3.288542,No,Hombre,No fuma,Casada,Blanca
+27,27,Madre joven,39,No prematuro,13,13.607759999999999,3.96893,No,Mujer,No fuma,Casada,Blanca
+25,24,Madre joven,39,No prematuro,11,14.514944,3.855532,No,Hombre,No fuma,Casada,Blanca
+NA,23,Madre joven,34,Prematuro,0,9.979023999999999,2.24981632,Sí,Hombre,No fuma,No casada,No blanca
+35,38,Madre madura,39,No prematuro,NA,13.607759999999999,3.7149184799999997,No,Hombre,Fuma,Casada,Blanca
+34,31,Madre joven,41,No prematuro,9,9.07184,3.82831648,No,Hombre,No fuma,Casada,Blanca
+48,40,Madre madura,36,Prematuro,12,19.958047999999998,3.0844256,No,Hombre,No fuma,Casada,Blanca
+41,35,Madre madura,39,No prematuro,13,16.329312,4.47695304,No,Hombre,No fuma,Casada,Blanca
+27,24,Madre joven,38,No prematuro,15,21.772416,3.14792848,No,Mujer,No fuma,Casada,Blanca
+47,36,Madre madura,39,No prematuro,19,6.8038799999999995,3.57884088,No,Mujer,No fuma,Casada,No blanca
+27,26,Madre joven,40,No prematuro,15,15.422128,3.0708178399999997,No,Mujer,No fuma,Casada,Blanca
+30,30,Madre joven,40,No prematuro,7,17.690088,4.136759039999999,No,Hombre,No fuma,No casada,Blanca
+34,31,Madre joven,41,No prematuro,10,15.422128,3.95532224,No,Mujer,NA,Casada,No blanca
+41,41,Madre madura,40,No prematuro,1,9.07184,4.082328,No,Hombre,No fuma,Casada,Blanca
+22,20,Madre joven,23,Prematuro,5,15.87572,1.51046136,Sí,Mujer,No fuma,No casada,No blanca
+NA,21,Madre joven,41,No prematuro,14,17.690088,2.89391696,No,Mujer,No fuma,No casada,No blanca
+25,27,Madre joven,39,No prematuro,9,18.14368,3.4291555199999997,No,Mujer,No fuma,Casada,Blanca
+23,25,Madre joven,41,No prematuro,13,3.175144,3.30668568,No,Hombre,No fuma,No casada,Blanca
+37,34,Madre joven,42,No prematuro,9,18.14368,3.14792848,No,Mujer,No fuma,Casada,Blanca
+32,34,Madre joven,39,No prematuro,8,24.040376,3.74666992,No,Mujer,No fuma,Casada,No blanca
+34,33,Madre joven,40,No prematuro,13,19.050864,3.8011009600000003,No,Hombre,No fuma,Casada,Blanca
+33,21,Madre joven,43,No prematuro,12,6.350288,3.4881224800000004,No,Hombre,No fuma,Casada,Blanca
+29,26,Madre joven,38,No prematuro,10,15.422128,3.1388566399999998,No,Hombre,No fuma,Casada,Blanca
+20,22,Madre joven,38,No prematuro,20,26.761928,3.56976904,No,Mujer,No fuma,No casada,Blanca
+28,30,Madre joven,37,No prematuro,12,14.514944,3.75120584,No,Hombre,No fuma,Casada,Blanca
+21,25,Madre joven,41,No prematuro,9,7.257472,3.8646038399999996,No,Hombre,No fuma,Casada,No blanca
+18,23,Madre joven,36,Prematuro,20,25.401152,3.56976904,No,Hombre,No fuma,No casada,No blanca
+20,20,Madre joven,39,No prematuro,11,22.6796,2.43578904,Sí,Hombre,No fuma,No casada,Blanca
+35,33,Madre joven,37,No prematuro,10,19.050864,2.63536952,No,Mujer,No fuma,Casada,No blanca
+36,34,Madre joven,40,No prematuro,18,10.886208,2.96195576,No,Mujer,No fuma,Casada,Blanca
+44,38,Madre madura,39,No prematuro,16,9.525432,3.00277904,No,Hombre,No fuma,Casada,No blanca
+35,35,Madre madura,40,No prematuro,13,19.050864,4.082328,No,Mujer,No fuma,Casada,Blanca
+22,22,Madre joven,36,Prematuro,20,31.75144,2.5809384800000004,No,Mujer,No fuma,Casada,Blanca
+NA,23,Madre joven,23,Prematuro,0,4.9895119999999995,0.53977448,Sí,Mujer,No fuma,No casada,Blanca
+31,24,Madre joven,39,No prematuro,6,6.350288,3.25679056,No,Hombre,NA,No casada,No blanca
+27,32,Madre joven,36,Prematuro,9,12.700576,3.14792848,No,Hombre,NA,Casada,No blanca
+42,35,Madre madura,39,No prematuro,11,12.246984,3.60152048,No,Mujer,No fuma,Casada,Blanca
+36,38,Madre madura,35,Prematuro,10,9.07184,4.0278969600000005,No,Hombre,No fuma,Casada,Blanca
+NA,17,Madre joven,38,No prematuro,10,7.711064,3.96893,No,Mujer,No fuma,No casada,No blanca
+24,20,Madre joven,39,No prematuro,12,17.690088,3.27493424,No,Hombre,No fuma,No casada,No blanca
+21,24,Madre joven,39,No prematuro,9,26.308336,3.8373883200000005,No,Hombre,No fuma,No casada,Blanca
+31,33,Madre joven,38,No prematuro,20,4.082328,3.4971943199999997,No,Mujer,No fuma,Casada,Blanca
+35,33,Madre joven,33,Prematuro,10,8.164656,2.10013096,Sí,Mujer,No fuma,Casada,Blanca
+41,38,Madre madura,44,No prematuro,20,7.257472,4.309124,No,Mujer,No fuma,No casada,Blanca
+26,28,Madre joven,37,No prematuro,16,2.26796,2.84402184,No,Hombre,No fuma,Casada,Blanca
+28,28,Madre joven,40,No prematuro,NA,11.3398,3.46090696,No,Hombre,Fuma,Casada,Blanca
+33,30,Madre joven,38,No prematuro,10,11.793392,3.12071296,No,Mujer,No fuma,Casada,Blanca
+36,21,Madre joven,40,No prematuro,20,19.958047999999998,3.7103825599999998,No,Hombre,No fuma,No casada,Blanca
+NA,16,Madre joven,43,No prematuro,12,12.700576,2.7533034400000003,No,Mujer,No fuma,No casada,Blanca
+38,32,Madre joven,39,No prematuro,20,18.14368,3.7149184799999997,No,Hombre,No fuma,Casada,Blanca
+22,28,Madre joven,41,No prematuro,11,28.576296,4.00068144,No,Mujer,No fuma,No casada,Blanca
+NA,32,Madre joven,37,No prematuro,16,NA,3.07988968,No,Mujer,No fuma,No casada,Blanca
+25,18,Madre joven,39,No prematuro,12,14.061352,3.26132648,No,Mujer,No fuma,No casada,Blanca
+NA,22,Madre joven,33,Prematuro,4,0.907184,2.91206064,No,Hombre,No fuma,No casada,Blanca
+34,30,Madre joven,39,No prematuro,17,8.164656,3.12524888,No,Hombre,No fuma,Casada,Blanca
+22,21,Madre joven,39,No prematuro,8,NA,4.18665416,No,Mujer,No fuma,No casada,Blanca
+30,30,Madre joven,38,No prematuro,8,0.907184,2.75783936,No,Hombre,No fuma,Casada,No blanca
+23,23,Madre joven,38,No prematuro,12,24.94756,3.33843712,No,Hombre,No fuma,Casada,Blanca
+31,30,Madre joven,39,No prematuro,14,17.690088,3.7874931999999997,No,Hombre,No fuma,Casada,Blanca
+39,27,Madre joven,37,No prematuro,10,16.329312,3.3112216,No,Mujer,No fuma,No casada,No blanca
+20,19,Madre joven,39,No prematuro,12,24.040376,4.023361039999999,No,Mujer,No fuma,No casada,No blanca
+35,30,Madre joven,34,Prematuro,8,24.040376,1.9867329599999999,Sí,Mujer,No fuma,Casada,Blanca
+32,22,Madre joven,36,Prematuro,6,6.350288,2.4085735199999996,Sí,Hombre,No fuma,No casada,Blanca
+26,30,Madre joven,35,Prematuro,NA,16.782904,2.77144712,No,Hombre,Fuma,No casada,No blanca
+30,27,Madre joven,34,Prematuro,10,10.432616,2.66712096,No,Hombre,No fuma,Casada,Blanca
+30,32,Madre joven,41,No prematuro,14,12.700576,2.63536952,No,Mujer,No fuma,No casada,Blanca
+28,29,Madre joven,41,No prematuro,15,20.41164,3.4291555199999997,No,Mujer,No fuma,Casada,Blanca
+NA,17,Madre joven,38,No prematuro,11,3.628736,3.21596728,No,Hombre,No fuma,No casada,Blanca
+NA,31,Madre joven,38,No prematuro,20,9.979023999999999,3.76934952,No,Hombre,Fuma,No casada,Blanca
+25,30,Madre joven,41,No prematuro,18,3.628736,3.25679056,No,Hombre,No fuma,No casada,Blanca
+40,33,Madre joven,36,Prematuro,15,17.236496,2.48114824,Sí,Mujer,Fuma,No casada,No blanca
+42,32,Madre joven,39,No prematuro,5,14.968536,3.1297848,No,Mujer,Fuma,No casada,Blanca
+20,19,Madre joven,41,No prematuro,9,4.53592,2.82134224,No,Hombre,No fuma,No casada,Blanca
+NA,19,Madre joven,39,No prematuro,10,11.3398,3.1433925599999997,No,Mujer,No fuma,No casada,No blanca
+35,26,Madre joven,36,Prematuro,12,13.607759999999999,2.5900103199999998,No,Hombre,No fuma,Casada,Blanca
+25,25,Madre joven,40,No prematuro,10,6.350288,3.3747244800000002,No,Hombre,No fuma,No casada,No blanca
+NA,27,Madre joven,39,No prematuro,16,4.53592,3.02545864,No,Mujer,No fuma,Casada,Blanca
+NA,21,Madre joven,39,No prematuro,12,11.793392,3.00277904,No,Mujer,No fuma,Casada,Blanca
+33,37,Madre madura,37,No prematuro,12,26.761928,4.29098032,No,Hombre,No fuma,Casada,Blanca
+38,40,Madre madura,35,Prematuro,6,7.711064,2.26796,Sí,Mujer,Fuma,No casada,Blanca
+27,25,Madre joven,39,No prematuro,8,11.3398,3.14792848,No,Mujer,No fuma,No casada,Blanca
+36,36,Madre madura,39,No prematuro,6,14.968536,3.08896152,No,Hombre,No fuma,Casada,Blanca
+21,20,Madre joven,38,No prematuro,7,19.958047999999998,3.22503912,No,Mujer,No fuma,No casada,Blanca
+20,24,Madre joven,40,No prematuro,13,14.968536,3.94171448,No,Hombre,No fuma,Casada,Blanca
+21,25,Madre joven,39,No prematuro,10,15.87572,3.0662819199999998,No,Mujer,No fuma,No casada,No blanca
+43,38,Madre madura,38,No prematuro,8,19.958047999999998,3.95532224,No,Hombre,No fuma,Casada,Blanca
+36,36,Madre madura,35,Prematuro,NA,20.865232,2.8621655199999996,No,Hombre,No fuma,Casada,Blanca
+28,29,Madre joven,40,No prematuro,4,14.514944,3.6559515200000003,No,Hombre,No fuma,Casada,Blanca
+30,30,Madre joven,39,No prematuro,15,11.3398,3.4019399999999997,No,Hombre,No fuma,Casada,Blanca
+31,29,Madre joven,28,Prematuro,1,NA,0.93439952,Sí,Mujer,NA,No casada,No blanca
+31,30,Madre joven,39,No prematuro,NA,16.329312,3.60152048,No,Hombre,Fuma,Casada,Blanca
+29,28,Madre joven,40,No prematuro,14,10.432616,3.4019399999999997,No,Mujer,No fuma,Casada,Blanca
+44,33,Madre joven,37,No prematuro,20,18.597272,3.5244098399999997,No,Hombre,No fuma,Casada,Blanca
+30,33,Madre joven,39,No prematuro,16,14.514944,4.23201336,No,Mujer,No fuma,Casada,Blanca
+NA,40,Madre madura,32,Prematuro,0,9.07184,0.83007336,Sí,Mujer,No fuma,No casada,No blanca
+30,34,Madre joven,40,No prematuro,NA,7.711064,3.4110118399999996,No,Hombre,Fuma,Casada,Blanca
+24,21,Madre joven,41,No prematuro,10,9.979023999999999,3.5198739199999998,No,Hombre,No fuma,Casada,No blanca
+32,29,Madre joven,40,No prematuro,15,13.607759999999999,3.00277904,No,Mujer,No fuma,Casada,Blanca
+34,30,Madre joven,41,No prematuro,14,NA,3.0345304800000004,No,Mujer,No fuma,Casada,Blanca
+NA,25,Madre joven,39,No prematuro,15,9.07184,3.2794701600000002,No,Mujer,No fuma,No casada,Blanca
+28,26,Madre joven,40,No prematuro,NA,19.504456,3.46090696,No,Mujer,No fuma,Casada,Blanca
+30,25,Madre joven,38,No prematuro,10,4.9895119999999995,2.77598304,No,Hombre,No fuma,No casada,Blanca
+20,21,Madre joven,39,No prematuro,19,15.87572,3.855532,No,Hombre,No fuma,No casada,Blanca
+27,27,Madre joven,40,No prematuro,10,4.9895119999999995,3.8736756799999994,No,Hombre,No fuma,No casada,No blanca
+39,31,Madre joven,40,No prematuro,6,11.3398,2.9256684,No,Mujer,No fuma,Casada,Blanca
+23,30,Madre joven,41,No prematuro,10,9.07184,2.948348,No,Hombre,Fuma,No casada,Blanca
+21,20,Madre joven,40,No prematuro,10,11.3398,2.63990544,No,Mujer,No fuma,No casada,Blanca
+23,30,Madre joven,37,No prematuro,13,22.226008,3.12071296,No,Mujer,Fuma,No casada,Blanca
+26,24,Madre joven,40,No prematuro,15,NA,3.02092272,No,Mujer,No fuma,Casada,No blanca
+20,21,Madre joven,43,No prematuro,13,27.215519999999998,3.7965650399999995,No,Hombre,No fuma,No casada,No blanca
+NA,24,Madre joven,41,No prematuro,12,20.41164,3.515338,No,Hombre,No fuma,No casada,No blanca
+31,37,Madre madura,40,No prematuro,15,16.782904,3.46090696,No,Hombre,No fuma,No casada,Blanca
+30,29,Madre joven,39,No prematuro,12,13.607759999999999,3.54255352,No,Hombre,No fuma,Casada,Blanca
+37,35,Madre madura,37,No prematuro,8,10.886208,2.88938104,No,Mujer,No fuma,Casada,No blanca
+NA,20,Madre joven,42,No prematuro,13,7.711064,2.9211324800000003,No,Mujer,No fuma,No casada,Blanca
+NA,23,Madre joven,40,No prematuro,NA,24.94756,3.53348168,No,Hombre,Fuma,No casada,No blanca
+29,28,Madre joven,38,No prematuro,11,12.700576,3.4291555199999997,No,Hombre,No fuma,Casada,No blanca
+36,34,Madre joven,38,No prematuro,10,15.422128,4.082328,No,Hombre,No fuma,Casada,Blanca
+33,32,Madre joven,38,No prematuro,NA,NA,2.80773448,No,Mujer,No fuma,Casada,Blanca
+38,35,Madre madura,40,No prematuro,NA,13.607759999999999,3.56976904,No,Hombre,Fuma,Casada,Blanca
+29,29,Madre joven,36,Prematuro,11,10.886208,2.4040376,Sí,Mujer,No fuma,Casada,Blanca
+18,18,Madre joven,40,No prematuro,7,24.493968,3.96893,No,Mujer,No fuma,No casada,Blanca
+NA,26,Madre joven,40,No prematuro,5,0,3.6559515200000003,No,Mujer,No fuma,No casada,No blanca
+32,27,Madre joven,41,No prematuro,13,14.061352,3.11617704,No,Hombre,No fuma,No casada,Blanca
+NA,28,Madre joven,42,No prematuro,11,16.329312,2.7850548799999997,No,Mujer,NA,No casada,No blanca
+27,29,Madre joven,38,No prematuro,14,13.154168,3.26132648,No,Mujer,No fuma,Casada,Blanca
+21,24,Madre joven,39,No prematuro,13,14.514944,3.55616128,No,Mujer,No fuma,No casada,Blanca
+39,35,Madre madura,40,No prematuro,11,22.6796,4.27737256,No,Mujer,No fuma,No casada,No blanca
+35,29,Madre joven,39,No prematuro,10,12.246984,3.54255352,No,Mujer,No fuma,Casada,Blanca
+37,35,Madre madura,35,Prematuro,20,20.41164,2.28156776,Sí,Hombre,No fuma,Casada,Blanca
+39,37,Madre madura,39,No prematuro,4,8.164656,2.83948592,No,Mujer,No fuma,Casada,Blanca
+35,33,Madre joven,36,Prematuro,10,24.493968,3.9008912,No,Hombre,No fuma,Casada,Blanca
+NA,27,Madre joven,38,No prematuro,5,13.607759999999999,3.07988968,No,Hombre,No fuma,No casada,Blanca
+30,35,Madre madura,37,No prematuro,10,21.772416,3.4881224800000004,No,Mujer,No fuma,Casada,Blanca
+23,18,Madre joven,42,No prematuro,6,NA,3.00277904,No,Mujer,No fuma,No casada,Blanca
+27,25,Madre joven,38,No prematuro,10,12.700576,3.02545864,No,Hombre,Fuma,No casada,Blanca
+NA,29,Madre joven,39,No prematuro,12,6.8038799999999995,3.3157575199999996,No,Hombre,No fuma,No casada,No blanca
+34,32,Madre joven,40,No prematuro,14,12.246984,3.515338,No,Mujer,No fuma,Casada,Blanca
+29,27,Madre joven,39,No prematuro,10,12.700576,3.3747244800000002,No,Hombre,No fuma,No casada,Blanca
+30,30,Madre joven,40,No prematuro,9,22.6796,4.59488696,No,Hombre,No fuma,Casada,Blanca
+20,22,Madre joven,41,No prematuro,18,30.390664,4.549527759999999,No,Hombre,No fuma,No casada,Blanca
+24,38,Madre madura,41,No prematuro,3,NA,4.09593576,No,Mujer,No fuma,No casada,Blanca
+24,19,Madre joven,39,No prematuro,11,10.432616,3.1388566399999998,No,Mujer,No fuma,No casada,Blanca
+27,29,Madre joven,33,Prematuro,9,7.711064,2.5945462399999997,No,Hombre,No fuma,Casada,Blanca
+24,27,Madre joven,40,No prematuro,12,14.968536,3.66502336,No,Mujer,No fuma,No casada,Blanca
+22,23,Madre joven,37,No prematuro,13,16.329312,2.71701608,No,Hombre,No fuma,Casada,Blanca
+31,29,Madre joven,41,No prematuro,12,20.41164,3.742134,No,Hombre,No fuma,Casada,Blanca
+30,38,Madre madura,40,No prematuro,14,9.525432,3.45183512,No,Hombre,No fuma,Casada,Blanca
+45,34,Madre joven,38,No prematuro,12,11.793392,2.608154,No,Hombre,No fuma,Casada,Blanca
+34,26,Madre joven,38,No prematuro,12,12.246984,3.35204488,No,Hombre,No fuma,No casada,No blanca
+37,34,Madre joven,41,No prematuro,12,4.9895119999999995,4.07779208,No,Hombre,No fuma,Casada,Blanca
+23,23,Madre joven,39,No prematuro,9,5.896696,2.68072872,No,Mujer,No fuma,Casada,Blanca
+NA,21,Madre joven,38,No prematuro,10,19.050864,3.42008368,No,Mujer,No fuma,No casada,No blanca
+43,32,Madre joven,40,No prematuro,18,NA,3.4019399999999997,No,Hombre,No fuma,No casada,No blanca
+34,29,Madre joven,43,No prematuro,12,4.53592,3.12071296,No,Hombre,No fuma,No casada,Blanca
+44,36,Madre madura,40,No prematuro,13,13.154168,2.948348,No,Mujer,No fuma,Casada,Blanca
+29,29,Madre joven,41,No prematuro,21,19.958047999999998,4.07779208,No,Mujer,No fuma,Casada,Blanca
+42,36,Madre madura,39,No prematuro,10,18.14368,3.742134,No,Hombre,No fuma,Casada,Blanca
+36,32,Madre joven,37,No prematuro,12,9.525432,2.36775024,Sí,Hombre,Fuma,No casada,Blanca
+NA,39,Madre madura,41,No prematuro,NA,NA,2.8621655199999996,No,Mujer,No fuma,No casada,Blanca
+29,30,Madre joven,31,Prematuro,14,23.133192,1.4605662400000001,Sí,Hombre,No fuma,Casada,Blanca
+27,24,Madre joven,39,No prematuro,12,16.782904,3.5969845599999997,No,Mujer,No fuma,Casada,Blanca
+24,22,Madre joven,39,No prematuro,18,13.607759999999999,3.3157575199999996,No,Mujer,No fuma,No casada,Blanca
+33,30,Madre joven,39,No prematuro,12,9.979023999999999,3.35204488,No,Mujer,No fuma,Casada,No blanca
+NA,26,Madre joven,40,No prematuro,9,12.700576,2.41764536,Sí,Mujer,No fuma,No casada,No blanca
+35,31,Madre joven,37,No prematuro,6,18.597272,3.20235952,No,Hombre,Fuma,Casada,No blanca
+NA,20,Madre joven,41,No prematuro,15,11.793392,3.45637104,No,Hombre,No fuma,No casada,Blanca
+39,32,Madre joven,39,No prematuro,6,4.082328,3.4019399999999997,No,Mujer,No fuma,Casada,Blanca
+34,30,Madre joven,44,No prematuro,14,15.422128,3.4971943199999997,No,Mujer,No fuma,Casada,No blanca
+35,31,Madre joven,38,No prematuro,12,14.514944,2.34960656,Sí,Hombre,No fuma,Casada,No blanca
+22,24,Madre joven,41,No prematuro,12,13.607759999999999,3.45183512,No,Mujer,No fuma,No casada,Blanca
+24,22,Madre joven,40,No prematuro,13,14.514944,3.061746,No,Hombre,No fuma,No casada,No blanca
+27,25,Madre joven,39,No prematuro,9,12.700576,3.46090696,No,Mujer,No fuma,Casada,Blanca
+30,29,Madre joven,41,No prematuro,17,21.318824,3.4291555199999997,No,Mujer,No fuma,No casada,Blanca
+28,27,Madre joven,39,No prematuro,10,13.607759999999999,3.1433925599999997,No,Hombre,No fuma,Casada,Blanca
+38,36,Madre madura,34,Prematuro,NA,18.597272,3.67863112,No,Hombre,Fuma,Casada,Blanca
+27,31,Madre joven,39,No prematuro,9,12.246984,3.14792848,No,Mujer,No fuma,Casada,Blanca
+38,23,Madre joven,39,No prematuro,11,24.493968,3.2341109599999998,No,Mujer,No fuma,Casada,Blanca
+37,35,Madre madura,40,No prematuro,13,14.514944,4.59488696,No,Hombre,No fuma,Casada,Blanca
+29,22,Madre joven,40,No prematuro,12,10.432616,3.63327192,No,Hombre,No fuma,No casada,Blanca
+44,27,Madre joven,37,No prematuro,13,25.401152,3.36111672,No,Hombre,No fuma,Casada,Blanca
+21,23,Madre joven,29,Prematuro,6,0,0.9979024000000001,Sí,Hombre,No fuma,Casada,No blanca
+26,24,Madre joven,40,No prematuro,12,21.772416,3.61059232,No,Mujer,No fuma,Casada,Blanca
+28,29,Madre joven,41,No prematuro,14,14.514944,3.32482936,No,Mujer,No fuma,Casada,Blanca
+38,32,Madre joven,39,No prematuro,13,11.3398,2.39950168,Sí,Mujer,No fuma,Casada,Blanca
+33,26,Madre joven,41,No prematuro,10,7.711064,3.061746,No,Mujer,No fuma,Casada,Blanca
+41,34,Madre joven,39,No prematuro,15,13.154168,3.26132648,No,Hombre,No fuma,Casada,Blanca
+29,27,Madre joven,39,No prematuro,15,4.082328,2.4493968,Sí,Hombre,Fuma,No casada,Blanca
+28,28,Madre joven,40,No prematuro,13,17.236496,3.2431828,No,Hombre,No fuma,Casada,Blanca
+38,37,Madre madura,39,No prematuro,NA,20.41164,3.38379632,No,Mujer,Fuma,Casada,Blanca
+NA,17,Madre joven,38,No prematuro,16,18.597272,3.4019399999999997,No,Hombre,No fuma,No casada,Blanca
+NA,19,Madre joven,39,No prematuro,14,29.029888,3.08896152,No,Hombre,No fuma,No casada,No blanca
+31,29,Madre joven,46,No prematuro,19,44.452016,3.0345304800000004,No,Mujer,No fuma,Casada,Blanca
+40,34,Madre joven,39,No prematuro,8,12.246984,3.60152048,No,Mujer,No fuma,No casada,No blanca
+32,31,Madre joven,39,No prematuro,12,16.329312,3.288542,No,Hombre,No fuma,Casada,Blanca
+42,29,Madre joven,38,No prematuro,12,25.854744,3.22957504,No,Hombre,No fuma,Casada,No blanca
+32,34,Madre joven,38,No prematuro,10,9.07184,3.4291555199999997,No,Mujer,No fuma,Casada,Blanca
+30,28,Madre joven,38,No prematuro,10,19.504456,3.742134,No,Hombre,No fuma,Casada,Blanca
+34,30,Madre joven,40,No prematuro,13,11.3398,3.7149184799999997,No,Hombre,No fuma,No casada,Blanca
+34,34,Madre joven,37,No prematuro,11,18.14368,3.46544288,No,Hombre,No fuma,Casada,Blanca
+28,28,Madre joven,39,No prematuro,12,16.782904,4.3408754400000005,No,Hombre,No fuma,Casada,Blanca
+21,22,Madre joven,38,No prematuro,12,14.514944,3.88274752,No,Hombre,No fuma,No casada,Blanca
+30,30,Madre joven,40,No prematuro,12,19.050864,3.76934952,No,Hombre,No fuma,Casada,Blanca
+32,30,Madre joven,37,No prematuro,9,11.3398,2.2906396,Sí,Mujer,No fuma,Casada,No blanca
+39,27,Madre joven,39,No prematuro,10,9.07184,3.061746,No,Hombre,No fuma,Casada,No blanca
+33,30,Madre joven,38,No prematuro,13,27.215519999999998,4.05057656,No,Hombre,No fuma,Casada,Blanca
+21,20,Madre joven,29,Prematuro,18,19.050864,1.87787088,Sí,Mujer,No fuma,No casada,No blanca
+27,31,Madre joven,40,No prematuro,15,19.050864,4.23201336,No,Mujer,No fuma,Casada,Blanca
+32,32,Madre joven,42,No prematuro,12,12.246984,3.3747244800000002,No,Hombre,No fuma,Casada,Blanca
+40,34,Madre joven,38,No prematuro,9,19.050864,4.36809096,No,Mujer,No fuma,Casada,Blanca
+31,29,Madre joven,38,No prematuro,20,8.618248,3.26132648,No,Mujer,No fuma,Casada,Blanca
+31,31,Madre joven,39,No prematuro,11,19.050864,4.26830072,No,Hombre,No fuma,Casada,Blanca
+26,26,Madre joven,40,No prematuro,15,8.618248,3.60152048,No,Mujer,No fuma,Casada,Blanca
+26,36,Madre madura,38,No prematuro,11,17.236496,2.8621655199999996,No,Mujer,No fuma,Casada,Blanca
+33,34,Madre joven,38,No prematuro,12,16.329312,3.288542,No,Mujer,No fuma,Casada,Blanca
+38,36,Madre madura,39,No prematuro,13,13.607759999999999,3.50626616,No,Mujer,No fuma,Casada,No blanca
+22,22,Madre joven,40,No prematuro,12,9.979023999999999,3.2341109599999998,No,Mujer,No fuma,No casada,Blanca
+35,33,Madre joven,40,No prematuro,15,11.3398,3.515338,No,Hombre,No fuma,Casada,Blanca
+43,36,Madre madura,38,No prematuro,1,14.968536,2.87123736,No,Mujer,No fuma,Casada,Blanca
+32,27,Madre joven,39,No prematuro,11,15.87572,3.9961455200000002,No,Hombre,No fuma,Casada,Blanca
+28,34,Madre joven,39,No prematuro,15,10.432616,3.34297304,No,Hombre,No fuma,Casada,Blanca
+40,36,Madre madura,36,Prematuro,9,15.87572,2.9755635199999997,No,Hombre,No fuma,Casada,Blanca
+29,26,Madre joven,41,No prematuro,12,9.07184,3.4881224800000004,No,Mujer,No fuma,No casada,No blanca
+65,36,Madre madura,36,Prematuro,11,4.53592,2.05930768,Sí,Mujer,No fuma,Casada,No blanca
+34,29,Madre joven,39,No prematuro,11,18.14368,3.9961455200000002,No,Hombre,No fuma,Casada,Blanca
+19,19,Madre joven,40,No prematuro,20,20.865232,3.92810672,No,Mujer,No fuma,No casada,Blanca
+30,30,Madre joven,36,Prematuro,18,9.07184,2.29517552,Sí,Mujer,No fuma,Casada,Blanca
+33,34,Madre joven,35,Prematuro,30,23.133192,2.7895908,No,Hombre,No fuma,No casada,Blanca
+26,24,Madre joven,37,No prematuro,8,14.968536,3.26132648,No,Hombre,No fuma,No casada,Blanca
+30,36,Madre madura,41,No prematuro,13,NA,2.9256684,No,Mujer,No fuma,No casada,Blanca
+15,21,Madre joven,34,Prematuro,9,19.504456,1.9595174400000002,Sí,Hombre,Fuma,No casada,No blanca
+35,21,Madre joven,40,No prematuro,20,5.896696,3.46090696,No,Mujer,No fuma,Casada,Blanca
+35,35,Madre madura,39,No prematuro,NA,8.164656,3.68770296,No,Hombre,Fuma,Casada,Blanca
+35,34,Madre joven,40,No prematuro,11,13.154168,2.86670144,No,Mujer,Fuma,No casada,Blanca
+NA,27,Madre joven,40,No prematuro,10,15.87572,3.34297304,No,Hombre,No fuma,No casada,No blanca
+NA,20,Madre joven,40,No prematuro,12,18.14368,3.7149184799999997,No,Hombre,No fuma,Casada,Blanca
+37,26,Madre joven,38,No prematuro,0,0,3.22503912,No,Hombre,No fuma,Casada,No blanca
+29,24,Madre joven,39,No prematuro,10,9.525432,3.54255352,No,Mujer,No fuma,No casada,No blanca
+32,34,Madre joven,39,No prematuro,10,15.87572,3.8011009600000003,No,Mujer,No fuma,Casada,Blanca
+18,14,Madre joven,38,No prematuro,1,9.979023999999999,2.83495,No,Mujer,No fuma,No casada,No blanca
+25,30,Madre joven,39,No prematuro,NA,NA,3.08896152,No,Mujer,No fuma,Casada,No blanca
+29,29,Madre joven,42,No prematuro,6,9.07184,3.54708944,No,Hombre,No fuma,Casada,Blanca
+NA,26,Madre joven,41,No prematuro,13,14.061352,3.742134,No,Hombre,No fuma,No casada,Blanca
+32,32,Madre joven,39,No prematuro,12,17.690088,3.88274752,No,Hombre,No fuma,Casada,Blanca
+32,33,Madre joven,35,Prematuro,10,17.690088,2.66712096,No,Hombre,No fuma,Casada,Blanca
+25,27,Madre joven,39,No prematuro,11,23.133192,3.14792848,No,Mujer,No fuma,No casada,Blanca
+34,30,Madre joven,37,No prematuro,12,15.422128,3.26132648,No,Mujer,No fuma,Casada,Blanca
+39,39,Madre madura,39,No prematuro,12,9.525432,3.6559515200000003,No,Hombre,No fuma,Casada,Blanca
+38,31,Madre joven,37,No prematuro,14,13.607759999999999,3.76934952,No,Hombre,No fuma,No casada,Blanca
+38,33,Madre joven,39,No prematuro,7,5.896696,3.34297304,No,Mujer,Fuma,Casada,Blanca
+35,36,Madre madura,39,No prematuro,12,13.154168,3.8011009600000003,No,Hombre,No fuma,Casada,No blanca
+27,37,Madre madura,39,No prematuro,10,20.865232,3.63780784,No,Hombre,No fuma,No casada,Blanca
+48,34,Madre joven,38,No prematuro,10,7.711064,3.00277904,No,Mujer,No fuma,Casada,Blanca
+22,20,Madre joven,39,No prematuro,12,9.525432,2.9211324800000003,No,Mujer,No fuma,No casada,Blanca
+22,21,Madre joven,27,Prematuro,9,12.700576,2.80773448,No,Hombre,Fuma,No casada,Blanca
+20,21,Madre joven,39,No prematuro,8,14.514944,3.3974040800000003,No,Hombre,No fuma,No casada,Blanca
+26,23,Madre joven,38,No prematuro,10,9.979023999999999,3.175144,No,Hombre,No fuma,Casada,Blanca
+34,29,Madre joven,39,No prematuro,12,9.07184,3.9008912,No,Hombre,No fuma,Casada,Blanca
+33,33,Madre joven,40,No prematuro,11,20.41164,4.073256160000001,No,Mujer,No fuma,Casada,Blanca
+30,31,Madre joven,30,Prematuro,14,12.700576,1.9549815199999998,Sí,Hombre,No fuma,No casada,Blanca
+25,27,Madre joven,40,No prematuro,13,15.422128,3.60152048,No,Mujer,No fuma,No casada,Blanca
+23,20,Madre joven,40,No prematuro,12,23.586784,3.76934952,No,Hombre,No fuma,No casada,Blanca
+36,33,Madre joven,41,No prematuro,12,9.525432,3.08896152,No,Mujer,No fuma,Casada,Blanca
+28,23,Madre joven,38,No prematuro,11,8.164656,3.20235952,No,Mujer,No fuma,No casada,Blanca
+39,27,Madre joven,37,No prematuro,11,16.782904,2.89391696,No,Hombre,No fuma,No casada,Blanca
+43,29,Madre joven,38,No prematuro,14,21.318824,3.56976904,No,Mujer,No fuma,Casada,Blanca
+26,27,Madre joven,40,No prematuro,20,10.886208,3.54255352,No,Mujer,No fuma,Casada,Blanca
+35,38,Madre madura,41,No prematuro,10,9.525432,3.95532224,No,Hombre,No fuma,Casada,Blanca
+32,26,Madre joven,39,No prematuro,7,22.6796,3.61966416,No,Mujer,No fuma,No casada,Blanca
+NA,22,Madre joven,38,No prematuro,3,9.07184,2.91206064,No,Hombre,No fuma,No casada,No blanca
+28,26,Madre joven,38,No prematuro,11,10.886208,3.58791272,No,Mujer,No fuma,Casada,Blanca
+25,28,Madre joven,39,No prematuro,15,2.721552,3.9144989600000004,No,Hombre,No fuma,Casada,Blanca
+29,25,Madre joven,39,No prematuro,11,23.586784,3.515338,No,Hombre,No fuma,Casada,Blanca
+NA,23,Madre joven,41,No prematuro,14,1.360776,3.0708178399999997,No,Hombre,Fuma,No casada,Blanca
+22,19,Madre joven,39,No prematuro,12,NA,2.48114824,Sí,Hombre,Fuma,No casada,Blanca
+43,35,Madre madura,39,No prematuro,13,9.525432,4.72189272,No,Hombre,No fuma,No casada,Blanca
+43,33,Madre joven,39,No prematuro,10,32.205032,3.14792848,No,Mujer,No fuma,Casada,No blanca
+30,26,Madre joven,43,No prematuro,12,17.236496,3.7194543999999996,No,Hombre,No fuma,Casada,Blanca
+31,29,Madre joven,39,No prematuro,7,13.607759999999999,3.6151282399999998,No,Mujer,No fuma,No casada,Blanca
+30,26,Madre joven,39,No prematuro,12,6.350288,2.86670144,No,Mujer,No fuma,Casada,Blanca
+27,23,Madre joven,41,No prematuro,NA,8.164656,3.57884088,No,Hombre,Fuma,Casada,No blanca
+35,30,Madre joven,39,No prematuro,NA,8.164656,2.89845288,No,Mujer,Fuma,Casada,No blanca
+32,23,Madre joven,40,No prematuro,13,24.040376,3.38833224,No,Hombre,Fuma,Casada,Blanca
+21,19,Madre joven,37,No prematuro,3,NA,2.6761928,No,Mujer,No fuma,No casada,Blanca
+37,34,Madre joven,39,No prematuro,20,18.597272,3.4291555199999997,No,Mujer,No fuma,No casada,Blanca
+33,20,Madre joven,38,No prematuro,14,17.236496,3.13432072,No,Mujer,No fuma,No casada,No blanca
+NA,20,Madre joven,41,No prematuro,11,24.94756,4.05511248,No,Hombre,No fuma,No casada,Blanca
+38,34,Madre joven,41,No prematuro,15,14.514944,3.3792604,No,Mujer,No fuma,Casada,Blanca
+NA,21,Madre joven,39,No prematuro,14,8.164656,3.17967992,No,Hombre,No fuma,No casada,Blanca
+NA,28,Madre joven,38,No prematuro,10,0,2.83041408,No,Mujer,No fuma,No casada,No blanca
+NA,25,Madre joven,39,No prematuro,7,5.896696,2.721552,No,Hombre,No fuma,No casada,Blanca
+37,34,Madre joven,40,No prematuro,8,15.87572,3.9190348800000003,No,Mujer,No fuma,Casada,Blanca
+42,31,Madre joven,34,Prematuro,7,21.318824,2.31785512,Sí,Hombre,No fuma,Casada,Blanca
+37,36,Madre madura,40,No prematuro,10,7.257472,4.281908479999999,No,Hombre,No fuma,Casada,Blanca
+31,29,Madre joven,39,No prematuro,9,16.329312,3.288542,No,Hombre,No fuma,Casada,Blanca
+NA,37,Madre madura,41,No prematuro,12,23.133192,3.56976904,No,Hombre,No fuma,No casada,Blanca
+32,33,Madre joven,34,Prematuro,8,31.75144,2.29517552,Sí,Mujer,No fuma,Casada,Blanca
+25,24,Madre joven,37,No prematuro,14,11.3398,3.4291555199999997,No,Mujer,No fuma,No casada,Blanca
+35,31,Madre joven,40,No prematuro,12,18.14368,3.628736,No,Hombre,No fuma,Casada,Blanca
+36,33,Madre joven,40,No prematuro,12,8.618248,3.09803336,No,Hombre,No fuma,Casada,Blanca
+25,31,Madre joven,40,No prematuro,3,13.607759999999999,3.061746,No,Mujer,No fuma,Casada,Blanca
+25,21,Madre joven,41,No prematuro,10,13.154168,3.22503912,No,Hombre,No fuma,No casada,No blanca
+43,37,Madre madura,39,No prematuro,12,4.9895119999999995,3.14792848,No,Mujer,No fuma,Casada,Blanca
+43,38,Madre madura,41,No prematuro,10,16.782904,3.26132648,No,Hombre,No fuma,No casada,Blanca
+36,36,Madre madura,39,No prematuro,14,16.329312,4.2410852,No,Mujer,No fuma,Casada,Blanca
+49,26,Madre joven,40,No prematuro,15,18.597272,3.628736,No,Hombre,No fuma,No casada,No blanca
+38,32,Madre joven,39,No prematuro,6,0,3.5606972,No,Hombre,Fuma,No casada,Blanca
+32,33,Madre joven,38,No prematuro,10,12.246984,3.60152048,No,Hombre,No fuma,Casada,Blanca
+34,35,Madre madura,32,Prematuro,10,11.3398,2.83495,No,Hombre,No fuma,No casada,No blanca
+20,23,Madre joven,38,No prematuro,12,13.154168,2.88938104,No,Hombre,No fuma,Casada,Blanca
+27,26,Madre joven,38,No prematuro,11,29.029888,3.4291555199999997,No,Mujer,No fuma,Casada,Blanca
+29,28,Madre joven,43,No prematuro,12,NA,4.0596483999999995,No,Hombre,No fuma,Casada,Blanca
+21,23,Madre joven,39,No prematuro,11,8.164656,3.2341109599999998,No,Mujer,Fuma,No casada,Blanca
+21,20,Madre joven,40,No prematuro,17,11.3398,3.9099630399999996,No,Hombre,No fuma,No casada,Blanca
+30,34,Madre joven,39,No prematuro,11,13.154168,3.56976904,No,Hombre,No fuma,Casada,Blanca
+25,26,Madre joven,39,No prematuro,14,10.432616,2.70794424,No,Mujer,No fuma,Casada,Blanca
+NA,21,Madre joven,34,Prematuro,6,17.690088,2.29517552,Sí,Hombre,No fuma,No casada,No blanca
+27,23,Madre joven,39,No prematuro,10,8.618248,3.628736,No,Hombre,No fuma,No casada,No blanca
+31,23,Madre joven,37,No prematuro,7,9.979023999999999,3.175144,No,Hombre,Fuma,No casada,Blanca
+26,25,Madre joven,37,No prematuro,4,0.907184,2.5809384800000004,No,Hombre,Fuma,Casada,Blanca
+39,27,Madre joven,38,No prematuro,3,12.700576,2.63536952,No,Mujer,No fuma,No casada,No blanca
+31,27,Madre joven,44,No prematuro,15,14.061352,3.26132648,No,Hombre,No fuma,Casada,Blanca
+17,19,Madre joven,41,No prematuro,10,15.422128,3.26132648,No,Hombre,No fuma,Casada,Blanca
+34,29,Madre joven,40,No prematuro,14,9.07184,4.073256160000001,No,Mujer,No fuma,Casada,Blanca
+NA,22,Madre joven,38,No prematuro,NA,17.690088,3.0345304800000004,No,Hombre,No fuma,No casada,No blanca
+36,37,Madre madura,43,No prematuro,10,17.690088,3.22957504,No,Hombre,No fuma,Casada,No blanca
+27,26,Madre joven,38,No prematuro,8,7.711064,3.56976904,No,Hombre,Fuma,Casada,Blanca
+37,36,Madre madura,39,No prematuro,13,15.422128,3.70131072,No,Mujer,No fuma,Casada,Blanca
+28,29,Madre joven,41,No prematuro,15,18.14368,3.3157575199999996,No,Mujer,No fuma,No casada,Blanca
+34,27,Madre joven,33,Prematuro,5,6.8038799999999995,1.94137376,Sí,Hombre,Fuma,No casada,Blanca
+33,28,Madre joven,39,No prematuro,19,4.9895119999999995,3.3293652799999998,No,Mujer,No fuma,Casada,Blanca
+26,24,Madre joven,40,No prematuro,16,16.329312,3.11617704,No,Mujer,No fuma,Casada,Blanca
+22,22,Madre joven,44,No prematuro,14,12.246984,3.60152048,No,Hombre,No fuma,Casada,Blanca
+32,36,Madre madura,41,No prematuro,12,23.586784,3.9099630399999996,No,Mujer,No fuma,Casada,Blanca
+23,22,Madre joven,39,No prematuro,8,9.07184,3.09349744,No,Mujer,No fuma,No casada,Blanca
+NA,23,Madre joven,36,Prematuro,5,14.968536,3.62420008,No,Mujer,Fuma,No casada,Blanca
+NA,27,Madre joven,39,No prematuro,13,8.164656,3.38379632,No,Mujer,No fuma,No casada,Blanca
+31,32,Madre joven,38,No prematuro,12,3.628736,2.9937072,No,Hombre,Fuma,Casada,Blanca
+20,22,Madre joven,40,No prematuro,10,14.061352,3.52894576,No,Hombre,No fuma,Casada,Blanca
+49,33,Madre joven,40,No prematuro,13,16.329312,3.68770296,No,Hombre,No fuma,Casada,Blanca
+32,34,Madre joven,39,No prematuro,14,12.246984,3.56976904,No,Mujer,No fuma,Casada,Blanca
+32,28,Madre joven,40,No prematuro,12,19.504456,3.10256928,No,Hombre,No fuma,Casada,No blanca
+34,30,Madre joven,41,No prematuro,NA,13.607759999999999,3.05721008,No,Mujer,Fuma,Casada,Blanca
+NA,29,Madre joven,38,No prematuro,9,15.422128,3.3747244800000002,No,Mujer,No fuma,Casada,Blanca
+NA,26,Madre joven,38,No prematuro,14,0,3.54255352,No,Mujer,No fuma,Casada,No blanca
+32,26,Madre joven,40,No prematuro,13,0.453592,2.98009944,No,Mujer,No fuma,Casada,No blanca
+35,28,Madre joven,39,No prematuro,12,NA,2.6535132,No,Hombre,No fuma,Casada,Blanca
+49,38,Madre madura,39,No prematuro,14,0,3.17060808,No,Hombre,No fuma,Casada,Blanca
+34,29,Madre joven,38,No prematuro,8,5.443104,4.16851048,No,Mujer,No fuma,No casada,Blanca
+20,23,Madre joven,38,No prematuro,11,15.87572,2.80773448,No,Hombre,No fuma,No casada,Blanca
+30,32,Madre joven,40,No prematuro,15,14.968536,3.0708178399999997,No,Hombre,No fuma,Casada,Blanca
+43,36,Madre madura,36,Prematuro,25,11.3398,2.948348,No,Hombre,No fuma,Casada,Blanca
+44,39,Madre madura,39,No prematuro,10,14.968536,3.34297304,No,Mujer,No fuma,Casada,Blanca
+28,25,Madre joven,38,No prematuro,12,10.432616,2.608154,No,Mujer,No fuma,Casada,Blanca
+34,29,Madre joven,39,No prematuro,14,7.257472,3.6831670399999994,No,Hombre,Fuma,Casada,Blanca
+30,31,Madre joven,32,Prematuro,11,NA,1.6510748800000001,Sí,Hombre,No fuma,Casada,No blanca
+NA,31,Madre joven,40,No prematuro,6,10.432616,3.51080208,No,Mujer,Fuma,Casada,Blanca
+26,29,Madre joven,40,No prematuro,12,17.236496,3.26132648,No,Hombre,No fuma,Casada,Blanca
+29,28,Madre joven,41,No prematuro,18,12.246984,3.9961455200000002,No,Hombre,No fuma,Casada,Blanca
+32,28,Madre joven,36,Prematuro,12,12.700576,2.66712096,No,Mujer,No fuma,Casada,Blanca
+NA,38,Madre madura,38,No prematuro,13,13.607759999999999,4.0278969600000005,No,Mujer,No fuma,No casada,No blanca
+31,26,Madre joven,39,No prematuro,NA,11.3398,3.288542,No,Mujer,Fuma,Casada,Blanca
+35,38,Madre madura,38,No prematuro,11,2.721552,3.0345304800000004,No,Mujer,No fuma,Casada,Blanca
+32,30,Madre joven,39,No prematuro,12,6.350288,3.09803336,No,Mujer,Fuma,No casada,Blanca
+44,35,Madre madura,33,Prematuro,6,13.154168,2.1772416,Sí,Hombre,NA,Casada,Blanca
+30,27,Madre joven,40,No prematuro,10,13.607759999999999,3.9144989600000004,No,Hombre,Fuma,No casada,No blanca
+36,33,Madre joven,36,Prematuro,16,13.607759999999999,3.82831648,No,Hombre,No fuma,Casada,Blanca
+37,35,Madre madura,38,No prematuro,13,16.329312,2.3269269599999998,Sí,Hombre,No fuma,No casada,Blanca
+48,35,Madre madura,40,No prematuro,6,14.968536,3.6604874400000003,No,Hombre,No fuma,No casada,Blanca
+24,24,Madre joven,40,No prematuro,12,15.87572,2.73515976,No,Hombre,No fuma,No casada,Blanca
+25,29,Madre joven,41,No prematuro,NA,NA,3.45637104,No,Hombre,No fuma,No casada,No blanca
+NA,34,Madre joven,44,No prematuro,4,9.979023999999999,2.11827464,Sí,Mujer,Fuma,No casada,Blanca
+29,23,Madre joven,38,No prematuro,7,7.711064,2.7442316,No,Hombre,Fuma,Casada,Blanca
+21,22,Madre joven,39,No prematuro,11,18.14368,3.3792604,No,Hombre,No fuma,Casada,Blanca
+25,20,Madre joven,42,No prematuro,10,14.968536,3.3157575199999996,No,Hombre,No fuma,No casada,Blanca
+15,18,Madre joven,39,No prematuro,6,14.514944,3.01185088,No,Mujer,No fuma,No casada,Blanca
+25,21,Madre joven,35,Prematuro,10,16.329312,2.53104336,No,Mujer,No fuma,No casada,Blanca
+NA,23,Madre joven,40,No prematuro,3,11.3398,2.66258504,No,Mujer,No fuma,No casada,No blanca
+30,32,Madre joven,39,No prematuro,7,17.236496,3.4019399999999997,No,Mujer,No fuma,No casada,No blanca
+41,29,Madre joven,36,Prematuro,11,20.41164,2.63990544,No,Mujer,No fuma,Casada,Blanca
+NA,20,Madre joven,37,No prematuro,8,16.329312,3.46090696,No,Mujer,No fuma,No casada,Blanca
+28,27,Madre joven,39,No prematuro,12,18.597272,4.082328,No,Hombre,No fuma,No casada,No blanca
+23,17,Madre joven,40,No prematuro,12,17.236496,3.6514156000000004,No,Hombre,Fuma,No casada,Blanca
+38,34,Madre joven,37,No prematuro,8,14.061352,4.14583088,No,Hombre,No fuma,Casada,Blanca
+38,36,Madre madura,39,No prematuro,12,6.8038799999999995,3.7149184799999997,No,Hombre,No fuma,Casada,Blanca
+20,18,Madre joven,39,No prematuro,14,0,3.56976904,No,Hombre,No fuma,No casada,No blanca
+33,34,Madre joven,38,No prematuro,16,15.422128,4.2501570399999995,No,Hombre,No fuma,Casada,Blanca
+36,31,Madre joven,39,No prematuro,15,12.700576,2.89391696,No,Hombre,No fuma,No casada,Blanca
+33,26,Madre joven,38,No prematuro,13,15.422128,3.3339011999999997,No,Mujer,No fuma,Casada,Blanca
+48,32,Madre joven,40,No prematuro,8,3.628736,4.082328,No,Mujer,No fuma,Casada,No blanca
+29,24,Madre joven,32,Prematuro,8,14.968536,1.05686936,Sí,Mujer,No fuma,Casada,Blanca
+28,24,Madre joven,39,No prematuro,NA,9.07184,2.9438120800000003,No,Hombre,NA,No casada,No blanca
+37,31,Madre joven,38,No prematuro,8,14.968536,2.6308336,No,Mujer,No fuma,Casada,Blanca
+27,27,Madre joven,34,Prematuro,7,11.3398,3.061746,No,Mujer,No fuma,Casada,Blanca
+NA,33,Madre joven,42,No prematuro,0,5.896696,3.3747244800000002,No,Hombre,No fuma,No casada,Blanca
+21,17,Madre joven,41,No prematuro,12,18.597272,3.2341109599999998,No,Mujer,No fuma,No casada,Blanca
